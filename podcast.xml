@@ -30,7 +30,7 @@
 
     <!-- Épisode Bonus : L'Eau de Quinton -->
     <item>
-      <title>L'Eau de Quinton : Le Plasma Marin & Ses Secrets (Épisode Bonus)</title>
+      <title>L'Eau de Quinton : Le Plasma Marin &amp; Ses Secrets (Épisode Bonus)</title>
       <description>Découvrez notre épisode bonus exclusif consacré à l'eau de Quinton et au plasma marin, ses usages et sa composition.</description>
       <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-EAU-DE-QUINTON.mp3" length="945216" type="audio/mpeg"/>
       <guid>https://destock-rgb.github.io/podcasts/quinton-bonus</guid>
