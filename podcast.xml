@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mémoire du Futur</title>
+    <link>https://destock-rgb.github.io/podcasts/</link>
+    <language>fr-FR</language>
+    <copyright>© 2026 Mémoire du Futur</copyright>
+    <itunes:author>Mehdi Khelif</itunes:author>
+    <description>Le podcast qui fait dialoguer l'histoire, la science, les pionniers et les idées visionnaires.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Mehdi Khelif</itunes:name>
+      <itunes:email>contact@memoiredufutur.fr</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://destock-rgb.github.io/podcasts/POCHETTE-YOUTUBE-RENE-QUINTON.jpg"/>
+    <itunes:category text="History"/>
+    <itunes:category text="Science"/>
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- Épisode : René Quinton -->
+    <item>
+      <title>René Quinton : L'homme qui découvrit que nous sommes des fragments d'océan (Portrait)</title>
+      <description>Plongez au cœur de la vie extraordinaire de René Quinton, naturaliste, physiologiste et pionnier de l'aviation.</description>
+      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-RENE-QUINTON.mp3" length="3871584" type="audio/mpeg"/>
+      <guid>https://destock-rgb.github.io/podcasts/quinton-portrait</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 GMT</pubDate>
+      <itunes:duration>10:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- Épisode Bonus : L'Eau de Quinton -->
+    <item>
+      <title>L'Eau de Quinton : Le Plasma Marin & Ses Secrets (Épisode Bonus)</title>
+      <description>Découvrez notre épisode bonus exclusif consacré à l'eau de Quinton et au plasma marin, ses usages et sa composition.</description>
+      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-EAU-DE-QUINTON.mp3" length="945216" type="audio/mpeg"/>
+      <guid>https://destock-rgb.github.io/podcasts/quinton-bonus</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>08:30</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+    </item>
+
+    <!-- Épisode : Ignace Semmelweis -->
+    <item>
+      <title>Ignace Semmelweis : Le Sauveteur aux Mains Propres (Les Rebelles de la Science #1)</title>
+      <description>Portrait d'Ignace Semmelweis, le médecin viennois incompris qui a révolutionné l'hygiène et l'antisepsie.</description>
+      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-SEMMELWEIS-PORTRAIT.mp3" length="1026000" type="audio/mpeg"/>
+      <guid>https://destock-rgb.github.io/podcasts/semmelweis-portrait</guid>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 GMT</pubDate>
+      <itunes:duration>10:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- Épisode : Nikola Tesla -->
+    <item>
+      <title>Nikola Tesla : Le Maître de la Foudre (Les Rebelles de la Science #2)</title>
+      <description>Portrait de Nikola Tesla, le génie visionnaire du courant alternatif et de la foudre maîtrisée.</description>
+      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-TESLA-PORTRAIT.mp3" length="1033776" type="audio/mpeg"/>
+      <guid>https://destock-rgb.github.io/podcasts/tesla-portrait</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>10:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- Épisode : Journal des Bonnes Nouvelles -->
+    <item>
+      <title>Le Journal des Bonnes Nouvelles : Édition Grand Format (10+ min)</title>
+      <description>Une édition spéciale d'actualités positives et constructives, rythmée par des reportages de terrain immersive.</description>
+      <enclosure url="https://destock-rgb.github.io/podcasts/JOURNAL-BONNES-NOUVELLES-EP1.mp3" length="3375544" type="audio/mpeg"/>
+      <guid>https://destock-rgb.github.io/podcasts/bonnes-nouvelles-ep1</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>

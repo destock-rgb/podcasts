@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Les Grandes Voix Devant le Présent</title>
+    <link>https://open.spotify.com/show/votre-id</link>
+    <language>fr</language>
+    <copyright>2024 Les Grandes Voix Devant le Présent</copyright>
+    <itunes:subtitle>Les figures de l'Histoire réagissent à notre monde</itunes:subtitle>
+    <itunes:author>Les Grandes Voix Devant le Présent</itunes:author>
+    <itunes:summary>Podcast fictionnel : des figures historiques (De Gaulle, Simone Veil, Jean Jaurès, Mandela, Marie Curie, Pasteur...) interviewées sur les enjeux contemporains. Chaque épisode est une œuvre de fiction pédagogique qui fait dialoguer le passé et le présent.</itunes:summary>
+    <description>Podcast fictionnel : des figures historiques (De Gaulle, Simone Veil, Jean Jaurès, Mandela, Marie Curie, Pasteur...) interviewées sur les enjeux contemporains. Chaque épisode est une œuvre de fiction pédagogique qui fait dialoguer le passé et le présent.</description>
+    <itunes:owner>
+      <itunes:name>Les Grandes Voix Devant le Présent</itunes:name>
+      <itunes:email>contact@grandesvoix.fr</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://187.127.64.150:8080/pochette-generale.jpg"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="History"/>
+    </itunes:category>
+    <itunes:category text="Education"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>no</itunes:explicit>
+    <atom:link href="http://187.127.64.150:8080/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- ÉPISODE 1 : Charles de Gaulle -->
+    <item>
+      <title>Épisode 1 — Charles de Gaulle face à la crise de Gaza</title>
+      <itunes:title>Charles de Gaulle face à la crise de Gaza</itunes:title>
+      <description>Un entretien fictif avec le Général de Gaulle sur le conflit israélo-palestinien et la nécessité de la paix. Œuvre de fiction pédagogique.</description>
+      <itunes:summary>Un entretien fictif avec le Général de Gaulle sur le conflit israélo-palestinien et la nécessité de la paix. Œuvre de fiction pédagogique.</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="http://187.127.64.150:8080/episode-01-de-gaulle-gaza.mp3" length="396956" type="audio/mpeg"/>
+      <guid isPermaLink="false">lgvdp-ep01-de-gaulle-gaza</guid>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:image href="http://187.127.64.150:8080/pochette-01.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- ÉPISODE 2 : Simone Veil -->
+    <item>
+      <title>Épisode 2 — Simone Veil face à la montée de l'extrême droite</title>
+      <itunes:title>Simone Veil face à la montée de l'extrême droite</itunes:title>
+      <description>Un dialogue imaginaire avec Simone Veil sur les dangers du populisme et la défense des droits humains. Œuvre de fiction pédagogique.</description>
+      <itunes:summary>Un dialogue imaginaire avec Simone Veil sur les dangers du populisme et la défense des droits humains. Œuvre de fiction pédagogique.</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="http://187.127.64.150:8080/episode-02-veil-extreme-droite.mp3" length="2060876" type="audio/mpeg"/>
+      <guid isPermaLink="false">lgvdp-ep02-veil-extreme-droite</guid>
+      <pubDate>Tue, 20 Feb 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>343</itunes:duration>
+      <itunes:image href="http://187.127.64.150:8080/pochette-02.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- ÉPISODE 3 : Jean Jaurès -->
+    <item>
+      <title>Épisode 3 — Jean Jaurès face aux inégalités du XXIe siècle</title>
+      <itunes:title>Jean Jaurès face aux inégalités du XXIe siècle</itunes:title>
+      <description>Un échange fictif avec Jean Jaurès sur les inégalités économiques, la justice sociale et le rôle de l'État. Œuvre de fiction pédagogique.</description>
+      <itunes:summary>Un échange fictif avec Jean Jaurès sur les inégalités économiques, la justice sociale et le rôle de l'État. Œuvre de fiction pédagogique.</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="http://187.127.64.150:8080/episode-03-jaures-inegalites.mp3" length="272828" type="audio/mpeg"/>
+      <guid isPermaLink="false">lgvdp-ep03-jaures-inegalites</guid>
+      <pubDate>Sun, 10 Mar 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:image href="http://187.127.64.150:8080/pochette-03.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- ÉPISODE 4 : Nelson Mandela -->
+    <item>
+      <title>Épisode 4 — Nelson Mandela et la réconciliation</title>
+      <itunes:title>Nelson Mandela et la réconciliation</itunes:title>
+      <description>Un entretien imaginaire avec Nelson Mandela sur le pouvoir du pardon et la reconstruction nationale. Œuvre de fiction pédagogique.</description>
+      <itunes:summary>Un entretien imaginaire avec Nelson Mandela sur le pouvoir du pardon et la reconstruction nationale. Œuvre de fiction pédagogique.</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="http://187.127.64.150:8080/episode-04-mandela-reconciliation.mp3" length="1021316" type="audio/mpeg"/>
+      <guid isPermaLink="false">lgvdp-ep04-mandela-reconciliation</guid>
+      <pubDate>Fri, 05 Apr 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>171</itunes:duration>
+      <itunes:image href="http://187.127.64.150:8080/pochette-04.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- ÉPISODE 5 : George Orwell -->
+    <item>
+      <title>Épisode 5 — George Orwell face à la surveillance numérique</title>
+      <itunes:title>George Orwell face à la surveillance numérique</itunes:title>
+      <description>Un dialogue fictif avec George Orwell sur les réseaux sociaux, la surveillance de masse et la liberté d'expression. Œuvre de fiction pédagogique.</description>
+      <itunes:summary>Un dialogue fictif avec George Orwell sur les réseaux sociaux, la surveillance de masse et la liberté d'expression. Œuvre de fiction pédagogique.</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="http://187.127.64.150:8080/episode-05-orwell-sur-veillance.mp3" length="1023476" type="audio/mpeg"/>
+      <guid isPermaLink="false">lgvdp-ep05-orwell-sur-veillance</guid>
+      <pubDate>Sun, 12 May 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>171</itunes:duration>
+      <itunes:image href="http://187.127.64.150:8080/pochette-05.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- ÉPISODE 6 : Victor Hugo -->
+    <item>
+      <title>Épisode 6 — Victor Hugo et la misère du XXIe siècle</title>
+      <itunes:title>Victor Hugo et la misère du XXIe siècle</itunes:title>
+      <description>Un échange imaginaire avec Victor Hugo sur la pauvreté, l'exclusion et la solidarité nationale. Œuvre de fiction pédagogique.</description>
+      <itunes:summary>Un échange imaginaire avec Victor Hugo sur la pauvreté, l'exclusion et la solidarité nationale. Œuvre de fiction pédagogique.</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="http://187.127.64.150:8080/episode-06-hugo-misere.mp3" length="934772" type="audio/mpeg"/>
+      <guid isPermaLink="false">lgvdp-ep06-hugo-misere</guid>
+      <pubDate>Tue, 18 Jun 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>157</itunes:duration>
+      <itunes:image href="http://187.127.64.150:8080/pochette-06.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- ÉPISODE 7 : Martin Luther King -->
+    <item>
+      <title>Épisode 7 — Martin Luther King face au racisme systémique</title>
+      <itunes:title>Martin Luther King face au racisme systémique</itunes:title>
+      <description>Un entretien fictif avec Martin Luther King sur les inégalités raciales persistantes et la lutte pour l'égalité. Œuvre de fiction pédagogique.</description>
+      <itunes:summary>Un entretien fictif avec Martin Luther King sur les inégalités raciales persistantes et la lutte pour l'égalité. Œuvre de fiction pédagogique.</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="http://187.127.64.150:8080/episode-07-mlk-racisme.mp3" length="932324" type="audio/mpeg"/>
+      <guid isPermaLink="false">lgvdp-ep07-mlk-racisme</guid>
+      <pubDate>Thu, 04 Jul 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>156</itunes:duration>
+      <itunes:image href="http://187.127.64.150:8080/pochette-07.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- ÉPISODE 8 : Marie Curie -->
+    <item>
+      <title>Épisode 8 — Marie Curie face au vaccin anti-COVID</title>
+      <itunes:title>Marie Curie face au vaccin anti-COVID</itunes:title>
+      <description>Un dialogue imaginaire avec Marie Curie sur la technologie de l'ARN messager, la vaccination mondiale et l'éthique scientifique. Œuvre de fiction pédagogique.</description>
+      <itunes:summary>Un dialogue imaginaire avec Marie Curie sur la technologie de l'ARN messager, la vaccination mondiale et l'éthique scientifique. Œuvre de fiction pédagogique.</itunes:summary>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="http://187.127.64.150:8080/episode-08-marie-curie-covid.mp3" length="2597276" type="audio/mpeg"/>
+      <guid isPermaLink="false">lgvdp-ep08-marie-curie-covid</guid>
+      <pubDate>Thu, 15 Aug 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>432</itunes:duration>
+      <itunes:image href="http://187.127.64.150:8080/pochette-08.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- ÉPISODE 9 : Louis Pasteur -->
+    <item>
+      <title>Épisode 9 — Louis Pasteur face au COVID-19</title>
+      <itunes:title>Louis Pasteur face au COVID-19</itunes:title>
+      <description>Un entretien fictif avec Louis Pasteur sur la pandémie, les vaccins à ARN messager et la vaccination de masse. Œuvre de fiction pédagogique.</description>
+      <itunes:summary>Un entretien fictif avec Louis Pasteur sur la pandémie, les vaccins à ARN messager et la vaccination de masse. Œuvre de fiction pédagogique.</itunes:summary>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="http://187.127.64.150:8080/episode-09-pasteur-covid.mp3" length="2188748" type="audio/mpeg"/>
+      <guid isPermaLink="false">lgvdp-ep09-pasteur-covid</guid>
+      <pubDate>Fri, 13 Sep 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>364</itunes:duration>
+      <itunes:image href="http://187.127.64.150:8080/pochette-09.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
