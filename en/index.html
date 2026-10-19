@@ -31,17 +31,21 @@
   .dots span:nth-child(3) { animation:dot3 20s infinite; }
   .dots span:nth-child(4) { animation:dot4 20s infinite; }
 
+  .dots span:nth-child(5) { animation:dot5 20s infinite; }
+
   @keyframes defile {
-     0%,20%  { transform:translateX(0); }
-    25%,45%  { transform:translateX(-100%); }
-    50%,70%  { transform:translateX(-200%); }
-    75%,95%  { transform:translateX(-300%); }
+     0%,16%  { transform:translateX(0); }
+    20%,36%  { transform:translateX(-100%); }
+    40%,56%  { transform:translateX(-200%); }
+    60%,76%  { transform:translateX(-300%); }
+    80%,96%  { transform:translateX(-400%); }
     100%     { transform:translateX(0); }
   }
-  @keyframes dot1 { 0%,20% { background:var(--gold); } 25%,100% { background:rgba(255,255,255,.25); } }
-  @keyframes dot2 { 0%,20% { background:rgba(255,255,255,.25); } 25%,45% { background:var(--gold); } 50%,100% { background:rgba(255,255,255,.25); } }
-  @keyframes dot3 { 0%,45% { background:rgba(255,255,255,.25); } 50%,70% { background:var(--gold); } 75%,100% { background:rgba(255,255,255,.25); } }
-  @keyframes dot4 { 0%,70% { background:rgba(255,255,255,.25); } 75%,95% { background:var(--gold); } 100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot1 { 0%,16% { background:var(--gold); } 20%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot2 { 0%,16% { background:rgba(255,255,255,.25); } 20%,36% { background:var(--gold); } 40%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot3 { 0%,36% { background:rgba(255,255,255,.25); } 40%,56% { background:var(--gold); } 60%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot4 { 0%,56% { background:rgba(255,255,255,.25); } 60%,76% { background:var(--gold); } 80%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot5 { 0%,76% { background:rgba(255,255,255,.25); } 80%,96% { background:var(--gold); } 100% { background:rgba(255,255,255,.25); } }
 
   main { max-width:760px; width:100%; padding:1rem 1rem 4rem; }
   h2 { margin:1.6rem 0 .4rem; font-size:1.25rem; }
@@ -68,6 +72,7 @@
 
   <div class="carrousel">
     <div class="carrousel-track">
+      <a href="don-miguel-ruiz.html"><img src="../img/en/don-miguel-ruiz-four-agreements.jpg" alt="Don Miguel Ruiz — Episode 5" loading="lazy"></a>
       <a href="432-vs-440.html"><img src="../img/en/432hz-vs-440hz-battle-of-the-pitch-pipes.jpg" alt="432 Hz vs 440 Hz — Episode 1" loading="lazy"></a>
       <a href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><img src="../img/en/alfred-tomatis-man-who-taught-us-to-listen.jpg" alt="Alfred Tomatis — Episode 2" loading="lazy"></a>
       <a href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><img src="../img/en/rene-quinton-children-of-the-sea.jpg" alt="René Quinton — Episode 3" loading="lazy"></a>
@@ -75,9 +80,10 @@
     </div>
   </div>
   <p class="carrousel-legende">Episode covers — click to read the article or listen on Spotify</p>
-  <div class="dots"><span></span><span></span><span></span><span></span></div>
+  <div class="dots"><span></span><span></span><span></span><span></span><span></span></div>
 
   <main>
+    <a class="ep" href="don-miguel-ruiz.html"><span class="num">#5</span>Don Miguel Ruiz — The Four Agreements<span class="theme">A surgeon, a car crash, and four sentences that changed millions</span></a>
     <a class="ep" href="432-vs-440.html"><span class="num">#1</span>432 Hz vs 440 Hz — The Battle of the Pitch Pipes<span class="theme">Verdi's decree, London 1939, ISO 16 — the true history</span></a>
     <a class="ep" href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><span class="num">#2</span>Alfred Tomatis — The Man Who Taught Us to Listen<span class="theme">The electronic ear, the Mozart effect — portrait</span></a>
     <a class="ep" href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><span class="num">#3</span>René Quinton — Children of the Sea<span class="theme">Marine plasma, the arcachonnaises clinics — portrait</span></a>
