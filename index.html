@@ -6,14 +6,46 @@
 <title>Qui c'est celui-là ? — Portraits & interviews radiophoniques</title>
 <meta name="description" content="Portraits et interviews fictives de figures historiques : Tomatis, Pythagore, 432 Hz, Foucault… Une œuvre de fiction radiophonique, des faits réels et sourcés. Écoutez sur Spotify.">
 <style>
-  :root { --bleu:#0A1E50; --pale:#C7D2E6; --num:#5F73B0; }
+  :root { --bleu:#0A1E50; --pale:#C7D2E6; --num:#5F73B0; --gold:#F0D68C; }
   * { margin:0; padding:0; box-sizing:border-box; }
   body { background:var(--bleu); color:#fff; font-family:Georgia,'Times New Roman',serif; min-height:100vh; display:flex; flex-direction:column; align-items:center; }
   header { text-align:center; padding:3rem 1rem 1.4rem; }
   h1 { font-size:clamp(1.8rem, 6vw, 3.2rem); letter-spacing:.02em; }
   .sous { color:var(--pale); font-style:italic; margin-top:.5rem; font-size:clamp(1rem,3vw,1.25rem); }
   .avert { color:var(--pale); font-size:.8rem; max-width:640px; margin:1.2rem auto 0; padding:0 1rem; line-height:1.5; }
-  main { max-width:760px; width:100%; padding:2rem 1rem 4rem; }
+
+  /* Carrousel */
+  .carrousel { position:relative; max-width:420px; width:90%; margin:2rem auto 1rem; overflow:hidden; border-radius:10px; }
+  .carrousel-track { display:flex; animation:defile 20s infinite; }
+  .carrousel-track:hover { animation-play-state:paused; }
+  .carrousel a { flex:0 0 100%; display:block; }
+  .carrousel img { width:100%; display:block; border-radius:10px; }
+  .carrousel-legende { text-align:center; color:var(--pale); font-size:.82em; font-style:italic; margin-top:.45rem; min-height:1.3em; }
+
+  /* Navigation dots */
+  .dots { display:flex; justify-content:center; gap:.5rem; margin:.6rem 0 1rem; }
+  .dots span { width:8px; height:8px; border-radius:50%; background:rgba(255,255,255,.25); transition:background .3s; }
+  .dots span:nth-child(1) { animation:dot1 20s infinite; }
+  .dots span:nth-child(2) { animation:dot2 20s infinite; }
+  .dots span:nth-child(3) { animation:dot3 20s infinite; }
+  .dots span:nth-child(4) { animation:dot4 20s infinite; }
+  .dots span:nth-child(5) { animation:dot5 20s infinite; }
+
+  @keyframes defile {
+     0%,16%  { transform:translateX(0); }
+    20%,36%  { transform:translateX(-100%); }
+    40%,56%  { transform:translateX(-200%); }
+    60%,76%  { transform:translateX(-300%); }
+    80%,96%  { transform:translateX(-400%); }
+    100%     { transform:translateX(0); }
+  }
+  @keyframes dot1 { 0%,16% { background:var(--gold); } 20%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot2 { 0%,16% { background:rgba(255,255,255,.25); } 20%,36% { background:var(--gold); } 40%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot3 { 0%,36% { background:rgba(255,255,255,.25); } 40%,56% { background:var(--gold); } 60%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot4 { 0%,56% { background:rgba(255,255,255,.25); } 60%,76% { background:var(--gold); } 80%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot5 { 0%,76% { background:rgba(255,255,255,.25); } 80%,96% { background:var(--gold); } 100% { background:rgba(255,255,255,.25); } }
+
+  main { max-width:760px; width:100%; padding:1rem 1rem 4rem; }
   a.ep { display:block; color:#fff; text-decoration:none; background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.14); border-radius:10px; padding:1rem 1.2rem; margin:.65rem 0; transition:background .15s; }
   a.ep:hover { background:rgba(255,255,255,.12); }
   .num { color:var(--num); font-weight:bold; font-size:1.05em; margin-right:.6em; }
@@ -31,16 +63,25 @@
     <p class="avert">Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial.
     Les faits présentés sont réels et documentés ; les entretiens avec des personnages sont des reconstitutions imaginées.</p>
   </header>
-<figure style="margin:1.6rem 0">
-  <img src="img/alfred-tomatis-medecin-oreille.jpg" alt="Pochette de l'épisode Tomatis — « Qui c'est celui-là ? »" style="width:100%;max-width:420px;border-radius:10px;display:block;margin:0 auto">
-  <figcaption style="color:var(--pale,#C7D2E6);font-size:.82em;text-align:center;font-style:italic;margin-top:.45rem">Pochette de l'épisode Tomatis — « Qui c'est celui-là ? »</figcaption>
-</figure>
+
+  <div class="carrousel">
+    <div class="carrousel-track">
+      <a href="blog/beethoven-silence.html"><img src="img/fr/ludwig-van-beethoven-face-au-silence.jpg" alt="Beethoven face au silence — épisode 14" loading="lazy"></a>
+      <a href="blog/432-vs-440.html"><img src="img/fr/432hz-vs-440hz-duel-diapasons.jpg" alt="432 Hz vs 440 Hz — épisode 13" loading="lazy"></a>
+      <a href="blog/frequences.html"><img src="img/fr/frequences-qui-guerissent-432hz.jpg" alt="Les fréquences qui guérissent — épisode 12" loading="lazy"></a>
+      <a href="blog/pythagore.html"><img src="img/fr/pythagore-musique-spheres.jpg" alt="Pythagore — épisode 11" loading="lazy"></a>
+      <a href="blog/tomatis.html"><img src="img/fr/alfred-tomatis-medecin-oreille.jpg" alt="Alfred Tomatis — épisode 10" loading="lazy"></a>
+    </div>
+  </div>
+  <p class="carrousel-legende">Pochettes des derniers épisodes — cliquez pour lire l'article</p>
+  <div class="dots"><span></span><span></span><span></span><span></span><span></span></div>
 
   <main>
-    <a class="ep" href="blog/tomatis.html"><span class="num">10</span>Alfred Tomatis, le médecin de l'oreille<span class="theme">L'oreille électronique, l'effet Mozart — portrait</span></a>
-    <a class="ep" href="blog/pythagore.html"><span class="num">11</span>Pythagore, la musique des sphères<span class="theme">La tétraktys, les modes, l'école de Croton</span></a>
-    <a class="ep" href="blog/frequences.html"><span class="num">12</span>Les fréquences qui guérissent — le vrai, le mythe<span class="theme">432 Hz, battements binauraux, cymatique : l'enquête</span></a>
+    <a class="ep" href="blog/beethoven-silence.html"><span class="num">14</span>Beethoven face au silence<span class="theme">La Neuvième, le testament d'Heiligenstadt, le silence — portrait</span></a>
     <a class="ep" href="blog/432-vs-440.html"><span class="num">13</span>432 Hz vs 440 Hz — le duel des diapasons<span class="theme">Verdi, Londres 1939, études réelles, légendes</span></a>
+    <a class="ep" href="blog/frequences.html"><span class="num">12</span>Les fréquences qui guérissent — le vrai, le mythe<span class="theme">432 Hz, battements binauraux, cymatique : l'enquête</span></a>
+    <a class="ep" href="blog/pythagore.html"><span class="num">11</span>Pythagore, la musique des sphères<span class="theme">La tétraktys, les modes, l'école de Croton</span></a>
+    <a class="ep" href="blog/tomatis.html"><span class="num">10</span>Alfred Tomatis, le médecin de l'oreille<span class="theme">L'oreille électronique, l'effet Mozart — portrait</span></a>
     <a class="ep" href="https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP"><span class="num">01–09</span>De Gaulle · Veil · Jaurès · Mandela · Orwell · Hugo · MLK · Sartre · Foucault<span class="theme">Les neuf premiers portraits — directement sur Spotify</span></a>
     <p style="text-align:center"><a class="spotify" href="https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP">Écouter sur Spotify →</a></p>
   </main>

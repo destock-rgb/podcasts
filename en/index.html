@@ -6,45 +6,88 @@
 <title>Who's That Guy? — Fictional interviews with history & science</title>
 <meta name="description" content="Fictional radio interviews with historical figures and experts: Tomatis, Pythagore, 432 vs 440 Hz. Real, sourced facts; imagined conversations.">
 <style>
-  :root { --bleu:#0A1E50; --pale:#C7D2E6; --num:#5F73B0; }
+  :root { --bleu:#0A1E50; --pale:#C7D2E6; --num:#5F73B0; --gold:#F0D68C; }
   * { margin:0; padding:0; box-sizing:border-box; }
-  body { background:var(--bleu); color:#fff; font-family:Georgia,'Times New Roman',serif; line-height:1.65; }
-  .wrap { max-width:720px; margin:0 auto; padding:3rem 1.2rem 4rem; }
-  .marque { color:var(--pale); text-decoration:none; font-size:1.1rem; font-weight:bold; display:inline-block; margin-bottom:.3rem; } .marque:hover { color:#fff; }
-  h1 { margin-top:.8rem; font-size:clamp(1.6rem, 5vw, 2.4rem); }
-  .sous { color:var(--pale); font-style:italic; margin:.4rem 0 1.4rem; }
-  .avert { font-size:.8rem; color:var(--pale); border-left:3px solid var(--num); padding:.6rem 1rem; background:rgba(255,255,255,.05); border-radius:0 8px 8px 0; margin:1.2rem 0; }
+  body { background:var(--bleu); color:#fff; font-family:Georgia,'Times New Roman',serif; min-height:100vh; display:flex; flex-direction:column; align-items:center; }
+  header { text-align:center; padding:3rem 1rem 1.4rem; }
+  .marque { color:var(--pale); text-decoration:none; font-size:1.1rem; font-weight:bold; display:inline-block; margin-bottom:.3rem; }
+  .marque:hover { color:#fff; }
+  h1 { font-size:clamp(1.8rem, 6vw, 3.2rem); letter-spacing:.02em; margin-top:.8rem; }
+  .sous { color:var(--pale); font-style:italic; margin-top:.5rem; font-size:clamp(1rem,3vw,1.25rem); }
+  .avert { color:var(--pale); font-size:.8rem; max-width:640px; margin:1.2rem auto 0; padding:0 1rem; line-height:1.5; }
+
+  /* Carrousel */
+  .carrousel { position:relative; max-width:420px; width:90%; margin:2rem auto 1rem; overflow:hidden; border-radius:10px; }
+  .carrousel-track { display:flex; animation:defile 20s infinite; }
+  .carrousel-track:hover { animation-play-state:paused; }
+  .carrousel a { flex:0 0 100%; display:block; }
+  .carrousel img { width:100%; display:block; border-radius:10px; }
+  .carrousel-legende { text-align:center; color:var(--pale); font-size:.82em; font-style:italic; margin-top:.45rem; min-height:1.3em; }
+
+  .dots { display:flex; justify-content:center; gap:.5rem; margin:.6rem 0 1rem; }
+  .dots span { width:8px; height:8px; border-radius:50%; background:rgba(255,255,255,.25); transition:background .3s; }
+  .dots span:nth-child(1) { animation:dot1 20s infinite; }
+  .dots span:nth-child(2) { animation:dot2 20s infinite; }
+  .dots span:nth-child(3) { animation:dot3 20s infinite; }
+  .dots span:nth-child(4) { animation:dot4 20s infinite; }
+
+  @keyframes defile {
+     0%,20%  { transform:translateX(0); }
+    25%,45%  { transform:translateX(-100%); }
+    50%,70%  { transform:translateX(-200%); }
+    75%,95%  { transform:translateX(-300%); }
+    100%     { transform:translateX(0); }
+  }
+  @keyframes dot1 { 0%,20% { background:var(--gold); } 25%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot2 { 0%,20% { background:rgba(255,255,255,.25); } 25%,45% { background:var(--gold); } 50%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot3 { 0%,45% { background:rgba(255,255,255,.25); } 50%,70% { background:var(--gold); } 75%,100% { background:rgba(255,255,255,.25); } }
+  @keyframes dot4 { 0%,70% { background:rgba(255,255,255,.25); } 75%,95% { background:var(--gold); } 100% { background:rgba(255,255,255,.25); } }
+
+  main { max-width:760px; width:100%; padding:1rem 1rem 4rem; }
   h2 { margin:1.6rem 0 .4rem; font-size:1.25rem; }
   p { margin:.7rem 0; }
-  blockquote { border-left:3px solid var(--num); padding-left:1rem; margin:1rem 0; color:var(--pale); }
-  .legende { color:var(--pale); font-size:.85em; font-style:italic; }
+  a.ep { display:block; color:#fff; text-decoration:none; background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.14); border-radius:10px; padding:1rem 1.2rem; margin:.65rem 0; transition:background .15s; }
+  a.ep:hover { background:rgba(255,255,255,.12); }
+  .num { color:var(--num); font-weight:bold; font-size:1.05em; margin-right:.6em; }
+  .theme { color:var(--pale); font-size:.86em; display:block; margin-top:.15rem; }
+  .spotify { display:inline-block; margin-top:1.6rem; color:var(--pale); }
   .retour { margin-top:2.5rem; }
   .retour a { color:var(--pale); }
+  .legende { color:var(--pale); font-size:.85em; font-style:italic; }
+  footer { color:var(--pale); font-size:.78rem; padding:1.5rem 1rem 2.5rem; text-align:center; }
+  footer a { color:var(--pale); }
 </style>
 </head>
 <body>
-<div class="wrap">
   <header>
     <a class="marque" href="../index.html">Who's That Guy?</a>
     <h1>Who's That Guy?</h1>
-    <p class="sous">Fictional interviews with history & science — real facts, imagined conversations</p>
+    <p class="sous">Fictional interviews with history &amp; science — real facts, imagined conversations</p>
+    <p class="avert">A work of radio fiction for educational and cultural purposes. The facts are real and sourced; the interviews are imagined reconstructions.</p>
   </header>
-  <p class="avert">A work of radio fiction for educational and cultural purposes. The facts are real and sourced; the interviews are imagined reconstructions.</p>
-  <p><em>Listen to the episode:</em> <strong>Episode 1 — 432 Hz vs 440 Hz: The Battle of the Pitch Pipes</strong> — 12 min 56, <a style="color:var(--pale)" href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho">Spotify</a>.</p>
-<figure style="margin:1.6rem 0">
-  <img src="../img/who-is-that-guy-english-channel.jpg" alt="Cover art — Who's That Guy?" style="width:100%;max-width:420px;border-radius:10px;display:block;margin:0 auto">
-  <figcaption style="color:var(--pale,#C7D2E6);font-size:.82em;text-align:center;font-style:italic;margin-top:.45rem">Cover art — Who's That Guy?</figcaption>
-</figure>
 
-  
-  <p style="margin-bottom:1rem">Every week, our journalist sits down with a figure or a specialist — real history, real science, one imagined conversation. The tuning fork is neither a weapon nor a promise: it is an agreement between human beings.</p>
-  <h2>Episode 1 — 432 Hz vs 440 Hz: The Battle of the Pitch Pipes</h2>
-  <p>Eight vibrations per second apart, and yet a war without end online. From France's 1859 standard to the Italian decree of 1884 signed for Verdi, from the 1939 London conference to the ISO norm of 1955: the true history of the tuning fork, far stranger than the myth. Was 440 really imposed by the Nazis? Is water's frequency a thing? And what the actual medical studies say — including the one where anxiety dropped… even without music.</p>
-  <p><a href="432-vs-440.html" style="color:var(--pale)">Read the full story →</a></p>
-  <h2>The fine print</h2>
-  <p>Facts presented are verifiable and dated; conversations are labeled fiction. Our sources are listed in every article — that is the deal.</p>
-  <p class="legende">Sources: Sauveur (1713); Italian War Ministry decree (1884); Vienna congress (1885); London conference (1939); ISO 16 (1955); Calamassi et al., Explore (2019). Fact-checked October 2026.</p>
-  <p class="retour"><a href="../index.html">← All episodes</a> · <a href="../index.html">🇫🇷 Version française</a></p>
-</div>
+  <div class="carrousel">
+    <div class="carrousel-track">
+      <a href="432-vs-440.html"><img src="../img/en/432hz-vs-440hz-battle-of-the-pitch-pipes.jpg" alt="432 Hz vs 440 Hz — Episode 1" loading="lazy"></a>
+      <a href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><img src="../img/en/alfred-tomatis-man-who-taught-us-to-listen.jpg" alt="Alfred Tomatis — Episode 2" loading="lazy"></a>
+      <a href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><img src="../img/en/rene-quinton-children-of-the-sea.jpg" alt="René Quinton — Episode 3" loading="lazy"></a>
+      <a href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><img src="../img/en/quinton-water-marine-plasma-secrets.jpg" alt="Quinton Water — Episode 4" loading="lazy"></a>
+    </div>
+  </div>
+  <p class="carrousel-legende">Episode covers — click to read the article or listen on Spotify</p>
+  <div class="dots"><span></span><span></span><span></span><span></span></div>
+
+  <main>
+    <a class="ep" href="432-vs-440.html"><span class="num">#1</span>432 Hz vs 440 Hz — The Battle of the Pitch Pipes<span class="theme">Verdi's decree, London 1939, ISO 16 — the true history</span></a>
+    <a class="ep" href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><span class="num">#2</span>Alfred Tomatis — The Man Who Taught Us to Listen<span class="theme">The electronic ear, the Mozart effect — portrait</span></a>
+    <a class="ep" href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><span class="num">#3</span>René Quinton — Children of the Sea<span class="theme">Marine plasma, the arcachonnaises clinics — portrait</span></a>
+    <a class="ep" href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho"><span class="num">#4</span>Quinton Water — Marine Plasma Secrets<span class="theme">The science behind the Quinton isotonic treatment</span></a>
+    <p style="text-align:center"><a class="spotify" href="https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho">Listen on Spotify →</a></p>
+    <p class="legende" style="margin-top:2rem">Sources listed in each article. Facts are verifiable; conversations are fiction — that's the deal.</p>
+    <p class="retour"><a href="../index.html">🇫🇷 Version française — « Qui c'est celui-là ? »</a></p>
+  </main>
+  <footer>
+    <p>A work of radio fiction. Facts are real and sourced. Conversations are imagined reconstructions.</p>
+  </footer>
 </body>
 </html>
