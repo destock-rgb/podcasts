@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Files — Who's That Guy?</title>
+<style>
+  :root { --bleu:#0A1E50; --pale:#C7D2E6; --num:#5F73B0; --gold:#F0D68C; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:var(--bleu); color:#fff; font-family:Georgia,'Times New Roman',serif; min-height:100vh; padding:2rem 1rem 4rem; }
+  main { max-width:860px; margin:0 auto; }
+  h1 { font-size:clamp(1.6rem,5vw,2.4rem); margin-bottom:.3rem; }
+  .sous { color:var(--pale); font-style:italic; margin-bottom:1.6rem; }
+  table { width:100%; border-collapse:collapse; margin-bottom:2rem; }
+  th,td { text-align:left; padding:.7rem .5rem; border-bottom:1px solid rgba(255,255,255,.14); vertical-align:top; }
+  th { color:var(--pale); font-size:.82rem; text-transform:uppercase; letter-spacing:.06em; font-weight:normal; }
+  td.num { color:var(--num); font-weight:bold; font-size:1.05em; white-space:nowrap; }
+  td.duree { color:var(--gold); white-space:nowrap; }
+  .meta { color:var(--pale); font-size:.85em; }
+  a { color:var(--gold); }
+  .retour a { color:var(--pale); }
+  h2 { margin:2rem 0 .6rem; font-size:1.2rem; }
+  .note { color:var(--pale); font-size:.85em; line-height:1.55; }
+</style></head>
+<body><main>
+  <h1>📁 Files — Who's That Guy?</h1>
+  <p class="sous">Every episode, ready to download and publish — audio, cover art, description.</p>
+
+  <h2>Upcoming episodes</h2>
+  <table>
+    <tr><th>#</th><th>Episode</th><th>Length</th><th>Files</th></tr>
+    <tr>
+      <td class="num">#6</td>
+      <td><strong>Marie Curie — The Woman With Two Nobel Prizes</strong><br><span class="meta">Scheduled 11 January 2027 at 6:00</span></td>
+      <td class="duree">—</td>
+      <td>
+        <a href="episode-6.mp3">🎧 Audio</a> ·
+        <a href="pochette-6.jpg">🖼️ Cover</a> ·
+        <a href="description-6-spotify.txt">📝 Description (Spotify)</a> · <a href="description-6.txt">📝 Long version</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="num">#7</td>
+      <td><strong>Beethoven Facing the Silence</strong><br><span class="meta">Scheduled 18 January 2027 at 6:00</span></td>
+      <td class="duree">—</td>
+      <td>
+        <a href="episode-7.mp3">🎧 Audio</a> ·
+        <a href="pochette-7.jpg">🖼️ Cover</a> ·
+        <a href="description-7-spotify.txt">📝 Description (Spotify)</a> · <a href="description-7.txt">📝 Long version</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="num">#8</td>
+      <td><strong>Winfried Schumann and the Resonances of the Earth</strong><br><span class="meta">Scheduled 25 January 2027 at 6:00</span></td>
+      <td class="duree">—</td>
+      <td>
+        <a href="episode-8.mp3">🎧 Audio</a> ·
+        <a href="pochette-8.jpg">🖼️ Cover</a> ·
+        <a href="description-8-spotify.txt">📝 Description (Spotify)</a> · <a href="description-8.txt">📝 Long version</a>
+      </td>
+    </tr>
+  </table>
+
+  <p class="note">Publishing routine: upload the MP3 to Spotify for Podcasters, set the episode date to the scheduled day at 6:00,
+  attach the cover art, paste the description (Spotify limit: 600 characters), then replace the
+  <code>SPOTIFY_URL</code> placeholder in the blog articles with the episode link.</p>
+
+  <p class="retour"><a href="../index.html">🇬🇧 English homepage</a> · <a href="../../index.html">🇫🇷 Version française — « Qui c'est celui-là ? »</a></p>
+</main></body></html>
