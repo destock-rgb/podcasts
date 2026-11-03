@@ -1,6 +1,6 @@
 # Le Journal des Bonnes Nouvelles — tout à copier-coller
 
-## A. Créer la chaîne (podcasters.spotify.com → « Créer un podcast »)
+## A. La chaîne existe déjà — editions 1 à 3 sont publiées
 
 | Champ | Valeur |
 |---|---|
@@ -51,7 +51,7 @@ bonnes nouvelles, optimisme, solutions, écologie, science, solidarité, innovat
 ```
 
 
-## B. Publier les 4 épisodes
+## B. Publier les épisodes restants
 
 « Ajouter un épisode » → MP3, pochette, description, date. Tout est déjà prêt.
 
