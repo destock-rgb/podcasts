@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mes jeux concours — suivi des jeux gratuits</title>
+<meta name="description" content="Suivi personnel des jeux concours gratuits et sans obligation d'achat : échéances, valeur des lots, réponses, et ce que vous avez déjà joué.">
+<style>
+  :root{
+    --bleu:#0A1E50; --bleu-clair:#16336F; --pale:#DCE4F5; --num:#9FB4E8;
+    --or:#F0D68C; --vert:#7FD1A8; --texte:#FFFFFF; --texte-doux:#C7D2E6;
+    --max:1100px;
+  }
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  html{ font-size:18px; }
+  body{
+    background:var(--bleu); color:var(--texte); line-height:1.6;
+    font-family:Georgia,'Times New Roman',serif; min-height:100vh;
+  }
+  a{ color:var(--or); }
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible{
+    outline:3px solid var(--or); outline-offset:3px; border-radius:4px;
+  }
+  .eviter{ position:absolute; left:-9999px; }
+  .eviter:focus{ left:1rem; top:1rem; position:fixed; background:var(--or); color:#000; padding:.6rem 1rem; z-index:99; font-weight:bold; }
+  .enveloppe{ max-width:var(--max); margin:0 auto; padding:1.5rem 1rem 4rem; }
+  header{ border-bottom:2px solid var(--or); padding-bottom:1rem; margin-bottom:1.5rem; }
+  .marque{ display:inline-block; color:var(--pale); text-decoration:none; font-weight:bold; margin-bottom:.4rem; }
+  h1{ font-size:clamp(1.7rem,5vw,2.8rem); line-height:1.2; }
+  .sous{ color:var(--pale); font-style:italic; margin-top:.5rem; }
+  .avert{ color:var(--pale); font-size:.92rem; margin-top:1rem; border-left:4px solid var(--or); padding-left:1rem; }
+  h2{ font-size:1.35rem; margin:2rem 0 .7rem; color:var(--or); }
+  h3{ font-size:1.08rem; margin:0 0 .3rem; }
+  .barre-filtres{
+    background:rgba(255,255,255,.07); border:1px solid rgba(255,255,255,.18);
+    border-radius:12px; padding:1rem 1.1rem; margin:1rem 0;
+  }
+  .champ{ margin-bottom:.9rem; }
+  .champ label{ display:block; font-weight:bold; margin-bottom:.3rem; }
+  select, input[type="search"], input[type="number"]{
+    background:var(--bleu-clair); color:var(--texte); border:2px solid var(--num);
+    border-radius:8px; padding:.55rem .7rem; font-size:1rem; font-family:inherit; width:100%;
+    max-width:26rem;
+  }
+  .puces{ display:flex; flex-wrap:wrap; gap:.5rem; }
+  .puce{
+    background:transparent; color:var(--texte); border:2px solid var(--num); border-radius:999px;
+    padding:.4rem .9rem; font-size:.95rem; font-family:inherit; cursor:pointer;
+  }
+  .puce[aria-pressed="true"]{ background:var(--or); color:#101828; border-color:var(--or); font-weight:bold; }
+  .compte{ font-size:.95rem; color:var(--pale); margin:.6rem 0 0; }
+  .carte{
+    background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.16);
+    border-left:5px solid var(--num); border-radius:10px; padding:1rem 1.1rem; margin:.8rem 0;
+  }
+  .carte.joue{ border-left-color:var(--vert); background:rgba(127,209,168,.10); }
+  .carte.urgent{ border-left-color:#FF9F6E; }
+  .entete{ display:flex; flex-wrap:wrap; gap:.6rem; align-items:baseline; justify-content:space-between; }
+  .org{ color:var(--pale); font-size:.92rem; }
+  .valeur{ font-size:1.25rem; font-weight:bold; color:var(--or); white-space:nowrap; }
+  .meta{ color:var(--pale); font-size:.9rem; margin:.35rem 0 .5rem; }
+  .etiquettes{ display:flex; flex-wrap:wrap; gap:.4rem; margin:.4rem 0; }
+  .etiquette{ background:rgba(255,255,255,.12); border-radius:6px; padding:.15rem .55rem; font-size:.85rem; }
+  .reponses{ background:rgba(0,0,0,.25); border-radius:8px; padding:.6rem .8rem; margin:.5rem 0; font-size:.93rem; }
+  .reponses b{ color:var(--or); }
+  .jouer{ display:flex; flex-wrap:wrap; gap:1rem; align-items:center; margin-top:.6rem; }
+  .jouer label{ display:flex; align-items:center; gap:.45rem; cursor:pointer; font-size:.95rem; }
+  .jouer input[type=checkbox]{ width:1.25rem; height:1.25rem; accent-color:var(--vert); cursor:pointer; }
+  .btn{
+    display:inline-block; background:var(--or); color:#101828; font-weight:bold;
+    padding:.5rem 1rem; border-radius:8px; text-decoration:none; border:0; font-family:inherit; font-size:.95rem; cursor:pointer;
+  }
+  .vide{ color:var(--pale); font-style:italic; padding:1rem 0; }
+  .resume{ display:flex; flex-wrap:wrap; gap:1.2rem; background:rgba(255,255,255,.07); border:1px solid rgba(255,255,255,.16); border-radius:12px; padding:1rem 1.2rem; }
+  .resume div strong{ display:block; font-size:1.5rem; color:var(--or); }
+  .resume div span{ color:var(--pale); font-size:.9rem; }
+  footer{ margin-top:3rem; padding-top:1rem; border-top:1px solid rgba(255,255,255,.2); color:var(--pale); font-size:.88rem; }
+  .source-note{ font-size:.85rem; color:var(--pale); margin-top:.4rem; }
+  @media (max-width:640px){
+    html{ font-size:17px; }
+    select, input[type="search"], input[type="number"]{ max-width:100%; }
+  }
+  @media print{
+    body{ background:#fff; color:#000; }
+    .barre-filtres, .jouer label, footer{ display:none; }
+  }
+</style>
+</head>
+<body>
+<a class="eviter" href="#liste">Aller à la liste des jeux</a>
+
+<div class="enveloppe">
+  <header>
+    <a class="marque" href="../index.html">🎙️ « Qui c'est celui-là ? »</a>
+    <h1>🎁 Mes jeux concours</h1>
+    <p class="sous">Le suivi de vos participations — uniquement des jeux <strong>100 % gratuits</strong> et <strong>sans obligation d'achat</strong>.</p>
+    <p class="avert">
+      Ce tableau de bord est un <strong>outil personnel</strong> : il enregistre dans votre navigateur
+      les jeux auxquels vous avez joué (rien n'est envoyé ailleurs, rien n'est partagé).
+      Les jeux proviennent du <a href="https://www.ledemondujeu.com/">Démon du Jeu</a>,
+      qui publie les règles et, quand elles sont connues, les réponses aux questions.
+      <strong>Vérifiez toujours le règlement officiel avant de jouer.</strong>
+    </p>
+  </header>
+
+  <section aria-labelledby="t-suivi">
+    <h2 id="t-suivi">Votre suivi</h2>
+    <div class="resume">
+      <div><strong id="k-joues">0</strong><span>jeux joués</span></div>
+      <div><strong id="k-jour">0</strong><span>à jouer aujourd'hui</span></div>
+      <div><strong id="k-semaine">0</strong><span>se ferment sous 7 jours</span></div>
+      <div><strong id="k-gains">0</strong><span>lots gagnés</span></div>
+      <div><button class="btn" id="btn-export" type="button">Exporter ma liste</button></div>
+    </div>
+  </section>
+
+  <section aria-labelledby="t-filtres">
+    <h2 id="t-filtres">Filtres</h2>
+    <div class="barre-filtres">
+      <div class="champ">
+        <label for="f-texte">Rechercher un organisateur, un lot, un mot-clé</label>
+        <input type="search" id="f-texte" placeholder="ex. :ibert, voyage, console…" autocomplete="off">
+      </div>
+      <div class="champ">
+        <label for="f-valeur">Valeur minimum du lot (en euros)</label>
+        <input type="number" id="f-valeur" min="0" step="50" value="0">
+      </div>
+      <div class="champ">
+        <label for="f-delai">Échéance</label>
+        <select id="f-delai">
+          <option value="tous">Toutes</option>
+          <option value="7">Se ferment sous 7 jours</option>
+          <option value="15">Sous 15 jours</option>
+          <option value="30">Sous 30 jours</option>
+          <option value="90">Sous 90 jours</option>
+        </select>
+      </div>
+      <div class="champ">
+        <label id="l-mec">Type de jeu</label>
+        <div class="puces" role="group" aria-labelledby="l-mec" id="f-mec">
+          <button class="puce" type="button" data-v="tirage" aria-pressed="true">Tirage au sort</button>
+          <button class="puce" type="button" data-v="instants" aria-pressed="true">Instants gagnants</button>
+          <button class="puce" type="button" data-v="quiz" aria-pressed="true">Questionnaire</button>
+          <button class="puce" type="button" data-v="quotidien" aria-pressed="true">Jouable tous les jours</button>
+          <button class="puce" type="button" data-v="local" aria-pressed="true">Concours local</button>
+        </div>
+      </div>
+      <p class="compte" id="compte" role="status" aria-live="polite">Chargement…</p>
+    </div>
+  </section>
+
+
+  <section aria-labelledby="t-selection">
+    <h2 id="t-selection">🎯 La sélection de la semaine</h2>
+    <p class="source-note" id="sel-note">Les jeux qui ferment bientôt ou qui se rejouent chaque jour.</p>
+    <div id="selection"></div>
+  </section>
+
+  <section aria-labelledby="t-liste">
+    <h2 id="t-liste">Les jeux du moment</h2>
+    <div id="liste"></div>
+  </section>
+
+  <footer>
+    <p>Données : <a href="https://www.ledemondujeu.com/">ledemondujeu.com</a> — collecté le <span id="maj">—</span>.
+    Les liens mènent aux sites des organisateurs ; la participation se fait chez eux, jamais ici.</p>
+    <p><a href="../index.html">🇫🇷 Retour au blog — « Qui c'est celui-là ? »</a></p>
+  </footer>
+</div>
+
+<script>
+const CLE = "qc-joues-v1";
+let TOUS = [], joues = new Set(JSON.parse(localStorage.getItem(CLE) || "[]"));
+const $ = (s) => document.querySelector(s);
+const eur = (n) => n.toLocaleString("fr-FR").replace(/ | /g, " ") + " €";
+const jours = (j) => j === 0 ? "aujourd'hui" : j === 1 ? "demain" : `dans ${j} jours`;
+
+function charger() {
+  fetch("concours.json").then(r => r.json()).then(d => {
+    TOUS = d;
+    const maj = d.length && d[0].ajoute ? new Date().toISOString().slice(0, 10) : "—";
+    $("#maj").textContent = new Date().toLocaleDateString("fr-FR");
+    afficher();
+  }).catch(e => {
+    $("#liste").innerHTML = '<p class="vide">Impossible de charger les jeux concours. Réessayez plus tard.</p>';
+    $("#compte").textContent = "Erreur de chargement.";
+  });
+}
+
+function mecanique(c, type) {
+  const m = (c.mecaniques || []).join(" ").toLowerCase();
+  if (type === "tirage") return m.includes("tirage");
+  if (type === "instants") return m.includes("instant");
+  if (type === "quiz") return m.includes("questionnaire") || (c.reponses && c.reponses.length);
+  if (type === "quotidien") return /tous les jours|quotidien/i.test((c.frequence||"") + " " + m);
+  if (type === "local") return !!c.departement;
+  return true;
+}
+
+function filtresActifs() {
+  return [...document.querySelectorAll("#f-mec .puce")].filter(b => b.getAttribute("aria-pressed") === "true").map(b => b.dataset.v);
+}
+
+function afficher() {
+  const q = ($("#f-texte").value || "").toLowerCase().trim();
+  const minVal = parseInt($("#f-valeur").value || "0", 10);
+  const delai = $("#f-delai").value;
+  const types = filtresActifs();
+  const aujourdhui = new Date(); aujourdhui.setHours(0, 0, 0, 0);
+
+  const liste = TOUS.filter(c => {
+    if (minVal && (c.valeur_max || 0) < minVal) return false;
+    if (types.length && !types.some(t => mecanique(c, t))) return false;
+    if (q) {
+      const blob = ((c.organisateur||"") + " " + (c.lot||"") + " " + (c.principe||"") + " " + (c.departement||"")).toLowerCase();
+      if (!blob.includes(q)) return false;
+    }
+    if (delai !== "tous") {
+      const fin = new Date(c.fin + "T00:00:00");
+      const j = Math.ceil((fin - aujourdhui) / 86400000);
+      if (j > parseInt(delai, 10)) return false;
+    }
+    return true;
+  });
+
+  $("#compte").textContent = `${liste.length} jeu${liste.length > 1 ? "x" : ""} affiché${liste.length > 1 ? "s" : ""} sur ${TOUS.length} en cours.`;
+
+  const html = liste.map(c => {
+    const fin = new Date(c.fin + "T00:00:00");
+    const j = Math.ceil((fin - aujourdhui) / 86400000);
+    const deja = joues.has(c.id);
+    const urgent = j <= 3;
+    const tags = (c.mecaniques || []).map(m => `<span class="etiquette">${m}</span>`).join("");
+    const dept = c.departement ? `<span class="etiquette">📍 ${c.departement}</span>` : "";
+    const freq = c.frequence ? `<span class="etiquette">🔁 ${c.frequence}</span>` : "";
+    const reps = (c.reponses || []).length
+      ? `<div class="reponses"><b>Réponses :</b> ` + c.reponses.map(r => `<b>R${r.n}</b> ${r.r}`).join(" · ") + `</div>` : "";
+    return `<article class="carte${deja ? " joue" : ""}${urgent && !deja ? " urgent" : ""}">
+      <div class="entete">
+        <h3>${c.organisateur}</h3>
+        <span class="valeur">${c.valeur_max ? eur(c.valeur_max) : 'lot non chiffré'}</span>
+      </div>
+      <p class="org">${(c.lot || "").slice(0, 150)}</p>
+      <p class="meta">📅 Fin le ${new Date(c.fin).toLocaleDateString("fr-FR", {day:"numeric", month:"long", year:"numeric"})} — ${jours(j)}</p>
+      <div class="etiquettes">${tags}${dept}${freq}</div>
+      ${reps}
+      <div class="jouer">
+        <label><input type="checkbox" data-id="${c.id}" ${deja ? "checked" : ""}> J'ai joué à celui-ci</label>
+        <a class="btn" href="${c.lien || c.fiche}" target="_blank" rel="noopener">Participer chez l'organisateur ↗</a>
+      </div>
+    </article>`;
+  }).join("");
+
+  $("#liste").innerHTML = html || '<p class="vide">Aucun jeu ne correspond à ces filtres.</p>';
+  majResume();
+}
+
+function majResume() {
+  const aujourdhui = new Date(); aujourdhui.setHours(0,0,0,0);
+  const jour = TOUS.filter(c => {
+    const m = (c.mecaniques||[]).join(" ").toLowerCase() + " " + (c.frequence||"").toLowerCase();
+    return /tous les jours|quotidien|3 fois par semaine/.test(m) && !joues.has(c.id);
+  });
+  const semaine = TOUS.filter(c => {
+    const j = Math.ceil((new Date(c.fin + "T00:00:00") - aujourdhui) / 86400000);
+    return j <= 7 && !joues.has(c.id);
+  });
+  $("#k-joues").textContent = joues.size;
+  $("#k-jour").textContent = jour.length;
+  $("#k-semaine").textContent = semaine.length;
+  $("#k-gains").textContent = 0;
+}
+
+document.addEventListener("change", (e) => {
+  if (e.target.matches("input[type=checkbox]")) {
+    const id = e.target.dataset.id;
+    if (e.target.checked) joues.add(id); else joues.delete(id);
+    localStorage.setItem(CLE, JSON.stringify([...joues]));
+    e.target.closest(".carte").classList.toggle("joue", e.target.checked);
+    majResume();
+  }
+});
+
+document.querySelectorAll("#f-mec .puce").forEach(b => b.addEventListener("click", () => {
+  const actif = b.getAttribute("aria-pressed") === "true";
+  b.setAttribute("aria-pressed", actif ? "false" : "true");
+  afficher();
+}));
+["f-texte", "f-valeur", "f-delai"].forEach(id => {
+  const el = document.getElementById(id);
+  el.addEventListener("input", afficher);
+  el.addEventListener("change", afficher);
+});
+
+$("#btn-export").addEventListener("click", () => {
+  const lignes = ["Mes participations aux jeux concours", "Exporté le " + new Date().toLocaleDateString("fr-FR"), ""];
+  const ids = [...joues];
+  ids.forEach(id => {
+    const c = TOUS.find(x => x.id === id);
+    if (c) lignes.push(`${c.organisateur} — ${c.lot ? c.lot.slice(0,90) : ""} — fin ${c.fin} — ${c.lien || c.fiche}`);
+  });
+  const blob = new Blob([lignes.join("\n")], {type: "text/plain;charset=utf-8"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "mes-jeux-concours.txt";
+  a.click();
+});
+
+
+function afficherSelection(d) {
+  const box = document.getElementById("selection");
+  if (!box) return;
+  if (!d || !d.jeux || !d.jeux.length) { box.innerHTML = '<p class="vide">Sélection en cours de mise à jour.</p>'; return; }
+  box.innerHTML = d.jeux.map(c => `<article class="carte">
+      <div class="entete">
+        <h3>${c.organisateur}</h3>
+        <span class="valeur">${c.valeur_max ? eur(c.valeur_max) : "lot"}</span>
+      </div>
+      <p class="org">${(c.lot || "").slice(0, 160)}</p>
+      <p class="meta">📅 ${new Date(c.fin).toLocaleDateString("fr-FR", {day:"numeric", month:"long"})} — ${jours(c.jours_restants)}${c.frequence ? " · 🔁 " + c.frequence : ""}</p>
+      ${(c.reponses && c.reponses.length) ? '<div class="reponses"><b>Réponses :</b> ' + c.reponses.map(r => `<b>R${r.n}</b> ${r.r}`).join(" · ") + "</div>" : ""}
+      <div class="jouer"><a class="btn" href="${c.lien}" target="_blank" rel="noopener">Jouer ↗</a></div>
+    </article>`).join("");
+  const n = document.getElementById("sel-note");
+  if (n) n.textContent = `Sélection du ${new Date(d.genere_le).toLocaleDateString("fr-FR", {day:"numeric", month:"long", year:"numeric"})} — ${d.jeux.length} jeux. Ce sont ceux que nous racontons dans « Le Journal des Bonnes Nouvelles ».`;
+}
+fetch("selection.json").then(r => r.ok ? r.json() : null).then(afficherSelection).catch(() => {});
+
+charger();
+</script>
+</body>
+</html>
