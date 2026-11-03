@@ -80,7 +80,7 @@ Une première édition sillonne la France : la faune, l'énergie, la solidarité
 
 - **Titre** : `Le Journal des Bonnes Nouvelles — Édition 2`
 - **Date de publication** : lundi 20 octobre 2026 à 6 h 00
-- **Durée** : 11 min 33 (Spotify la calcule seul)
+- **Durée** : 11 min 32 (Spotify la calcule seul)
 - **Audio** : `journal-2.mp3`
 - **Pochette** : `journal-2.jpg`
 - **Description** : le bloc ci-dessous

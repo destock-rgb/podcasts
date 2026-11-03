@@ -1,11 +1,18 @@
 # Le Journal des Bonnes Nouvelles — état de la chaîne
 
+**Série complète : 4 éditions sur 4 publiées ✅** (vérifié sur Spotify le 3 novembre 2026)
+
+| Édition | Durée | Lien | Statut |
+|---|---|---|---|
+| #1 | 11 min 22 | — | ✅ publiée |
+| #2 | 11 min 32 | https://open.spotify.com/episode/2askAc6BiZZPt4gN6Kzu5i | ✅ publiée |
+| #3 | 12 min 58 | — | ✅ publiée |
+| #4 | 10 min 56 | https://open.spotify.com/episode/7zaOGW1bWtQxfetDoZVOeZ | ✅ publiée |
+
 | | |
 |---|---|
-| **La chaîne existe** | ✅ — https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU |
-| **Éditions publiées** | #1 ✅ · **#2 ❌ jamais publiée** · #3 ✅ · #4 ✅ (3 novembre 2026, 10 min 56) |
-| **À publier** | [#2 — marche à suivre en 5 min](PUBLIER-EDITION-2.md) |
-| **À produire** | #5 (le segment « Les bons jeux de la semaine » est déjà écrit) |
+| **Chaîne** | https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU |
+| **Prochaine édition** | #5 — à produire (le segment « Les bons jeux de la semaine » est déjà écrit) |
 | **Tous les liens** | [`CHAINE/CHAINE-LINKS.md`](CHAINE/CHAINE-LINKS.md) |
 
 > ⚠️ **À l'avenir** : dès qu'un épisode est publié, noter son lien ici

@@ -7,7 +7,7 @@ Rien n'est perdu : l'audio, la pochette et la description sont prêts. Comptez *
 
 | | |
 |---|---|
-| **Audio** | [http://destock-rgb.github.io/podcasts/fichiers/journal/journal-2.mp3](http://destock-rgb.github.io/podcasts/fichiers/journal/journal-2.mp3) — 11 min 33 |
+| **Audio** | [http://destock-rgb.github.io/podcasts/fichiers/journal/journal-2.mp3](http://destock-rgb.github.io/podcasts/fichiers/journal/journal-2.mp3) — 11 min 32 |
 | **Pochette** | [http://destock-rgb.github.io/podcasts/fichiers/journal/journal-2.jpg](http://destock-rgb.github.io/podcasts/fichiers/journal/journal-2.jpg) — 1400×1400 |
 | **Titre exact** | `Le Journal des Bonnes Nouvelles — Édition 2` |
 | **Date** | le lundi qui vous manque entre l'édition 1 et l'édition 3 (pour garder le rythme hebdomadaire) |
