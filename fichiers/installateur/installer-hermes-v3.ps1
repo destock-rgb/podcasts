@@ -4,6 +4,7 @@
 
 $ErrorActionPreference = "Continue"
 $Y = "Yellow"; $G = "Green"; $R = "Red"; $C = "Cyan"; $N = "Gray"; $B = "White"; $V = "Green"
+$w = $null
 function Dire($m, $c) { Write-Host $m -ForegroundColor $c }
 function Titre($m) { Write-Host ""; Write-Host "=== $m ===" -ForegroundColor $B }
 
@@ -80,9 +81,9 @@ foreach ($dest in $cibles) {
 
 Titre "6/7 - Installation de la memoire et de la voix (si possible)"
 $py = $null
-foreach ($c in @("py", "python", "python3")) {
-    $v = (Get-Command $c -ErrorAction SilentlyContinue)
-    if ($v) { $py = $c; break }
+foreach ($cand in @("py", "python", "python3")) {
+    $trouve = (Get-Command $cand -ErrorAction SilentlyContinue)
+    if ($trouve) { $py = $cand; break }
 }
 if ($py) {
     Dire "  python trouve : $py" $V
