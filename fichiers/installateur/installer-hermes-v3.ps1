@@ -140,6 +140,22 @@ if (-not $ok) {
     Dire "  NOTE : les memoires (MEMORY.md, USER.md) restent chargees." $C
 }
 
+# La cle en variable d'environnement Windows : l'app peut reecrire son .env,
+# la variable systeme, elle, reste.
+$envFile = Join-Path $racineDefaut ".env"
+if (-not (Test-Path $envFile)) { $envFile = Join-Path (Join-Path $profilsDefaut "med") ".env" }
+if (Test-Path $envFile) {
+    $ligne = (Get-Content $envFile | Where-Object { $_ -match "^\s*OLLAMA_API_KEY\s*=" } | Select-Object -First 1)
+    if ($ligne) {
+        $val = ($ligne -split "=", 2)[1].Trim().Trim('"').Trim("'")
+        if ($val.Length -gt 20) {
+            [Environment]::SetEnvironmentVariable("OLLAMA_API_KEY", $val, "User")
+            Dire "  variable Windows OLLAMA_API_KEY posee (longueur $($val.Length))" $G
+            Dire "  -> Redemarrez Hermes Desktop pour qu'elle soit prise en compte" $Y
+        } else { Dire "  ATTENTION : OLLAMA_API_KEY vide dans .env" $R }
+    } else { Dire "  ATTENTION : OLLAMA_API_KEY absente du .env" $R }
+} else { Dire "  ATTENTION : .env introuvable pour poser la variable" $R }
+
 Titre "7/7 - Verification"
 foreach ($dest in $cibles) {
     $cfg = Join-Path $dest "config.yaml"
