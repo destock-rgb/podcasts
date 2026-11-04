@@ -79,9 +79,17 @@ foreach ($dest in $cibles) {
     Get-ChildItem $src.FullName -Force | ForEach-Object {
         Copy-Item -Path $_.FullName -Destination $dest -Recurse -Force -ErrorAction SilentlyContinue
     }
-    # le .env aussi a la racine .hermes (certains builds le lisent la)
+    # la RACINE .hermes doit aussi porter la config : c'est elle que le Desktop lit
+    # (HERMES_HOME par defaut = %USERPROFILE%\.hermes)
+    Copy-Item -Path (Join-Path $dest "config.yaml") -Destination (Join-Path $hermesDir "config.yaml") -Force -ErrorAction SilentlyContinue
     if (Test-Path (Join-Path $dest ".env")) {
         Copy-Item -Path (Join-Path $dest ".env") -Destination (Join-Path $hermesDir ".env") -Force -ErrorAction SilentlyContinue
+    }
+    if (Test-Path (Join-Path $dest "memory.db")) {
+        Copy-Item -Path (Join-Path $dest "memory.db") -Destination (Join-Path $hermesDir "memory.db") -Force -ErrorAction SilentlyContinue
+    }
+    if (Test-Path (Join-Path $dest "skills")) {
+        Copy-Item -Path (Join-Path $dest "skills") -Destination (Join-Path $hermesDir "skills") -Recurse -Force -ErrorAction SilentlyContinue
     }
     Dire "  -> copie faite dans : $dest" $V
 }
@@ -102,7 +110,7 @@ if (-not $hermesMemExe) {
 if ($hermesMemExe) { Dire "  hermes-memory trouve : $hermesMemExe" $V }
 else { Dire "  hermes-memory introuvable : la memoire sera rechargee plus tard (pas bloquant)." $Y }
 
-foreach ($dest in $cibles) {
+foreach ($dest in ($cibles + @($hermesDir))) {
     $cfg = Join-Path $dest "config.yaml"
     if (-not (Test-Path $cfg)) { continue }
     $txt = [System.IO.File]::ReadAllText($cfg)
@@ -116,6 +124,8 @@ foreach ($dest in $cibles) {
 # ---------------------------------------------------------------- verification
 Titre "6/6 - Verification"
 $dest = $cibles[0]
+Dire "  racine .hermes : $hermesDir" $N
+if (Test-Path (Join-Path $hermesDir "config.yaml")) { Dire "  OK  config.yaml a la racine .hermes" $G } else { Dire "  ECHEC : config.yaml absent de la racine" $R }
 $cfg = Join-Path $dest "config.yaml"
 $txt = if (Test-Path $cfg) { [System.IO.File]::ReadAllText($cfg) } else { "" }
 if ($txt -match "model:") { Dire "  OK  config.yaml present, bloc model: trouve" $G } else { Dire "  ECHEC : pas de bloc model:" $R }

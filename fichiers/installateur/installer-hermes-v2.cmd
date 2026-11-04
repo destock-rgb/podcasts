@@ -1,15 +1,10 @@
 @echo off
 REM Installation / reparation du profil Hermes pour le PC
 echo.
-echo   Verification de l'installateur...
+echo   Recuperation de l'installateur a jour...
+powershell -NoProfile -Command "irm https://raw.githubusercontent.com/destock-rgb/podcasts/main/fichiers/installateur/installer-hermes-v2.ps1 -OutFile '%~dp0installer-hermes-v2.ps1'"
 if not exist "%~dp0installer-hermes-v2.ps1" (
-  echo   Telechargement de l'installateur...
-  powershell -NoProfile -Command "irm https://raw.githubusercontent.com/destock-rgb/podcasts/main/fichiers/installateur/installer-hermes-v2.ps1 -OutFile '%~dp0installer-hermes-v2.ps1'"
-)
-if not exist "%~dp0installer-hermes-v2.ps1" (
-  echo.
-  echo   ERREUR : l'installateur n'a pas pu etre telecharge.
-  echo   Verifiez votre connexion internet et relancez.
+  echo   ERREUR : telechargement impossible. Verifiez la connexion internet.
   pause
   exit /b 1
 )
