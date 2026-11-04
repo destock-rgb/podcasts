@@ -141,4 +141,4 @@ Write-Host ""
 Dire "  Si le message 'No inference provider configured' revient," $N
 Dire "  faites une capture d'ecran de la fenetre et envoyez-la." $N
 Write-Host ""
-Read-Host "  Appuyez sur Entree pour fermer"
+Write-Host "  Vous pouvez fermer cette fenetre."
