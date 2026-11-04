@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-03",
+ "genere_le": "2026-11-04",
  "jeux": [
   {
    "id": "939ba31284",
@@ -7,7 +7,7 @@
    "lot": "2 bons séjours Belambra Clubs de 5000€",
    "valeur_max": 5000,
    "fin": "2026-11-06",
-   "jours_restants": 3,
+   "jours_restants": 2,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"
@@ -24,7 +24,7 @@
    "lot": "Par tirage au sort final : 1 bon d'achat \"Auchan Voyages\" de 15 000€ 5 consoles de jeux Nintendo Switch 2 avec \"Super Mario Galaxy + Super Mario Galaxy 2\" Par tirage au sort intermédiaire (selon vos points) : 30 kits acc",
    "valeur_max": 15000,
    "fin": "2026-11-08",
-   "jours_restants": 5,
+   "jours_restants": 4,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"
@@ -36,41 +36,12 @@
    "lien": "https://www.ledemondujeu.com/jeux-concours-auchan.fr.html"
   },
   {
-   "id": "ca094df827",
-   "organisateur": "cgrcinemas.fr",
-   "lot": "1 séjour en famille au Parc du Futuroscope (1100€) 1 lot de 4 entrées au Futuroscope (236€)",
-   "valeur_max": 1100,
-   "fin": "2026-11-03",
-   "jours_restants": 0,
-   "mecaniques": [
-    "Tirage au sort"
-   ],
-   "principe": "Laissez vos coordonnées + 3 questions",
-   "reponses": [
-    {
-     "n": 1,
-     "r": "2 parcs pour toujours plus d'expériences à vivre"
-    },
-    {
-     "n": 2,
-     "r": "40"
-    },
-    {
-     "n": 3,
-     "r": "8"
-    }
-   ],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.cgrcinemas.fr/evenements/82241-jeu-concours-futuroscope-xperiences-x-cgr/?utm_source=agence-reflexemedia"
-  },
-  {
    "id": "9df1942e2e",
    "organisateur": "riffx.fr",
    "lot": "1 lot comportant 100 vinyles incontournables + 1 platine GLORIOUS DJ (4900€)",
    "valeur_max": 4900,
    "fin": "2026-11-08",
-   "jours_restants": 5,
+   "jours_restants": 4,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -81,12 +52,29 @@
    "lien": "https://www.riffx.fr/concours/la-discotheque-de-legende-2026/?utm_source=agence-reflexemedia.com"
   },
   {
+   "id": "82e9d29ac9",
+   "organisateur": "lebonnumero.fr",
+   "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
+   "valeur_max": 28600,
+   "fin": "2026-12-04",
+   "jours_restants": 30,
+   "mecaniques": [
+    "Tirage au sort",
+    "Fréquence quotidienne"
+   ],
+   "principe": "Jeu gratuit type loterie : remplissez jusqu'à 3 grilles par jour pour participer au tirage quotidien. Vous pouvez jouer tous les jours.",
+   "reponses": [],
+   "departement": "",
+   "frequence": "tous les jours",
+   "lien": "https://www.reflexemedia.com/diff.php?c=1636"
+  },
+  {
    "id": "a88d99f4b1",
    "organisateur": "meribel.net",
    "lot": "1 séjour d'une semaine au ski pour 6 personnes dans un appartement VIP au cœur de la station Méribel avec les forfaits de ski 3 Vallées (8000€)",
    "valeur_max": 8000,
    "fin": "2026-11-09",
-   "jours_restants": 6,
+   "jours_restants": 5,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -102,7 +90,7 @@
    "lot": "1 bon d'achat Decathlon de 800€",
    "valeur_max": 800,
    "fin": "2026-11-04",
-   "jours_restants": 1,
+   "jours_restants": 0,
    "mecaniques": [
     "Tirage au sort"
    ],
