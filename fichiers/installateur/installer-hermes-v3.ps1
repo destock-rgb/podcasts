@@ -85,12 +85,25 @@ foreach ($cand in @("py", "python", "python3")) {
     $trouve = (Get-Command $cand -ErrorAction SilentlyContinue)
     if ($trouve) { $py = $cand; break }
 }
-if ($py) {
-    Dire "  python trouve : $py" $V
-    & $py -m pip install --quiet --disable-pip-version-check hermes-memory edge-tts 2>&1 | Out-Null
-    if ($LASTEXITCODE -eq 0) { Dire "  OK  hermes-memory et edge-tts installes" $G }
-    else { Dire "  ATTENTION : installation pip incomplete (pas bloquant)" $Y }
-} else { Dire "  ATTENTION : python introuvable (pas bloquant)" $Y }
+# 1) priorite au Python du DESKTOP (c'est lui qui lance l'agent)
+$pyApp = Join-Path $env:LOCALAPPDATA "hermes\hermes-agent\venv\Scripts\python.exe"
+if (-not (Test-Path $pyApp)) {
+    $trouvePy = Get-ChildItem (Join-Path $env:LOCALAPPDATA "hermes") -Filter "python.exe" -Recurse -File -ErrorAction SilentlyContinue |
+                Where-Object { $_.DirectoryName -like "*Scripts*" } | Select-Object -First 1
+    if ($trouvePy) { $pyApp = $trouvePy.FullName }
+}
+if ($pyApp -and (Test-Path $pyApp)) {
+    Dire "  Python du Desktop : $pyApp" $V
+    & $pyApp -m pip install --quiet --disable-pip-version-check concurrent-log-handler hermes-memory edge-tts 2>&1 | Out-Null
+    if ($LASTEXITCODE -eq 0) { Dire "  OK  memoire + voix installes dans le Desktop" $G }
+    else { Dire "  ATTENTION : installation incomplete (pas bloquant)" $Y }
+    & $pyApp -c "import concurrent_log_handler, hermes_memory; print('  VERIF OK : modules presents')" 2>&1 | Out-Null
+    if ($LASTEXITCODE -eq 0) { Dire "  OK  verification : concurrent_log_handler et hermes_memory charges" $G }
+} elseif ($py) {
+    Dire "  Python systeme : $py" $V
+    & $py -m pip install --quiet --disable-pip-version-check concurrent-log-handler hermes-memory edge-tts 2>&1 | Out-Null
+    Dire "  (le Desktop n'a pas ete trouve : verifiez la ligne 'Gateway ready' plus tard)" $Y
+} else { Dire "  ATTENTION : aucun python trouve" $Y }
 
 Titre "7/7 - Verification"
 foreach ($dest in $cibles) {
