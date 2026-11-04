@@ -79,31 +79,66 @@ foreach ($dest in $cibles) {
     Dire "  chemins corriges : $cfg" $V
 }
 
-Titre "6/7 - Installation de la memoire et de la voix (si possible)"
-$py = $null
-foreach ($cand in @("py", "python", "python3")) {
-    $trouve = (Get-Command $cand -ErrorAction SilentlyContinue)
-    if ($trouve) { $py = $cand; break }
-}
-# 1) priorite au Python du DESKTOP (c'est lui qui lance l'agent)
+Titre "6/7 - Installation de la memoire et de la voix"
 $pyApp = Join-Path $env:LOCALAPPDATA "hermes\hermes-agent\venv\Scripts\python.exe"
 if (-not (Test-Path $pyApp)) {
     $trouvePy = Get-ChildItem (Join-Path $env:LOCALAPPDATA "hermes") -Filter "python.exe" -Recurse -File -ErrorAction SilentlyContinue |
                 Where-Object { $_.DirectoryName -like "*Scripts*" } | Select-Object -First 1
     if ($trouvePy) { $pyApp = $trouvePy.FullName }
 }
+$modules = "concurrent-log-handler","hermes-memory","edge-tts"
+$ok = $false
+
 if ($pyApp -and (Test-Path $pyApp)) {
     Dire "  Python du Desktop : $pyApp" $V
-    & $pyApp -m pip install --quiet --disable-pip-version-check concurrent-log-handler hermes-memory edge-tts 2>&1 | Out-Null
-    if ($LASTEXITCODE -eq 0) { Dire "  OK  memoire + voix installes dans le Desktop" $G }
-    else { Dire "  ATTENTION : installation incomplete (pas bloquant)" $Y }
-    & $pyApp -c "import concurrent_log_handler, hermes_memory; print('  VERIF OK : modules presents')" 2>&1 | Out-Null
-    if ($LASTEXITCODE -eq 0) { Dire "  OK  verification : concurrent_log_handler et hermes_memory charges" $G }
-} elseif ($py) {
-    Dire "  Python systeme : $py" $V
-    & $py -m pip install --quiet --disable-pip-version-check concurrent-log-handler hermes-memory edge-tts 2>&1 | Out-Null
-    Dire "  (le Desktop n'a pas ete trouve : verifiez la ligne 'Gateway ready' plus tard)" $Y
-} else { Dire "  ATTENTION : aucun python trouve" $Y }
+    # methode 1 : pip direct
+    & $pyApp -m pip install --quiet --disable-pip-version-check $modules 2>&1 | Out-Null
+    if ($LASTEXITCODE -eq 0) { $ok = $true }
+    # methode 2 : ensurepip puis pip
+    if (-not $ok) {
+        Dire "  pip absent : installation de pip (ensurepip)..." $N
+        & $pyApp -m ensurepip --upgrade 2>&1 | Out-Null
+        & $pyApp -m pip install --quiet --disable-pip-version-check $modules 2>&1 | Out-Null
+        if ($LASTEXITCODE -eq 0) { $ok = $true }
+    }
+    # methode 3 : uv
+    if (-not $ok) {
+        $uvTrouve = Get-ChildItem (Join-Path $env:LOCALAPPDATA "hermes") -Filter "uv.exe" -Recurse -File -ErrorAction SilentlyContinue |
+                    Select-Object -First 1
+        if ($uvTrouve) {
+            Dire "  pip indisponible : utilisation de uv" $N
+            & $uvTrouve.FullName pip install --python $pyApp $modules 2>&1 | Out-Null
+            if ($LASTEXITCODE -eq 0) { $ok = $true }
+        }
+    }
+    # verification reelle de l'import
+    & $pyApp -c "import concurrent_log_handler" 2>&1 | Out-Null
+    if ($LASTEXITCODE -eq 0) {
+        Dire "  OK  concurrent_log_handler charge" $G
+        $ok = $true
+    } else {
+        Dire "  le module reste absent : on retire le bloc memoire de la config" $Y
+        $ok = $false
+    }
+} else {
+    Dire "  Python du Desktop introuvable" $Y
+}
+
+# repli : sans le serveur MCP de memoire, l'agent demarre quand meme
+# et les fichiers memories\MEMORY.md + USER.md sont toujours lus.
+if (-not $ok) {
+    foreach ($dest in $cibles) {
+        $cfg = Join-Path $dest "config.yaml"
+        if (-not (Test-Path $cfg)) { continue }
+        $txt = [System.IO.File]::ReadAllText($cfg)
+        if ($txt -match "(?ms)^mcp_servers:") {
+            $txt = [regex]::Replace($txt, "(?ms)^mcp_servers:.*?(?=^\S)", "")
+            [System.IO.File]::WriteAllText($cfg, $txt, (New-Object System.Text.UTF8Encoding($false)))
+            Dire "  bloc mcp_servers retire de : $cfg" $V
+        }
+    }
+    Dire "  NOTE : les memoires (MEMORY.md, USER.md) restent chargees." $C
+}
 
 Titre "7/7 - Verification"
 foreach ($dest in $cibles) {
