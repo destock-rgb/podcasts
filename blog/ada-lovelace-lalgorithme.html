@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ada Lovelace, l'algorithme avant la machine — Qui c'est celui-là ?</title>
+<meta name="description" content="Ada Lovelace (1815-1852) : ses sept notes de 1843, la note G et l'algorithme des nombres de Bernoulli, l'objection de Turing. Portrait radiophonique sourcé.">
+<style>
+  :root { --bleu:#0A1E50; --pale:#C7D2E6; --num:#5F73B0; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:var(--bleu); color:#fff; font-family:Georgia,'Times New Roman',serif; line-height:1.65; }
+  .wrap { max-width:720px; margin:0 auto; padding:3rem 1.2rem 4rem; }
+  .marque { color:var(--pale); text-decoration:none; font-size:1.1rem; font-weight:bold; display:inline-block; margin-bottom:.3rem; } .marque:hover { color:#fff; }
+  h1 { margin-top:.8rem; font-size:clamp(1.6rem, 5vw, 2.4rem); }
+  .sous { color:var(--pale); font-style:italic; margin:.4rem 0 1.4rem; }
+  .avert { font-size:.8rem; color:var(--pale); border-left:3px solid var(--num); padding:.6rem 1rem; background:rgba(255,255,255,.05); border-radius:0 8px 8px 0; margin:1.2rem 0; }
+  h2 { margin:1.6rem 0 .4rem; font-size:1.25rem; }
+  .chapo { font-size:1.05rem; color:var(--pale); font-style:italic; margin:1.2rem 0; }
+  p { margin:.7rem 0; }
+  .legende { color:var(--pale); font-size:.85em; font-style:italic; }
+  blockquote { border-left:3px solid var(--num); padding-left:1rem; margin:1rem 0; color:var(--pale); }
+  .retour { margin-top:2.5rem; }
+  .retour a { color:var(--pale); }
+  .ecouter { margin:1.6rem 0; padding:1rem 1.1rem; border:1px solid var(--num); border-radius:10px; background:rgba(255,255,255,.04); }
+  .ecouter h3 { color:var(--pale); font-size:1rem; margin-bottom:.5rem; letter-spacing:.04em; text-transform:uppercase; }
+  .ecouter .liens { font-size:.95rem; }
+  .ecouter .liens a { color:var(--pale); }
+  .ecouter img { width:100%; max-width:260px; border-radius:8px; display:block; margin:.8rem auto 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="marque" href="../index.html">Qui c'est celui-là ?</a>
+    <h1>Ada Lovelace, l'algorithme avant la machine</h1>
+    <p class="sous">Portrait n°32 - la comtesse qui a écrit le premier programme sur une machine qui n'a jamais existé</p>
+  </header>
+
+  <p class="avert">Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial.
+  Les faits présentés dans cet article sont réels et sourcés ; l'entretien est une reconstitution imaginée.</p>
+
+  <figure style="margin:1.6rem 0">
+  <img src="../img/ada-lovelace-portrait.jpg" alt="Portrait d'Ada Lovelace, peinture d'Alfred Edward Chalon vers 1840" style="width:100%;max-width:360px;border-radius:10px;display:block;margin:0 auto;box-shadow:0 4px 18px rgba(0,0,0,.35)">
+  <figcaption style="color:var(--pale,#C7D2E6);font-size:.82em;text-align:center;font-style:italic;margin-top:.45rem">Ada Lovelace (1815-1852), portrait par Alfred Edward Chalon, vers 1840 - domaine public, Wikimedia Commons</figcaption>
+</figure>
+
+  <div class="ecouter">
+    <h3>Écouter l'épisode</h3>
+    <p class="liens"><strong>Ada Lovelace - L'algorithme avant la machine</strong>, épisode n°32 - durée de l'entretien à venir<br>
+    <a href="../fichiers/episode-32.mp3">🎧 Télécharger l'audio</a> ·
+    <a href="../fichiers/pochette-32.jpg">🖼️ Pochette de l'épisode</a></p>
+    <img src="../fichiers/pochette-32.jpg" alt="Pochette de l'épisode n°32, Ada Lovelace - L'algorithme avant la machine">
+  </div>
+
+  <p>Dans une maison de Marylebone, à l'été 1843, une comtesse de vingt-sept ans relit un volume qui vient de sortir des presses : la traduction anglaise d'un article italien consacré à une machine qui n'existe pas. Elle y joint sept notes, signées de trois lettres, A.A.L. Un siècle et demi plus tard, on lit encore ces pages comme le premier programme de l'informatique, et l'on s'étonne surtout d'une phrase glissée au passage : la machine n'a aucune prétention à rien originer.</p>
+
+  <p class="chapo">Fille d'un poète célèbre qu'elle n'a jamais vu, comtesse de vingt-sept ans sans le droit de disposer de son propre argent, Ada Lovelace écrit en 1843 le premier algorithme jamais publié - pour une machine qui ne sera jamais construite. Elle pose en même temps la question qui partage aujourd'hui les informaticiens en deux camps : une machine peut-elle penser ?</p>
+
+  <h2>Marylebone, été 1843 : un livre qui n'existait pas</h2>
+  <p>La scène est celle d'un premier livre de mathématiques applicatives. En <strong>1840</strong>, à Turin, Charles Babbage donne la seule conférence publique de sa vie sur sa machine analytique. Un Italien, <strong>Luigi Federico Menabrea</strong>, en rédige un compte rendu en français, publié en <strong>octobre 1842</strong> dans la <em>Bibliothèque universelle de Genève</em>. En <strong>février 1843</strong>, Charles Wheatstone propose à Ada Lovelace de traduire ce texte en anglais. Neuf mois de travail.</p>
+  <p>La traduction paraît dans le troisième volume des <em>Scientific Memoirs</em> de Richard et John E. Taylor, à Londres, en <strong>1843</strong>. Les sept notes de l'a-traductrice suivent, de <strong>A</strong> à <strong>G</strong>, tirées le <strong>24 août 1843</strong>. Elles sont signées <strong>A.A.L.</strong> - une femme de ce rang ne signe pas son nom dans une revue - et font environ <strong>trois fois la longueur de la traduction</strong> elle-même.</p>
+  <p>Ce que l'on retient, c'est la note G : une <strong>table d'opérations</strong> pour le calcul des <strong>nombres de Bernoulli</strong>, écrite pour être exécutée par la machine. Le premier algorithme publié pour un calculateur. Babbage lui avait fourni les formules de base et elle y a corrigé une erreur grave de son calcul, comme le rapporte Babbage lui-même dans ses <em>Passages from the Life of a Philosopher</em> (1864).</p>
+
+  <h2>L'enfance d'une fille qui n'a pas vu son père</h2>
+  <p><strong>Augusta Ada Byron</strong> naît le <strong>10 décembre 1815 à Londres</strong>, fille de George Gordon Byron et d'<strong>Anne Isabella Milbanke</strong>. Le couple se sépare le <strong>16 janvier 1816</strong>, un mois après la naissance ; Lady Byron obtient la garde de l'enfant. Byron part pour le continent en <strong>avril 1816</strong> et meurt en <strong>1824</strong> en Grèce : Ada ne le verra jamais.</p>
+  <p>Ce qui structure l'enfance, c'est la réaction de la mère. Byron étant poète, Lady Byron veut tenir sa fille à l'écart de la littérature : elle lui fait donner des leçons de mathématiques, avec pour précepteurs William Frend et William King. C'est l'ironie fondatrice du personnage, et Ada l'a formulée elle-même dans une note que l'English Heritage reproduit sur sa plaque bleue : <em>je ne crois pas que mon père ait été ( ou ait jamais pu être ) un aussi grand poète que je serai un analyste ( et métaphysicien )</em>. Un plan qui rate son but - et qui lui donne l'outil qui rendra possible tout le reste.</p>
+  <p>En <strong>1832</strong>, Ada rencontre <strong>Mary Somerville</strong>, qui lui présente Babbage le <strong>5 juin 1833</strong>. En <strong>1835</strong>, elle et <strong>Caroline Herschel</strong> sont les premières femmes admises à la Royal Astronomical Society. En <strong>1840</strong>, <strong>Auguste De Morgan</strong> accepte de lui enseigner le calcul et l'analyse supérieure : elle étudie avec lui en 1840-1841, le soir, entre ses cours. La lettre que De Morgan adresse à Lady Byron le <strong>21 janvier 1844</strong> est sévère : la « force de raisonnement » d'Ada est, écrit-il, <em>utterly out of the common way for any beginner, man or woman</em>, et elle aurait pu être Senior Wrangler à Cambridge si elle avait été un homme. Comme l'a relevé l'étude de C. Hollings, A. Martin et A. Rice (<em>Bulletin of the British Society for the History of Mathematics</em>, 2017), c'est à la fois le plus grand compliment et la preuve du plafond.</p>
+
+  <h2>Le mariage, la dot, et une tutelle sur l'argent</h2>
+  <p>Le <strong>8 juillet 1835</strong>, Ada épouse <strong>William King-Noel</strong>, 8e baron King, qui devient en <strong>1838</strong> premier comte de Lovelace. Le contrat de mariage, consultable dans les archives du Surrey County Council, mentionne <strong>30 000 livres</strong> de dot et <strong>600 livres par an</strong> d'argent de poche pour la comtesse, et établit que le mari tient les comptes du ménage.</p>
+  <p>Le point est juridique, et il pèse sur toute la suite. Une femme de l'aristocratie anglaise de 1843 ne possède pas son argent : elle le reçoit. Ada en parle sans amertume dans l'entretien, mais elle en fait une clé de lecture : une femme qui écrit sans avoir la main sur son propre argent écrit sur un sol qui peut lui être retiré. Il faut y ajouter le reste : trois enfants en cinq ans - <strong>Byron</strong> en <strong>1836</strong>, <strong>Annabella</strong> en <strong>1837</strong>, <strong>Ralph Gordon</strong> en <strong>1839</strong> -, des fiefs à gérer (Ockham Park, Loch Torridon, une maison de Londres), des courses de chevaux, et une maison où la comtesse s'occupe de tout sauf de ce qui l'intéresse.</p>
+
+  <h2>Babbage et la machine qu'il n'a jamais construite</h2>
+  <p>La rencontre de 1833 se fait autour d'un fragment : Babbage montre un bout de machine à différences, fait de roues de laiton, et calcule devant elles. Ada comprend tout de suite ce que fait la machine, là où d'autres autour d'elle ne le voient pas. Babbage conçoit la <strong>machine analytique</strong> à partir de <strong>1834</strong>, et lui partage son idée générale dès <strong>novembre 1834</strong>. Il cherchait une machine qui ne fût pas seulement un outil de calcul ; il demande à la jeune femme de l'aider à l'expliquer. C'est elle qui traduit, commente et corrige.</p>
+  <p>Et la machine n'existera jamais. Babbage n'en construira qu'une fraction, le <em>Thesaurus</em>, à la fin de sa vie ; son fils Henry en construira une partie du moulin entre <strong>1880 et 1910</strong>, conservée au Science Museum. Babbage avait pourtant accumulé les plans : <strong>446 « notations »</strong> de la machine analytique entre <strong>1830 et 1847</strong>, selon le décompte rapporté par Stephen Wolfram, plus simples et moins fameuses que l'algorithme d'Ada. C'est le cas de le dire : ce n'est pas l'homme de la machine, c'est la lectrice qui a su dire ce que la machine ferait.</p>
+  <p>Babbage lui écrit à l'automne <strong>1843</strong> - le <strong>9 septembre</strong> - pour la traiter d'<em>Enchantress of Number</em>, et de <em>my dear and much admired Interpreter</em>. Le surnom a voyagé plus loin que la lettre, puis le livre de Betty Alexandra Toole, <em>Ada, the Enchantress of Numbers</em> (1992), l'a fixé dans la culture populaire. Ada, elle, ne l'a jamais revendiqué. Ce qu'elle préférait qu'on lui dise, c'était qu'elle était poétesse de la science.</p>
+
+  <h2>La note G : une table d'opérations, pas une formule</h2>
+  <p>Il faut regarder la note G de près, parce que c'est là que se joue le mot « programmation ». Ce n'est pas une formule, c'est une <strong>table d'opérations</strong> : on part de Bernoulli, on écrit la suite des manipulations dans l'ordre, et l'on précise où la machine doit s'arrêter et où elle doit reprendre. Ada dit elle-même dans l'entretien que son but n'était pas la facilité du calcul, mais d'illustrer les pouvoirs de la machine.</p>
+  <p>Sa formulation de 1843 est précise, et elle refuse les titres rétrospectifs : c'est le <strong>premier procédé de calcul destiné à être exécuté par une machine</strong>, publié comme tel. « Première programmeuse » est un mot de notre époque, pas du sien ; et elle ne revendique pas l'idée de faire calculer par une machine, qui était celle de Babbage avant elle. Ce qu'elle a donné au projet, c'est sa forme écrite. Le texte est consultable dans <em>Scientific Memoirs</em>, volume III, Londres, 1843, p. 666-731, et l'article de J. Fuegi et J. Francis (<em>Annals of the History of Computing</em>, 25(4), 2003) en a reconstitué la genèse.</p>
+  <p>Un détail rend la chose moins héroïque et plus humble : Babbage avait compilé ces 446 notations de sa propre main, et Ada les lit. Le mot « programme » ne désigne pas encore un objet informatique : il désigne une liste d'instructions publiée par une femme qui n'a jamais vu tourner la machine qu'elle vise.</p>
+
+  <h2>La vision : une machine qui compose, et le métier de Jacquard</h2>
+  <p>Dans la note A, Ada Lovelace va beaucoup plus loin que le calcul. Si les rapports fondamentaux des sons, dans l'harmonie et la composition, peuvent s'exprimer par les mêmes relations abstraites que les quantités, alors la machine, qui manipule ces relations, peut composer des pièces d'une complexité arbitraire : <em>compose elaborate and scientific pieces of music of any degree of complexity or extent</em>. Le moteur peut agir sur d'autres choses que le nombre : des lettres, des symboles, des notes. Babbage voyait une machine à calculer ; elle voyait une machine à composer.</p>
+  <p>Et voici l'image qui a traversé le temps : <em>le moteur tisse des motifs algébriques comme le métier de Jacquard tisse des fleurs et des feuilles</em>. L'analogie est de Babbage, reprise et corrigée par Ada dans ses notes. Elle est arrivée par le travail, pas par le voyage : les sources situent en <strong>1834</strong> une tournée d'usines en Angleterre avec sa mère, dont une fabrique de rubans à Coventry, et aucune visite du métier de Jacquard à Paris n'est confirmée - elle ne s'était pas encore mariée.</p>
+  <p>Au milieu de tout cela, la phrase qui compte le plus : <em>la machine analytique n'a aucune prétention à rien originer ; elle peut faire tout ce que nous savons lui ordonner de faire</em>. Ada y distingue deux choses que l'on confond toujours : le calcul et l'expression. Calculer, c'est exécuter une suite d'opérations que quelqu'un a inventée ; composer, c'est choisir, et le choix reste humain.</p>
+
+  <h2>La brisure de 1843 et l'objection de 1950</h2>
+  <p>Il y a un moment où tout se retourne. Babbage avait fait insérer en tête de l'article une déclaration critique sur le traitement réservé par le gouvernement à ses machines, et cette déclaration devait rester anonyme. Le rédacteur de la revue a exigé qu'elle soit signée. Babbage écrit alors à Ada pour lui demander de retirer l'ensemble du texte - ignorant qu'elle n'en savait rien, et qu'elle l'a appris par sa lettre. Elle refuse : retirer un article publié parce que le coauteur a peur de son ombre n'est plus de la prudence, c'est une censure. Elle lui répond que ce serait indigne et injustifiable. La chronologie complète, reconstituée par Green puis par Fuegi et Francis, est claire : le tirage a lieu le <strong>24 août 1843</strong>, et le conflit se joue dans les semaines qui précèdent.</p>
+  <p>Un siècle plus tard, la phrase de la note G devient une cible. En <strong>1950</strong>, dans <em>Computing Machinery and Intelligence</em>, le mathématicien britannique <strong>Alan Turing</strong> la reprend et la baptise <strong>l'objection de Lady Lovelace</strong>, avant d'y répondre : on peut ordonner à une machine d'être originale. La question d'Ada - une machine peut-elle penser ? - n'était pas de savoir si la machine ferait plus qu'un homme, mais si elle pouvait avoir une vie propre. C'est sa formulation qui est devenue le test, et c'est elle qui reste sans réponse.</p>
+
+  <h2>Santé, chevaux, et une mort à trente-six ans</h2>
+  <p>Ada Lovelace a passé des années entre la chambre et le canapé. Santé fragile depuis l'enfance, pertes de sang récurrentes, opium : le Science Museum et les Bodleian Libraries rappellent que sa santé déclina nettement après 1843. Les médecins n'y entendaient rien, et le saignement ne leur semblait pas le bon remède, comme le dit l'entretien. Elle joue au horse-booking et perd gros : elle met en gage des bijoux, et le MacTutor note une perte de <strong>3 200 livres</strong> au Derby d'Epsom et une dette de jeu de <strong>2 000 livres</strong> à sa mort.</p>
+  <p>Elle meurt le <strong>27 novembre 1852 à Marylebone</strong>, à <strong>trente-six ans</strong>, d'un cancer - un cancer du col de l'utérin dans la terminologie actuelle, la « maladie utérine » de l'époque. Son père en avait trente-six. Elle est enterrée, à la demande de sa mère, dans l'église Sainte-Marie-Madeleine de <strong>Hucknall</strong>, dans le Nottinghamshire, à quelques kilomètres de Lord Byron, qu'elle n'a jamais connu.</p>
+
+  <h2>L'oubli, puis la reconnaissance</h2>
+  <p>Pendant plus d'un siècle, Ada Lovelace disparaît de l'histoire : on ne parle d'elle que comme de la fille bizarre du célèbre poète. Ses notes sont rangées dans une bibliothèque ; on les réimprime en <strong>1953</strong>, en annexe du livre de B. V. Bowden, <em>Faster than Thought</em>, et l'on s'étonne. Ce n'est pas de l'oubli, c'est de la paresse : on ne lit pas ce qu'on ne comprend pas.</p>
+  <p>La réinsertion passe par les machines. Le <strong>Science Museum</strong> de Londres construit la machine à différences n°2 de <strong>1991 à 2002</strong> - 8 000 pièces, cinq tonnes - sous la direction de Doron Swade, et numérise l'archive Babbage en <strong>2012</strong>. En <strong>2011</strong>, Swade et John Graham-Cumming fondent le projet <strong>Plan 28</strong>, pour reconstruire la machine analytique à partir des plans d'origine. Aujourd'hui, on lit ses notes comme un programme.</p>
+  <p>Le reste est monetarisation du souvenir : la défense américaine nomme en <strong>1979-1980</strong> son langage de programmation <strong>Ada</strong>, et l'Association for Women in Computing crée en <strong>1981</strong> un prix Ada Lovelace. L'English Heritage pose en <strong>1992</strong> une <strong>plaque bleue</strong> au <strong>12 St James's Square</strong> à Londres (le blog de la Bodleian Libraries mentionne 1993). Depuis <strong>2009</strong>, le <strong>deuxième mardi d'octobre</strong> est l'Ada Lovelace Day, créé par Suw Charman-Anderson.</p>
+  <p>Le monde a fini par payer en monuments ce qu'il refusait en moyens. Ada, dans l'entretien, refuse le mot <em>programmeuse</em> et propose une autre formule : la première programmatrice, dans l'histoire du mot, a d'abord été une lectrice. Elle a lu une machine dans la tête d'un homme, et elle a écrit ce qu'elle y a trouvé. La question qu'elle a posée reste entière, et c'est ce qui rend son travail vivant : tant que personne n'y répond, la note G n'est pas un monument, c'est une question en cours.</p>
+
+  <p class="retour"><a href="../index.html">← Tous les portraits</a></p>
+</div>
+</body>
+</html>

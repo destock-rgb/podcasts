@@ -1,0 +1,10 @@
+Ada Lovelace — L'algorithme avant la machine
+
+Marylebone, 1843. Une comtesse écrit le premier programme de l'histoire sur une machine qui n'a jamais été construite.
+
+Les sept notes de Babbage, l'algorithme du nombre de Bernoulli, et sa question : une machine peut-elle penser ?
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Ada_Lovelace · https://en.wikipedia.org/wiki/Note_G
+#AdaLovelace #Algorithme #HistoireDesFemmes #MachineAnalytique

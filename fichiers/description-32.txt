@@ -1,0 +1,14 @@
+Ada Lovelace — La femme qui a demandé si une machine peut penser
+
+En 1843, une comtesse de Londres écrit le premier programme de l'histoire de l'informatique sur une machine qui n'a jamais été construite. Un siècle et demi plus tard, le monde découvre à la fois ses notes et le silence dans lequel on les avait laissées.
+
+Augusta Ada King, comtesse de Lovelace, née Byron, fille du célèbre poète Lord Byron qu'elle n'a jamais connu, passe neuf mois de 1842 à 1843 à traduire en anglais l'article du mathématicien italien Menabrea sur la machine analytique de Charles Babbage. Elle y ajoute sept notes, de A à G, près de trois fois plus longues que la traduction. La dernière, la note G, décrit une table d'opérations permettant de calculer les nombres de Bernoulli sur la machine : le premier algorithme publié pour un calculateur.
+
+Mais l'épisode s'ouvre sur une autre question, celle qu'elle pose elle-même dans la note G : le moteur n'a aucune prétention à rien originer, il ne fait que ce qu'on sait lui ordonner. Une machine peut-elle penser ? C'est cette phrase que Turing baptisera en 1950 l'objection de Lady Lovelace, et c'est elle qui fait d'Ada Lovelace bien plus qu'une programmeuse.
+
+Dans cet entretien imaginaire à Marylebone, à l'été 1843, la comtesse de Lovelace raconte sa mère qui lui apprend les mathématiques pour la tenir à l'écart de son père, sa rencontre avec Babbage à dix-sept ans, le calcul des nombres de Bernoulli, l'analogie du métier de Jacquard, la querelle qui l'oppose à Babbage sur la signature de leur papier, l'argent qu'elle n'a pas le droit de disposer, les chevaux et les pari de course, la maladie qui l'emporte à trente-six ans, et le siècle d'oubli qui suit, jusqu'à la plaque bleue de Londres, au langage Ada de la défense américaine et à l'Ada Lovelace Day du deuxième mardi d'octobre.
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial ; les propos sont une reconstitution imaginée. Tous les faits biographiques et scientifiques cités sont réels et sourcés.
+📚 Sources : https://fr.wikipedia.org/wiki/Ada_Lovelace · https://en.wikipedia.org/wiki/Note_G · https://www.sciencemuseum.org.uk/objects-and-stories/charles-babbages-difference-engines-and-science-museum
+#AdaLovelace #ComtesseDeLovelace #MachineAnalytique #CharlesBabbage #PremierProgramme #NombresDeBernoulli #NoteG #SciencePoetique #HistoireDesFemmes #Informatique #Portrait #QuiEstCeluiLa
