@@ -72,6 +72,10 @@ foreach ($dest in $cibles) {
     $cfg = Join-Path $dest "config.yaml"
     if (-not (Test-Path $cfg)) { continue }
     $txt = [System.IO.File]::ReadAllText($cfg)
+    # le fournisseur "ollama" est un alias de "custom" (fournisseur LOCAL) : il n'envoie aucune
+    # cle -> HTTP 401. Le bon nom, enregistre dans Hermes, est "ollama-cloud".
+    $txt = [regex]::Replace($txt, "provider: ollama(?!-)", "provider: ollama-cloud")
+    $txt = [regex]::Replace($txt, "(?m)^(\s+)ollama:", '$1ollama-cloud:')
     $db = (Join-Path $dest "memory.db").Replace('\','/')
     $txt = $txt.Replace("/data/profiles/med/memory.db", $db)
     if ($hermesMem) { $txt = $txt.Replace("/data/.local/bin/hermes-memory", $hermesMem.Replace('\','/')) }
