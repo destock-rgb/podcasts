@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-04",
+ "genere_le": "2026-11-05",
  "jeux": [
   {
    "id": "939ba31284",
@@ -7,7 +7,7 @@
    "lot": "2 bons séjours Belambra Clubs de 5000€",
    "valeur_max": 5000,
    "fin": "2026-11-06",
-   "jours_restants": 2,
+   "jours_restants": 1,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"
@@ -24,7 +24,7 @@
    "lot": "Par tirage au sort final : 1 bon d'achat \"Auchan Voyages\" de 15 000€ 5 consoles de jeux Nintendo Switch 2 avec \"Super Mario Galaxy + Super Mario Galaxy 2\" Par tirage au sort intermédiaire (selon vos points) : 30 kits acc",
    "valeur_max": 15000,
    "fin": "2026-11-08",
-   "jours_restants": 4,
+   "jours_restants": 3,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"
@@ -36,12 +36,33 @@
    "lien": "https://www.ledemondujeu.com/jeux-concours-auchan.fr.html"
   },
   {
+   "id": "6798fa8de0",
+   "organisateur": "intermarche.com",
+   "lot": "1 séjour d'une semaine pour 4 personnes à la résidence Pierre & Vacances Le Thabor à Valmeinier avec matériel de ski et dîner (3850€) 15 appareils à croque-monsieur (299€) 30 appareils à fondue (99€)",
+   "valeur_max": 3850,
+   "fin": "2026-11-15",
+   "jours_restants": 10,
+   "mecaniques": [
+    "Instants Gagnants"
+   ],
+   "principe": "Inscrivez-vous + 1 question + Instants Gagnants (Jeu Fidélité)",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Des skis"
+    }
+   ],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://www.ledemondujeu.com/jeux-concours-intermarche.com.html"
+  },
+  {
    "id": "9df1942e2e",
    "organisateur": "riffx.fr",
    "lot": "1 lot comportant 100 vinyles incontournables + 1 platine GLORIOUS DJ (4900€)",
    "valeur_max": 4900,
    "fin": "2026-11-08",
-   "jours_restants": 4,
+   "jours_restants": 3,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -52,29 +73,12 @@
    "lien": "https://www.riffx.fr/concours/la-discotheque-de-legende-2026/?utm_source=agence-reflexemedia.com"
   },
   {
-   "id": "82e9d29ac9",
-   "organisateur": "lebonnumero.fr",
-   "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
-   "valeur_max": 28600,
-   "fin": "2026-12-04",
-   "jours_restants": 30,
-   "mecaniques": [
-    "Tirage au sort",
-    "Fréquence quotidienne"
-   ],
-   "principe": "Jeu gratuit type loterie : remplissez jusqu'à 3 grilles par jour pour participer au tirage quotidien. Vous pouvez jouer tous les jours.",
-   "reponses": [],
-   "departement": "",
-   "frequence": "tous les jours",
-   "lien": "https://www.reflexemedia.com/diff.php?c=1636"
-  },
-  {
    "id": "a88d99f4b1",
    "organisateur": "meribel.net",
    "lot": "1 séjour d'une semaine au ski pour 6 personnes dans un appartement VIP au cœur de la station Méribel avec les forfaits de ski 3 Vallées (8000€)",
    "valeur_max": 8000,
    "fin": "2026-11-09",
-   "jours_restants": 5,
+   "jours_restants": 4,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -85,37 +89,21 @@
    "lien": "https://www.reflexemedia.com/diff.php?c=1632"
   },
   {
-   "id": "284ffcf96d",
-   "organisateur": "mae.fr",
-   "lot": "1 bon d'achat Decathlon de 800€",
-   "valeur_max": 800,
-   "fin": "2026-11-04",
-   "jours_restants": 0,
+   "id": "82e9d29ac9",
+   "organisateur": "lebonnumero.fr",
+   "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
+   "valeur_max": 28600,
+   "fin": "2026-12-04",
+   "jours_restants": 29,
    "mecaniques": [
-    "Tirage au sort"
+    "Tirage au sort",
+    "Fréquence quotidienne"
    ],
-   "principe": "Laissez vos coordonnées + 4 questions",
-   "reponses": [
-    {
-     "n": 1,
-     "r": "Regarder à gauche puis à droite puis encore à gauche et vérifier que les véhicules le laissent passer"
-    },
-    {
-     "n": 2,
-     "r": "Obligatoire même pour un trajet très court"
-    },
-    {
-     "n": 3,
-     "r": "La formule 24/24+ pour une protection également dans la vie quotidienne 365j/an"
-    },
-    {
-     "n": 4,
-     "r": "Prévoir un parcours adapté aux enfants et vérifier les vélos ainsi que leurs équipements"
-    }
-   ],
+   "principe": "Jeu gratuit type loterie : remplissez jusqu'à 3 grilles par jour pour participer au tirage quotidien. Vous pouvez jouer tous les jours.",
+   "reponses": [],
    "departement": "",
-   "frequence": "",
-   "lien": "https://form.dragnsurvey.com/survey/r/65085407?utm_source=agence-reflexemedia"
+   "frequence": "tous les jours",
+   "lien": "https://www.reflexemedia.com/diff.php?c=1636"
   }
  ]
 }
