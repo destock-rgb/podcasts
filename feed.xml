@@ -1,179 +1,515 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Les Grandes Voix Devant le Présent</title>
-    <link>https://open.spotify.com/show/votre-id</link>
-    <language>fr</language>
-    <copyright>2024 Les Grandes Voix Devant le Présent</copyright>
-    <itunes:subtitle>Les figures de l'Histoire réagissent à notre monde</itunes:subtitle>
-    <itunes:author>Les Grandes Voix Devant le Présent</itunes:author>
-    <itunes:summary>Podcast fictionnel : des figures historiques (De Gaulle, Simone Veil, Jean Jaurès, Mandela, Marie Curie, Pasteur...) interviewées sur les enjeux contemporains. Chaque épisode est une œuvre de fiction pédagogique qui fait dialoguer le passé et le présent.</itunes:summary>
-    <description>Podcast fictionnel : des figures historiques (De Gaulle, Simone Veil, Jean Jaurès, Mandela, Marie Curie, Pasteur...) interviewées sur les enjeux contemporains. Chaque épisode est une œuvre de fiction pédagogique qui fait dialoguer le passé et le présent.</description>
-    <itunes:owner>
-      <itunes:name>Les Grandes Voix Devant le Présent</itunes:name>
-      <itunes:email>contact@grandesvoix.fr</itunes:email>
-    </itunes:owner>
-    <itunes:image href="http://187.127.64.150:8080/pochette-generale.jpg"/>
-    <itunes:category text="Society &amp; Culture">
-      <itunes:category text="History"/>
-    </itunes:category>
-    <itunes:category text="Education"/>
-    <itunes:category text="News"/>
-    <itunes:explicit>no</itunes:explicit>
-    <atom:link href="http://187.127.64.150:8080/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Qui c'est celui-là ?</title>
+    <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+    <atom:link href="https://destock-rgb.github.io/podcasts/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</description>
+    <language>fr-FR</language>
+    <copyright>© 2026 Qui c'est celui-là ?</copyright>
+    <lastBuildDate>Sat, 07 Nov 2026 13:42:51 +0000</lastBuildDate>
+    <generator>Hermes - generer_flux_rss_v2.py</generator>
+    <itunes:author>Qui c'est celui-là ?</itunes:author>
+    <itunes:subtitle>Portraits · Interviews · Histoire</itunes:subtitle>
+    <itunes:summary>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:image href="https://destock-rgb.github.io/podcasts/img/fr/qui-cest-ce-lui-la-podcast.jpg"/>
+    <itunes:owner><itunes:name>Qui c'est celui-là ?</itunes:name></itunes:owner>
+    <!-- TODO client : ajouter <atom:link rel="alternate" href="https://anchor.fm/.../podcast/rss"/> une fois l'URL Spotify for Creators copiee -->
+    <item>
+      <title>Marie Curie — La femme aux deux prix Nobel</title>
+      <description>Marie Curie — La femme aux deux prix Nobel
 
-    <!-- ÉPISODE 1 : Charles de Gaulle -->
+Rien dans la vie n'est à craindre, tout est à comprendre.
+
+Marie Curie y confie sa philosophie du travail, de la transmission et de la persévérance, et son regard sur la science et le…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Marie_Curie · https://www.nobelprize.org/prizes/physics/1903/marie-curie/
+#MarieCurie #PrixNobel #Radioactivité #Science</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-17</guid>
+      <pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>13:21</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-17.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-17.mp3" length="3207404" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Gandhi — La force de la non-violence</title>
+      <description>Gandhi — La force de la non-violence
+
+Soyez le changement que vous voulez voir dans le monde.
+
+Gandhi y évoque son jeûne, son rouet, sa lutte contre l'intouchabilité, sa déchirure face à la partition de 1947, et son…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi · https://www.britannica.com/biography/Mahatma-Gandhi
+#Gandhi #NonViolence #Inde #Indépendance</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-18</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>11:15</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-18.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-18.mp3" length="2701676" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Linus Pauling — La molécule et la paix</title>
+      <description>Linus Pauling — La molécule et la paix
+
+Derrière ce record inégalé, il y a une vie hors norme : celle de Linus Pauling (1901–1994), chimiste et…
+
+Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Portland dans l'Oregon, l'intuition précoce pour la…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Linus_Pauling · https://www.nobelprize.org/prizes/peace/1962/pauling/
+#LinusPauling #Chimie #PrixNobel #Paix</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-19</guid>
+      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>8:34</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-19.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-19.mp3" length="2059340" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hannah Arendt — La banalité du mal</title>
+      <description>Hannah Arendt — La banalité du mal
+
+Derrière cette formule devenue légendaire, il y a une vie et une œuvre : celles de Hannah Arendt (1906–1975),…
+
+Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Königsberg dans une famille juive cultivée, les études…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Hannah_Arendt · https://plato.stanford.edu/entries/arendt/
+#HannahArendt #Philosophie #BanalitéDuMal #Totalitarisme</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-20</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>10:05</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-20.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-20.mp3" length="2420684" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Émile Zola — L'écrivain et « J'accuse »</title>
+      <description>Émile Zola — L'écrivain et « J'accuse »
+
+La vérité est en marche, et rien ne l'arrêtera.
+
+le 13 janvier 1898, son procès et son exil en Angleterre, avant une mort tragique en 1902.
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Émile_Zola · https://www.bnf.fr/fr/emile-zola
+#ÉmileZola #Jaccuse #Litterature #AffaireDreyfus #Naturalisme</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-21</guid>
+      <pubDate>Mon, 30 Nov 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>12:29</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-21.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-21.mp3" length="2997548" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Louise Michel — La Vierge rouge</title>
+      <description>Louise Michel — La Vierge rouge
+
+Cette devise résume une vie tout entière tournée vers la justice : celle de Louise Michel (1830–1905),…
+
+Louise Michel y raconte aussi son retour triomphal à Paris, ses procès, l'attentat dont elle réchappe en 1888, et ses funérailles…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Louise_Michel · https://maitron.fr/spip.php?article24705
+#LouiseMichel #CommuneDeParis #Anarchisme #Feminisme</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-22</guid>
+      <pubDate>Mon, 07 Dec 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>11:33</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-22.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-22.mp3" length="2775980" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rosa Parks — Le refus qui changea l'Amérique</title>
+      <description>Rosa Parks — Le refus qui changea l'Amérique
+
+Le 1er décembre 1955, à Montgomery, en Alabama, une couturière de quarante-deux ans refuse de céder sa place dans…
+
+Elle y raconte le boycott, les menaces, l'exil à Detroit, les honneurs nationaux, et le sens profond de sa vie : la dignité comme…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Rosa_Parks · https://www.archives.gov/education/lessons/rosa-parks
+#RosaParks #DroitsCiviques #Segregation #Histoire</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-23</guid>
+      <pubDate>Mon, 14 Dec 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>11:11</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-23.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-23.mp3" length="2685356" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Frida Kahlo — Peindre la douleur</title>
+      <description>Frida Kahlo — Peindre la douleur
+
+Je peins des autoportraits parce que je suis souvent seule, et parce que je me connais le mieux.
+
+Derrière le visage le plus reconnaissable de la peinture du XXe siècle, il y a une vie traversée par la souffrance et illuminée…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Frida_Kahlo · https://www.fridakahlo.org
+#FridaKahlo #Peinture #Art #Feminisme</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-24</guid>
+      <pubDate>Mon, 21 Dec 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>11:12</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-24.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-24.mp3" length="2690060" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Antoine de Saint-Exupéry — L'humanisme du Petit Prince</title>
+      <description>Antoine de Saint-Exupéry — L'humanisme du Petit Prince
+
+L'essentiel est invisible pour les yeux.
+
+Derrière cette phrase, tombée du renard du Petit Prince, il y a une vie suspendue entre ciel et désert : celle d'Antoine de…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Antoine_de_Saint-Exupéry · https://www.antoinedesaintexupery.com
+#SaintExupery #PetitPrince #Aviation #Litterature</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-25</guid>
+      <pubDate>Mon, 28 Dec 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>11:14</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-25.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-25.mp3" length="2696588" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Victor Schœlcher — L'abolitionniste</title>
+      <description>Victor Schœlcher — L'abolitionniste
+
+Nulle terre française ne peut plus porter d'esclaves.
+
+Un portrait nuancé, fidèle aux faits et sans hagiographie.
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Victor_Schœlcher · https://www.senat.fr/evenement/archives/D22/scholcher.html
+#VictorSchœlcher #Abolition #Esclavage #Histoire #République</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-26</guid>
+      <pubDate>Mon, 04 Jan 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>10:38</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-26.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-26.mp3" length="2552492" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joseph Fourier — La loi qui décompose le monde</title>
+      <description>Joseph Fourier — La loi qui décompose le monde
+
+Paris, 1830. Un préfet de l'Empire devenu secrétaire perpétuel de l'Académie des…
+
+À travers cette interview fictive nourrie de faits réels,…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Joseph_Fourier · https://www.academie-francaise.fr/les-immortels/joseph-fourier
+#JosephFourier #SériesDeFourier #ThéorieAnalytiqueDeLaChaleur #AnalyseFourier</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-27</guid>
+      <pubDate>Mon, 11 Jan 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>14:06</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-27.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-27.mp3" length="13540268" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Michael Faraday — Le champ invisible</title>
+      <description>Michael Faraday — Le champ invisible
+
+Un fils de forgeron devenu physicien, et la nuit de 1831 où un anneau de fer a fait bondir une aiguille : le monde…
+
+De fils de fer, de cuivre et de verre, Michael Faraday…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Michael_Faraday · https://www.britannica.com/biography/Michael-Faraday
+#Faraday #MichaelFaraday #ChampInvisible #Electromagnétisme</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-28</guid>
+      <pubDate>Mon, 18 Jan 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>14:09</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-28.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-28.mp3" length="13585196" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Benjamin Franklin — L'homme et l'éclair</title>
+      <description>Benjamin Franklin — L'homme et l'éclair
+
+Un soir de juin 1752, un cerf-volant de soie, une ficelle, une clé de métal : la preuve que le tonnerre est de…
+
+Benjamin Franklin (1706-1790) fut imprimeur, éditeur,…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Benjamin_Franklin · https://en.wikipedia.org/wiki/Benjamin_Franklin
+#BenjaminFranklin #Paratonnerre #Foudre #Électricité</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-29</guid>
+      <pubDate>Mon, 25 Jan 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>14:03</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-29.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-29.mp3" length="13494188" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hedy Lamarr — La danseuse qui a inventé le Wi-Fi</title>
+      <description>Hedy Lamarr — La danseuse qui a inventé le Wi-Fi
+
+En 1942, une star d'Hollywood dépose un brevet sur une communication secrète par saut de fréquence. Soixante ans plus tard, la technique…
+
+Refusé par la Marine américaine, oublié pendant vingt…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Hedy_Lamarr · https://patents.google.com/patent/US2292387
+#HedyLamarr #SautDeFréquence #WiFi #Bluetooth</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-30</guid>
+      <pubDate>Mon, 01 Feb 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>14:31</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-30.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-30.mp3" length="13940780" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Nikola Tesla — L'éclair captif</title>
+      <description>Nikola Tesla — L'éclair captif
+
+« Un homme dessine un moteur dans le sable. Cent ans après, ce moteur fait tourner le monde. »
+Né en 1856 à Smiljan, dans l'Empire…
+
+On y parle du duel Edison-Westinghouse, de la tour de…
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Nikola_Tesla · https://en.wikipedia.org/wiki/Wardenclyffe_Tower
+#NikolaTesla #CourantAlternatif #GuerreDesCourants #Wardenclyffe</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-31</guid>
+      <pubDate>Mon, 08 Feb 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>14:41</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-31.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-31.mp3" length="14102060" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ada Lovelace — L'algorithme avant la machine</title>
+      <description>Ada Lovelace — L'algorithme avant la machine
+
+Marylebone, 1843. Une comtesse écrit le premier programme de l'histoire sur une machine qui n'a jamais été construite.
+
+Les sept notes de Babbage, l'algorithme du nombre de Bernoulli, et sa question : une machine peut-elle penser ?
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Ada_Lovelace · https://en.wikipedia.org/wiki/Note_G
+#AdaLovelace #Algorithme #HistoireDesFemmes #MachineAnalytique</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-32</guid>
+      <pubDate>Mon, 15 Feb 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>13:32</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-32.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-32.mp3" length="12989612" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sénèque — L'art de remplir ses journées</title>
+      <description>Sénèque — L'art de remplir ses journées
+
+Rome, 65. Un vieux philosophe répond, dans sa bibliothèque, à un ami qui lui écrit de Sicile.
+
+124 lettres, huit ans d'exil, et une question qui nous traverse : comment s'organise-t-on dans son temps ?
+
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Fiction radiophonique : faits réels, conversation imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A8que · https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1
+#Sénèque #Stoïcisme #LettresÀLucilius #EmpireRomain</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">qui-c'est-celui-là-33</guid>
+      <pubDate>Mon, 22 Feb 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>14:58</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-33.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-33.mp3" length="14372780" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Épisode 1 — Charles de Gaulle face à la crise de Gaza</title>
-      <itunes:title>Charles de Gaulle face à la crise de Gaza</itunes:title>
-      <description>Un entretien fictif avec le Général de Gaulle sur le conflit israélo-palestinien et la nécessité de la paix. Œuvre de fiction pédagogique.</description>
-      <itunes:summary>Un entretien fictif avec le Général de Gaulle sur le conflit israélo-palestinien et la nécessité de la paix. Œuvre de fiction pédagogique.</itunes:summary>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="http://187.127.64.150:8080/episode-01-de-gaulle-gaza.mp3" length="396956" type="audio/mpeg"/>
-      <guid isPermaLink="false">lgvdp-ep01-de-gaulle-gaza</guid>
+      <description>Épisode 1 — Charles de Gaulle face à la crise de Gaza — épisode d'archive de la chaîne.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">archive-1</guid>
       <pubDate>Mon, 15 Jan 2024 10:00:00 GMT</pubDate>
       <itunes:duration>66</itunes:duration>
-      <itunes:image href="http://187.127.64.150:8080/pochette-01.jpg"/>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-01.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-01-de-gaulle-gaza.mp3" length="396956" type="audio/mpeg"/>
     </item>
-
-    <!-- ÉPISODE 2 : Simone Veil -->
     <item>
       <title>Épisode 2 — Simone Veil face à la montée de l'extrême droite</title>
-      <itunes:title>Simone Veil face à la montée de l'extrême droite</itunes:title>
-      <description>Un dialogue imaginaire avec Simone Veil sur les dangers du populisme et la défense des droits humains. Œuvre de fiction pédagogique.</description>
-      <itunes:summary>Un dialogue imaginaire avec Simone Veil sur les dangers du populisme et la défense des droits humains. Œuvre de fiction pédagogique.</itunes:summary>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="http://187.127.64.150:8080/episode-02-veil-extreme-droite.mp3" length="2060876" type="audio/mpeg"/>
-      <guid isPermaLink="false">lgvdp-ep02-veil-extreme-droite</guid>
+      <description>Épisode 2 — Simone Veil face à la montée de l'extrême droite — épisode d'archive de la chaîne.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">archive-2</guid>
       <pubDate>Tue, 20 Feb 2024 10:00:00 GMT</pubDate>
       <itunes:duration>343</itunes:duration>
-      <itunes:image href="http://187.127.64.150:8080/pochette-02.jpg"/>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-02.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-02-veil-extreme-droite.mp3" length="2060876" type="audio/mpeg"/>
     </item>
-
-    <!-- ÉPISODE 3 : Jean Jaurès -->
     <item>
       <title>Épisode 3 — Jean Jaurès face aux inégalités du XXIe siècle</title>
-      <itunes:title>Jean Jaurès face aux inégalités du XXIe siècle</itunes:title>
-      <description>Un échange fictif avec Jean Jaurès sur les inégalités économiques, la justice sociale et le rôle de l'État. Œuvre de fiction pédagogique.</description>
-      <itunes:summary>Un échange fictif avec Jean Jaurès sur les inégalités économiques, la justice sociale et le rôle de l'État. Œuvre de fiction pédagogique.</itunes:summary>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="http://187.127.64.150:8080/episode-03-jaures-inegalites.mp3" length="272828" type="audio/mpeg"/>
-      <guid isPermaLink="false">lgvdp-ep03-jaures-inegalites</guid>
+      <description>Épisode 3 — Jean Jaurès face aux inégalités du XXIe siècle — épisode d'archive de la chaîne.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">archive-3</guid>
       <pubDate>Sun, 10 Mar 2024 10:00:00 GMT</pubDate>
       <itunes:duration>45</itunes:duration>
-      <itunes:image href="http://187.127.64.150:8080/pochette-03.jpg"/>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-03.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-03-jaures-inegalites.mp3" length="272828" type="audio/mpeg"/>
     </item>
-
-    <!-- ÉPISODE 4 : Nelson Mandela -->
     <item>
       <title>Épisode 4 — Nelson Mandela et la réconciliation</title>
-      <itunes:title>Nelson Mandela et la réconciliation</itunes:title>
-      <description>Un entretien imaginaire avec Nelson Mandela sur le pouvoir du pardon et la reconstruction nationale. Œuvre de fiction pédagogique.</description>
-      <itunes:summary>Un entretien imaginaire avec Nelson Mandela sur le pouvoir du pardon et la reconstruction nationale. Œuvre de fiction pédagogique.</itunes:summary>
-      <itunes:episode>4</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="http://187.127.64.150:8080/episode-04-mandela-reconciliation.mp3" length="1021316" type="audio/mpeg"/>
-      <guid isPermaLink="false">lgvdp-ep04-mandela-reconciliation</guid>
+      <description>Épisode 4 — Nelson Mandela et la réconciliation — épisode d'archive de la chaîne.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">archive-4</guid>
       <pubDate>Fri, 05 Apr 2024 10:00:00 GMT</pubDate>
       <itunes:duration>171</itunes:duration>
-      <itunes:image href="http://187.127.64.150:8080/pochette-04.jpg"/>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-04.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-04-mandela-reconciliation.mp3" length="1021316" type="audio/mpeg"/>
     </item>
-
-    <!-- ÉPISODE 5 : George Orwell -->
     <item>
       <title>Épisode 5 — George Orwell face à la surveillance numérique</title>
-      <itunes:title>George Orwell face à la surveillance numérique</itunes:title>
-      <description>Un dialogue fictif avec George Orwell sur les réseaux sociaux, la surveillance de masse et la liberté d'expression. Œuvre de fiction pédagogique.</description>
-      <itunes:summary>Un dialogue fictif avec George Orwell sur les réseaux sociaux, la surveillance de masse et la liberté d'expression. Œuvre de fiction pédagogique.</itunes:summary>
-      <itunes:episode>5</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="http://187.127.64.150:8080/episode-05-orwell-sur-veillance.mp3" length="1023476" type="audio/mpeg"/>
-      <guid isPermaLink="false">lgvdp-ep05-orwell-sur-veillance</guid>
+      <description>Épisode 5 — George Orwell face à la surveillance numérique — épisode d'archive de la chaîne.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">archive-5</guid>
       <pubDate>Sun, 12 May 2024 10:00:00 GMT</pubDate>
       <itunes:duration>171</itunes:duration>
-      <itunes:image href="http://187.127.64.150:8080/pochette-05.jpg"/>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-05.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-05-orwell-sur-veillance.mp3" length="1023476" type="audio/mpeg"/>
     </item>
-
-    <!-- ÉPISODE 6 : Victor Hugo -->
     <item>
       <title>Épisode 6 — Victor Hugo et la misère du XXIe siècle</title>
-      <itunes:title>Victor Hugo et la misère du XXIe siècle</itunes:title>
-      <description>Un échange imaginaire avec Victor Hugo sur la pauvreté, l'exclusion et la solidarité nationale. Œuvre de fiction pédagogique.</description>
-      <itunes:summary>Un échange imaginaire avec Victor Hugo sur la pauvreté, l'exclusion et la solidarité nationale. Œuvre de fiction pédagogique.</itunes:summary>
-      <itunes:episode>6</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="http://187.127.64.150:8080/episode-06-hugo-misere.mp3" length="934772" type="audio/mpeg"/>
-      <guid isPermaLink="false">lgvdp-ep06-hugo-misere</guid>
+      <description>Épisode 6 — Victor Hugo et la misère du XXIe siècle — épisode d'archive de la chaîne.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">archive-6</guid>
       <pubDate>Tue, 18 Jun 2024 10:00:00 GMT</pubDate>
       <itunes:duration>157</itunes:duration>
-      <itunes:image href="http://187.127.64.150:8080/pochette-06.jpg"/>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-06.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-06-hugo-misere.mp3" length="934772" type="audio/mpeg"/>
     </item>
-
-    <!-- ÉPISODE 7 : Martin Luther King -->
     <item>
       <title>Épisode 7 — Martin Luther King face au racisme systémique</title>
-      <itunes:title>Martin Luther King face au racisme systémique</itunes:title>
-      <description>Un entretien fictif avec Martin Luther King sur les inégalités raciales persistantes et la lutte pour l'égalité. Œuvre de fiction pédagogique.</description>
-      <itunes:summary>Un entretien fictif avec Martin Luther King sur les inégalités raciales persistantes et la lutte pour l'égalité. Œuvre de fiction pédagogique.</itunes:summary>
-      <itunes:episode>7</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="http://187.127.64.150:8080/episode-07-mlk-racisme.mp3" length="932324" type="audio/mpeg"/>
-      <guid isPermaLink="false">lgvdp-ep07-mlk-racisme</guid>
+      <description>Épisode 7 — Martin Luther King face au racisme systémique — épisode d'archive de la chaîne.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">archive-7</guid>
       <pubDate>Thu, 04 Jul 2024 10:00:00 GMT</pubDate>
       <itunes:duration>156</itunes:duration>
-      <itunes:image href="http://187.127.64.150:8080/pochette-07.jpg"/>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-07.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-07-mlk-racisme.mp3" length="932324" type="audio/mpeg"/>
     </item>
-
-    <!-- ÉPISODE 8 : Marie Curie -->
     <item>
       <title>Épisode 8 — Marie Curie face au vaccin anti-COVID</title>
-      <itunes:title>Marie Curie face au vaccin anti-COVID</itunes:title>
-      <description>Un dialogue imaginaire avec Marie Curie sur la technologie de l'ARN messager, la vaccination mondiale et l'éthique scientifique. Œuvre de fiction pédagogique.</description>
-      <itunes:summary>Un dialogue imaginaire avec Marie Curie sur la technologie de l'ARN messager, la vaccination mondiale et l'éthique scientifique. Œuvre de fiction pédagogique.</itunes:summary>
-      <itunes:episode>8</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="http://187.127.64.150:8080/episode-08-marie-curie-covid.mp3" length="2597276" type="audio/mpeg"/>
-      <guid isPermaLink="false">lgvdp-ep08-marie-curie-covid</guid>
+      <description>Épisode 8 — Marie Curie face au vaccin anti-COVID — épisode d'archive de la chaîne.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">archive-8</guid>
       <pubDate>Thu, 15 Aug 2024 10:00:00 GMT</pubDate>
       <itunes:duration>432</itunes:duration>
-      <itunes:image href="http://187.127.64.150:8080/pochette-08.jpg"/>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-08.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-08-marie-curie-covid.mp3" length="2597276" type="audio/mpeg"/>
     </item>
-
-    <!-- ÉPISODE 9 : Louis Pasteur -->
     <item>
       <title>Épisode 9 — Louis Pasteur face au COVID-19</title>
-      <itunes:title>Louis Pasteur face au COVID-19</itunes:title>
-      <description>Un entretien fictif avec Louis Pasteur sur la pandémie, les vaccins à ARN messager et la vaccination de masse. Œuvre de fiction pédagogique.</description>
-      <itunes:summary>Un entretien fictif avec Louis Pasteur sur la pandémie, les vaccins à ARN messager et la vaccination de masse. Œuvre de fiction pédagogique.</itunes:summary>
-      <itunes:episode>9</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="http://187.127.64.150:8080/episode-09-pasteur-covid.mp3" length="2188748" type="audio/mpeg"/>
-      <guid isPermaLink="false">lgvdp-ep09-pasteur-covid</guid>
+      <description>Épisode 9 — Louis Pasteur face au COVID-19 — épisode d'archive de la chaîne.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">archive-9</guid>
       <pubDate>Fri, 13 Sep 2024 10:00:00 GMT</pubDate>
       <itunes:duration>364</itunes:duration>
-      <itunes:image href="http://187.127.64.150:8080/pochette-09.jpg"/>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-09.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-09-pasteur-covid.mp3" length="2188748" type="audio/mpeg"/>
     </item>
-
   </channel>
 </rss>
