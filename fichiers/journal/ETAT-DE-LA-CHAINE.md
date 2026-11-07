@@ -1,12 +1,12 @@
 # Le Journal des Bonnes Nouvelles — état de la chaîne
 
-**Série complète : 4 éditions sur 4 publiées ✅** (vérifié sur Spotify le 3 novembre 2026)
+**Série complète : 4 éditions sur 4 publiées ✅** (vérifié sur Spotify le 6 novembre 2026)
 
 | Édition | Durée | Lien | Statut |
 |---|---|---|---|
-| #1 | 11 min 22 | — | ✅ publiée |
+| #1 | 11 min 22 | https://open.spotify.com/episode/6pd6oGIFtsQRyNuj0w6ZkB | ✅ publiée |
 | #2 | 11 min 32 | https://open.spotify.com/episode/2askAc6BiZZPt4gN6Kzu5i | ✅ publiée |
-| #3 | 12 min 58 | — | ✅ publiée |
+| #3 | 12 min 58 | https://open.spotify.com/episode/2A7gmfV9p6LqYnmE5ZK8QN | ✅ publiée |
 | #4 | 10 min 56 | https://open.spotify.com/episode/7zaOGW1bWtQxfetDoZVOeZ | ✅ publiée |
 
 | | |
@@ -19,3 +19,9 @@
 > (`https://open.spotify.com/episode/…`) **et** le lien de la chaîne.
 > Un fichier absent ne prouve pas qu'une chose n'existe pas — j'ai déjà perdu
 > une demi-heure à en déduire que cette chaîne n'avait jamais été créée.
+>
+> ⚠️ **Les fichiers `PUBLIER-EDITION-N.md` ont été retirés le 6 novembre 2026** :
+> ils dataient de la préparation (éditions 2 et 4) et affirmaient encore que
+> ces épisodes n'étaient pas en ligne — c'était faux, les deux sont publiés.
+> **Ne pas les recréer** : vérifier d'abord sur Spotify, puis mettre à jour
+> le tableau ci-dessus.
