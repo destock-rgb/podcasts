@@ -7,7 +7,7 @@
     <description>Radio portraits of historical figures, between truth and fiction: an imagined interview with the women and men who changed the world. Every episode is a radio reconstruction: the facts are real and verifiable, the conversation is imagined.</description>
     <language>en-US</language>
     <copyright>© 2026 Who's That Guy?</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 13:42:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:52:04 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Who's That Guy?</itunes:author>
     <itunes:subtitle>Portraits · Interviews · History</itunes:subtitle>
@@ -16,15 +16,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="History"/>
     <itunes:category text="Society &amp; Culture"/>
-    <itunes:image href="https://destock-rgb.github.io/podcasts/img/fr/qui-cest-ce-lui-la-podcast.jpg"/>
+    <itunes:image href="https://destock-rgb.github.io/podcasts/img/en/who-is-that-guy-english-channel.jpg"/>
     <itunes:owner><itunes:name>Who's That Guy?</itunes:name></itunes:owner>
     <!-- TODO client : ajouter <atom:link rel="alternate" href="https://anchor.fm/.../podcast/rss"/> une fois l'URL Spotify for Creators copiee -->
     <item>
       <title>Marie Curie — The Woman With Two Nobel Prizes</title>
       <description>Marie Curie — The Woman With Two Nobel Prizes</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
-      <guid isPermaLink="false">who's-that-guy?-6</guid>
+      <guid isPermaLink="false">whosthatguy-en-6</guid>
       <pubDate>Mon, 11 Jan 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>13:58</itunes:duration>
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
@@ -35,8 +36,9 @@
       <title>Beethoven Facing the Silence</title>
       <description>Beethoven Facing the Silence</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
-      <guid isPermaLink="false">who's-that-guy?-7</guid>
+      <guid isPermaLink="false">whosthatguy-en-7</guid>
       <pubDate>Mon, 18 Jan 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>14:19</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
@@ -47,8 +49,9 @@
       <title>Winfried Schumann and the Resonances of the Earth</title>
       <description>Winfried Schumann and the Resonances of the Earth</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
-      <guid isPermaLink="false">who's-that-guy?-8</guid>
+      <guid isPermaLink="false">whosthatguy-en-8</guid>
       <pubDate>Mon, 25 Jan 2027 05:00:00 +0000</pubDate>
+      <itunes:duration>14:12</itunes:duration>
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>

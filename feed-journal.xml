@@ -7,7 +7,7 @@
     <description>Chaque semaine, trois bonnes nouvelles racontées comme on les rencontrerait en marchant : une espèce qui revient, un territoire protégé, une recherche qui aboutit. Un journal sonore court et factuel.</description>
     <language>fr-FR</language>
     <copyright>© 2026 Le Journal des Bonnes Nouvelles</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 13:42:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:52:05 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Le Journal des Bonnes Nouvelles</itunes:author>
     <itunes:subtitle>L'actualité qui va bien</itunes:subtitle>
@@ -50,7 +50,7 @@
       @media
       only screen and (-webkit-min-devi</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
-      <guid isPermaLink="false">le-journal-des-bon-1</guid>
+      <guid isPermaLink="false">journal-1</guid>
       <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
       <itunes:duration>11:21</itunes:duration>
       <itunes:episode>1</itunes:episode>
@@ -90,7 +90,7 @@
       @media
       only screen and (-webkit-min-devi</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
-      <guid isPermaLink="false">le-journal-des-bon-2</guid>
+      <guid isPermaLink="false">journal-2</guid>
       <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
       <itunes:duration>11:32</itunes:duration>
       <itunes:episode>2</itunes:episode>
@@ -130,7 +130,7 @@
       @media
       only screen and (-webkit-min-devi</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
-      <guid isPermaLink="false">le-journal-des-bon-3</guid>
+      <guid isPermaLink="false">journal-3</guid>
       <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
       <itunes:duration>12:57</itunes:duration>
       <itunes:episode>3</itunes:episode>
@@ -170,7 +170,7 @@
       @media
       only screen and (-webkit-min-devi</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
-      <guid isPermaLink="false">le-journal-des-bon-4</guid>
+      <guid isPermaLink="false">journal-4</guid>
       <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
       <itunes:duration>10:55</itunes:duration>
       <itunes:episode>4</itunes:episode>
@@ -178,6 +178,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-4.jpg"/>
       <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-4.mp3" length="7867450" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Le Journal des Bonnes Nouvelles — Édition Grand Format</title>
+      <description>Le Journal des Bonnes Nouvelles — Édition Grand Format</description>
+      <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
+      <guid isPermaLink="false">journal-GF</guid>
+      <pubDate>Sat, 07 Nov 2026 13:44:26 +0000</pubDate>
+      <itunes:duration>9:22</itunes:duration>
+      <itunes:episode>GF</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/journal/pochette-chaine.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/JOURNAL-BONNES-NOUVELLES-EP1.mp3" length="3375544" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
