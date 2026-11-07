@@ -7,7 +7,7 @@
     <description>Les grands portraits du vivant et des sciences, dans une série distincte : René Quinton et l'eau de mer, Ignace Semmelweis et les lavandes, Nikola Tesla et l'éclair. Récits radiophoniques documentés, faits vérifiables.</description>
     <language>fr-FR</language>
     <copyright>© 2026 Mémoire du Futur</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 15:57:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:08:24 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Mémoire du Futur</itunes:author>
     <itunes:subtitle>Portraits · Le Vivant · Sciences</itunes:subtitle>
@@ -20,28 +20,16 @@
     <itunes:owner><itunes:name>Mémoire du Futur</itunes:name></itunes:owner>
     <!-- TODO client : ajouter <atom:link rel="alternate" href="https://anchor.fm/.../podcast/rss"/> une fois l'URL Spotify for Creators copiee -->
     <item>
-      <title>René Quinton : L'homme qui découvrit que nous sommes des fragments d'océan (Portrait)</title>
-      <description>René Quinton : L'homme qui découvrit que nous sommes des fragments d'océan (Portrait)</description>
+      <title>Nikola Tesla : Le Maître de la Foudre (Les Rebelles de la Science #2)</title>
+      <description>Nikola Tesla : Le Maître de la Foudre (Les Rebelles de la Science #2)</description>
       <link>https://destock-rgb.github.io/podcasts/blog/</link>
-      <guid isPermaLink="false">memoiredufutur-ren-quinton-l-homme</guid>
-      <pubDate>Wed, 16 Sep 2026 10:00:00 GMT</pubDate>
-      <itunes:duration>10:45</itunes:duration>
-      <itunes:episode>ren-quinton-l-homme</itunes:episode>
+      <guid isPermaLink="false">memoiredufutur-nikola-tesla-le-ma</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>10:30</itunes:duration>
+      <itunes:episode>nikola-tesla-le-ma</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-RENE-QUINTON.mp3" length="3871584" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>L'Eau de Quinton : Le Plasma Marin &amp; Ses Secrets (Épisode Bonus)</title>
-      <description>L'Eau de Quinton : Le Plasma Marin &amp; Ses Secrets (Épisode Bonus)</description>
-      <link>https://destock-rgb.github.io/podcasts/blog/</link>
-      <guid isPermaLink="false">memoiredufutur-l-eau-de-quinton</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
-      <itunes:duration>08:30</itunes:duration>
-      <itunes:episode>l-eau-de-quinton</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-EAU-DE-QUINTON.mp3" length="945216" type="audio/mpeg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-TESLA-PORTRAIT.mp3" length="1033776" type="audio/mpeg"/>
     </item>
     <item>
       <title>Ignace Semmelweis : Le Sauveteur aux Mains Propres (Les Rebelles de la Science #1)</title>
@@ -56,16 +44,28 @@
       <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-SEMMELWEIS-PORTRAIT.mp3" length="1026000" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Nikola Tesla : Le Maître de la Foudre (Les Rebelles de la Science #2)</title>
-      <description>Nikola Tesla : Le Maître de la Foudre (Les Rebelles de la Science #2)</description>
+      <title>L'Eau de Quinton : Le Plasma Marin &amp; Ses Secrets (Épisode Bonus)</title>
+      <description>L'Eau de Quinton : Le Plasma Marin &amp; Ses Secrets (Épisode Bonus)</description>
       <link>https://destock-rgb.github.io/podcasts/blog/</link>
-      <guid isPermaLink="false">memoiredufutur-nikola-tesla-le-ma</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-      <itunes:duration>10:30</itunes:duration>
-      <itunes:episode>nikola-tesla-le-ma</itunes:episode>
+      <guid isPermaLink="false">memoiredufutur-l-eau-de-quinton</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>08:30</itunes:duration>
+      <itunes:episode>l-eau-de-quinton</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-TESLA-PORTRAIT.mp3" length="1033776" type="audio/mpeg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-EAU-DE-QUINTON.mp3" length="945216" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>René Quinton : L'homme qui découvrit que nous sommes des fragments d'océan (Portrait)</title>
+      <description>René Quinton : L'homme qui découvrit que nous sommes des fragments d'océan (Portrait)</description>
+      <link>https://destock-rgb.github.io/podcasts/blog/</link>
+      <guid isPermaLink="false">memoiredufutur-ren-quinton-l-homme</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 GMT</pubDate>
+      <itunes:duration>10:45</itunes:duration>
+      <itunes:episode>ren-quinton-l-homme</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://destock-rgb.github.io/podcasts/PODCAST-RENE-QUINTON.mp3" length="3871584" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

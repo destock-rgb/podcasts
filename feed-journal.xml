@@ -7,7 +7,7 @@
     <description>Chaque semaine, trois bonnes nouvelles racontées comme on les rencontrerait en marchant : une espèce qui revient, un territoire protégé, une recherche qui aboutit. Un journal sonore court et factuel.</description>
     <language>fr-FR</language>
     <copyright>© 2026 Le Journal des Bonnes Nouvelles</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 15:57:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:08:25 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Le Journal des Bonnes Nouvelles</itunes:author>
     <itunes:subtitle>L'actualité qui va bien</itunes:subtitle>
@@ -19,46 +19,6 @@
     <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/journal/pochette-chaine.jpg"/>
     <itunes:owner><itunes:name>Le Journal des Bonnes Nouvelles</itunes:name></itunes:owner>
     <!-- TODO client : ajouter <atom:link rel="alternate" href="https://anchor.fm/.../podcast/rss"/> une fois l'URL Spotify for Creators copiee -->
-    <item>
-      <title>Le Journal des Bonnes Nouvelles — Édition 1</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
-
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
-
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
-      <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
-      <guid isPermaLink="false">journal-1</guid>
-      <pubDate>Sun, 04 Oct 2026 13:26:00 +0000</pubDate>
-      <itunes:duration>11:21</itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-1.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-1.mp3" length="8181370" type="audio/mpeg"/>
-    </item>
     <item>
       <title>Le Journal des Bonnes Nouvelles — Édition 2</title>
       <description>&lt;!DOCTYPE html&gt;
@@ -91,13 +51,53 @@
       only screen and (-webkit-min-devi</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
       <guid isPermaLink="false">journal-2</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 14:51:00 +0000</pubDate>
       <itunes:duration>11:32</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-2.jpg"/>
       <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-2.mp3" length="8310673" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Le Journal des Bonnes Nouvelles — Édition 4</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
+      <guid isPermaLink="false">journal-4</guid>
+      <pubDate>Tue, 03 Nov 2026 13:49:00 +0000</pubDate>
+      <itunes:duration>10:55</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-4.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-4.mp3" length="7867450" type="audio/mpeg"/>
     </item>
     <item>
       <title>Le Journal des Bonnes Nouvelles — Édition 3</title>
@@ -140,7 +140,7 @@
       <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-3.mp3" length="9333946" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Le Journal des Bonnes Nouvelles — Édition 4</title>
+      <title>Le Journal des Bonnes Nouvelles — Édition 1</title>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
   &lt;head&gt;
@@ -170,14 +170,14 @@
       @media
       only screen and (-webkit-min-devi</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
-      <guid isPermaLink="false">journal-4</guid>
-      <pubDate>Tue, 03 Nov 2026 13:49:00 +0000</pubDate>
-      <itunes:duration>10:55</itunes:duration>
-      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">journal-1</guid>
+      <pubDate>Sun, 04 Oct 2026 13:26:00 +0000</pubDate>
+      <itunes:duration>11:21</itunes:duration>
+      <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-4.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-4.mp3" length="7867450" type="audio/mpeg"/>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-1.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/journal/journal-1.mp3" length="8181370" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
