@@ -7,7 +7,7 @@
     <description>Radio portraits of historical figures, between truth and fiction: an imagined interview with the women and men who changed the world. Every episode is a radio reconstruction: the facts are real and verifiable, the conversation is imagined.</description>
     <language>en-US</language>
     <copyright>© 2026 Who's That Guy?</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 12:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:10:04 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Who's That Guy?</itunes:author>
     <itunes:subtitle>Portraits · Interviews · History</itunes:subtitle>
@@ -68,7 +68,7 @@
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-5.jpg"/>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/pochette-5.jpg"/>
       <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-5.mp3" length="12782252" type="audio/mpeg"/>
     </item>
     <item>
@@ -81,7 +81,7 @@
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-2.jpg"/>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/pochette-2.jpg"/>
       <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-2.mp3" length="7923116" type="audio/mpeg"/>
     </item>
     <item>
@@ -94,7 +94,7 @@
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-3.jpg"/>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/pochette-3.jpg"/>
       <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-3.mp3" length="9939884" type="audio/mpeg"/>
     </item>
     <item>
@@ -107,7 +107,7 @@
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-4.jpg"/>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/pochette-4.jpg"/>
       <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-4.mp3" length="3841964" type="audio/mpeg"/>
     </item>
     <item>
@@ -120,7 +120,7 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-1.jpg"/>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/pochette-1.jpg"/>
       <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-1.mp3" length="12425516" type="audio/mpeg"/>
     </item>
   </channel>
