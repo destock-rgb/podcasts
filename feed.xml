@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Qui c'est celui-là ?</title>
     <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
-    <atom:link href="https://destock-rgb.github.io/podcasts/feed.xml" rel="self" type="application/rss+xml"/>
+    <ns0:link href="https://destock-rgb.github.io/podcasts/feed.xml" rel="self" type="application/rss+xml" />
     <description>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</description>
     <language>fr-FR</language>
     <copyright>© 2026 Qui c'est celui-là ?</copyright>
     <lastBuildDate>Sun, 08 Nov 2026 13:17:59 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
-    <itunes:author>Qui c'est celui-là ?</itunes:author>
-    <itunes:subtitle>Portraits · Interviews · Histoire</itunes:subtitle>
-    <itunes:summary>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</itunes:summary>
-    <itunes:type>episodic</itunes:type>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="History"/>
-    <itunes:category text="Society &amp; Culture"/>
-    <itunes:image href="https://destock-rgb.github.io/podcasts/img/fr/qui-cest-ce-lui-la-podcast.jpg"/>
-    <itunes:owner><itunes:name>Qui c'est celui-là ?</itunes:name></itunes:owner>
-    <atom:link rel="alternate" href="https://anchor.fm/s/11830d414/podcast/rss" type="application/rss+xml"/>
+    <ns1:author>Qui c'est celui-là ?</ns1:author>
+    <ns1:subtitle>Portraits · Interviews · Histoire</ns1:subtitle>
+    <ns1:summary>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</ns1:summary>
+    <ns1:type>episodic</ns1:type>
+    <ns1:explicit>false</ns1:explicit>
+    <ns1:category text="History" />
+    <ns1:category text="Society &amp; Culture" />
+    <ns1:image href="https://destock-rgb.github.io/podcasts/img/fr/qui-cest-ce-lui-la-podcast.jpg" />
+    <ns1:owner><ns1:name>Qui c'est celui-là ?</ns1:name></ns1:owner>
+    <ns0:link rel="alternate" href="https://anchor.fm/s/11830d414/podcast/rss" type="application/rss+xml" />
     <item>
       <title>Sénèque — L'art de remplir ses journées</title>
       <description>Sénèque — L'art de remplir ses journées
@@ -34,12 +34,12 @@ Rome, 65. Un vieux philosophe répond, dans sa bibliothèque, à un ami qui lui 
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-33</guid>
       <pubDate>Mon, 22 Feb 2027 05:00:00 +0000</pubDate>
-      <itunes:duration>14:58</itunes:duration>
-      <itunes:episode>33</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-33.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-33.mp3" length="14372780" type="audio/mpeg"/>
+      <ns1:duration>14:58</ns1:duration>
+      <ns1:episode>33</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-33.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-33.mp3" length="14372780" type="audio/mpeg" />
     </item>
     <item>
       <title>Ada Lovelace — L'algorithme avant la machine</title>
@@ -56,12 +56,12 @@ Les sept notes de Babbage, l'algorithme du nombre de Bernoulli, et sa question :
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-32</guid>
       <pubDate>Mon, 15 Feb 2027 05:00:00 +0000</pubDate>
-      <itunes:duration>13:32</itunes:duration>
-      <itunes:episode>32</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-32.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-32.mp3" length="12989612" type="audio/mpeg"/>
+      <ns1:duration>13:32</ns1:duration>
+      <ns1:episode>32</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-32.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-32.mp3" length="12989612" type="audio/mpeg" />
     </item>
     <item>
       <title>Nikola Tesla — L'éclair captif</title>
@@ -79,12 +79,12 @@ On y parle du duel Edison-Westinghouse, de la tour de…
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-31</guid>
       <pubDate>Mon, 08 Feb 2027 05:00:00 +0000</pubDate>
-      <itunes:duration>14:41</itunes:duration>
-      <itunes:episode>31</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-31.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-31.mp3" length="14102060" type="audio/mpeg"/>
+      <ns1:duration>14:41</ns1:duration>
+      <ns1:episode>31</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-31.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-31.mp3" length="14102060" type="audio/mpeg" />
     </item>
     <item>
       <title>Hedy Lamarr — La danseuse qui a inventé le Wi-Fi</title>
@@ -101,12 +101,12 @@ Refusé par la Marine américaine, oublié pendant vingt…
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-30</guid>
       <pubDate>Mon, 01 Feb 2027 05:00:00 +0000</pubDate>
-      <itunes:duration>14:31</itunes:duration>
-      <itunes:episode>30</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-30.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-30.mp3" length="13940780" type="audio/mpeg"/>
+      <ns1:duration>14:31</ns1:duration>
+      <ns1:episode>30</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-30.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-30.mp3" length="13940780" type="audio/mpeg" />
     </item>
     <item>
       <title>Benjamin Franklin — L'homme et l'éclair</title>
@@ -123,12 +123,12 @@ Benjamin Franklin (1706-1790) fut imprimeur, éditeur,…
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-29</guid>
       <pubDate>Mon, 25 Jan 2027 05:00:00 +0000</pubDate>
-      <itunes:duration>14:03</itunes:duration>
-      <itunes:episode>29</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-29.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-29.mp3" length="13494188" type="audio/mpeg"/>
+      <ns1:duration>14:03</ns1:duration>
+      <ns1:episode>29</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-29.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-29.mp3" length="13494188" type="audio/mpeg" />
     </item>
     <item>
       <title>Michael Faraday — Le champ invisible</title>
@@ -145,12 +145,12 @@ De fils de fer, de cuivre et de verre, Michael Faraday…
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-28</guid>
       <pubDate>Mon, 18 Jan 2027 05:00:00 +0000</pubDate>
-      <itunes:duration>14:09</itunes:duration>
-      <itunes:episode>28</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-28.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-28.mp3" length="13585196" type="audio/mpeg"/>
+      <ns1:duration>14:09</ns1:duration>
+      <ns1:episode>28</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-28.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-28.mp3" length="13585196" type="audio/mpeg" />
     </item>
     <item>
       <title>Joseph Fourier — La loi qui décompose le monde</title>
@@ -167,12 +167,12 @@ Paris, 1830. Un préfet de l'Empire devenu secrétaire perpétuel de l'Académie
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-27</guid>
       <pubDate>Mon, 11 Jan 2027 05:00:00 +0000</pubDate>
-      <itunes:duration>14:06</itunes:duration>
-      <itunes:episode>27</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-27.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-27.mp3" length="13540268" type="audio/mpeg"/>
+      <ns1:duration>14:06</ns1:duration>
+      <ns1:episode>27</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-27.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-27.mp3" length="13540268" type="audio/mpeg" />
     </item>
     <item>
       <title>Victor Schœlcher — L'abolitionniste</title>
@@ -189,12 +189,12 @@ Un portrait nuancé, fidèle aux faits et sans hagiographie.
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-26</guid>
       <pubDate>Mon, 04 Jan 2027 05:00:00 +0000</pubDate>
-      <itunes:duration>10:38</itunes:duration>
-      <itunes:episode>26</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-26.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-26.mp3" length="2552492" type="audio/mpeg"/>
+      <ns1:duration>10:38</ns1:duration>
+      <ns1:episode>26</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-26.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-26.mp3" length="2552492" type="audio/mpeg" />
     </item>
     <item>
       <title>Antoine de Saint-Exupéry — L'humanisme du Petit Prince</title>
@@ -211,12 +211,12 @@ Derrière cette phrase, tombée du renard du Petit Prince, il y a une vie suspen
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-25</guid>
       <pubDate>Mon, 28 Dec 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>11:14</itunes:duration>
-      <itunes:episode>25</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-25.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-25.mp3" length="2696588" type="audio/mpeg"/>
+      <ns1:duration>11:14</ns1:duration>
+      <ns1:episode>25</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-25.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-25.mp3" length="2696588" type="audio/mpeg" />
     </item>
     <item>
       <title>Frida Kahlo — Peindre la douleur</title>
@@ -233,12 +233,12 @@ Derrière le visage le plus reconnaissable de la peinture du XXe siècle, il y a
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-24</guid>
       <pubDate>Mon, 21 Dec 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>11:12</itunes:duration>
-      <itunes:episode>24</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-24.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-24.mp3" length="2690060" type="audio/mpeg"/>
+      <ns1:duration>11:12</ns1:duration>
+      <ns1:episode>24</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-24.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-24.mp3" length="2690060" type="audio/mpeg" />
     </item>
     <item>
       <title>Rosa Parks — Le refus qui changea l'Amérique</title>
@@ -255,12 +255,12 @@ Elle y raconte le boycott, les menaces, l'exil à Detroit, les honneurs nationau
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-23</guid>
       <pubDate>Mon, 14 Dec 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>11:11</itunes:duration>
-      <itunes:episode>23</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-23.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-23.mp3" length="2685356" type="audio/mpeg"/>
+      <ns1:duration>11:11</ns1:duration>
+      <ns1:episode>23</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-23.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-23.mp3" length="2685356" type="audio/mpeg" />
     </item>
     <item>
       <title>Louise Michel — La Vierge rouge</title>
@@ -277,12 +277,12 @@ Louise Michel y raconte aussi son retour triomphal à Paris, ses procès, l'atte
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-22</guid>
       <pubDate>Mon, 07 Dec 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>11:33</itunes:duration>
-      <itunes:episode>22</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-22.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-22.mp3" length="2775980" type="audio/mpeg"/>
+      <ns1:duration>11:33</ns1:duration>
+      <ns1:episode>22</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-22.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-22.mp3" length="2775980" type="audio/mpeg" />
     </item>
     <item>
       <title>Émile Zola — L'écrivain et « J'accuse »</title>
@@ -299,12 +299,12 @@ le 13 janvier 1898, son procès et son exil en Angleterre, avant une mort tragiq
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-21</guid>
       <pubDate>Mon, 30 Nov 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>12:29</itunes:duration>
-      <itunes:episode>21</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-21.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-21.mp3" length="2997548" type="audio/mpeg"/>
+      <ns1:duration>12:29</ns1:duration>
+      <ns1:episode>21</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-21.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-21.mp3" length="2997548" type="audio/mpeg" />
     </item>
     <item>
       <title>Hannah Arendt — La banalité du mal</title>
@@ -321,12 +321,12 @@ Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Königsb
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-20</guid>
       <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>10:05</itunes:duration>
-      <itunes:episode>20</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-20.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-20.mp3" length="2420684" type="audio/mpeg"/>
+      <ns1:duration>10:05</ns1:duration>
+      <ns1:episode>20</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-20.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-20.mp3" length="2420684" type="audio/mpeg" />
     </item>
     <item>
       <title>Linus Pauling — La molécule et la paix</title>
@@ -343,12 +343,12 @@ Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Portland
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-19</guid>
       <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>8:34</itunes:duration>
-      <itunes:episode>19</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-19.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-19.mp3" length="2059340" type="audio/mpeg"/>
+      <ns1:duration>8:34</ns1:duration>
+      <ns1:episode>19</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-19.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-19.mp3" length="2059340" type="audio/mpeg" />
     </item>
     <item>
       <title>Gandhi — La force de la non-violence</title>
@@ -365,12 +365,12 @@ Gandhi y évoque son jeûne, son rouet, sa lutte contre l'intouchabilité, sa d�
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-18</guid>
       <pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>11:15</itunes:duration>
-      <itunes:episode>18</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-18.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-18.mp3" length="2701676" type="audio/mpeg"/>
+      <ns1:duration>11:15</ns1:duration>
+      <ns1:episode>18</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-18.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-18.mp3" length="2701676" type="audio/mpeg" />
     </item>
     <item>
       <title>Marie Curie — La femme aux deux prix Nobel</title>
@@ -387,12 +387,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-17</guid>
       <pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>13:21</itunes:duration>
-      <itunes:episode>17</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-17.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-17.mp3" length="3207404" type="audio/mpeg"/>
+      <ns1:duration>13:21</ns1:duration>
+      <ns1:episode>17</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-17.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-17.mp3" length="3207404" type="audio/mpeg" />
     </item>
     <item>
       <title>Winfried Schumann face au murmure de la Terre</title>
@@ -427,12 +427,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-16</guid>
       <pubDate>Sun, 01 Nov 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>13:31</itunes:duration>
-      <itunes:episode>16</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-16.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-16-schumann.mp3" length="19465238" type="audio/mpeg"/>
+      <ns1:duration>13:31</ns1:duration>
+      <ns1:episode>16</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-16.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-16-schumann.mp3" length="19465238" type="audio/mpeg" />
     </item>
     <item>
       <title>Beethoven face au silence</title>
@@ -467,52 +467,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-14</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>14:40</itunes:duration>
-      <itunes:episode>14</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-14.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-14-beethoven.mp3" length="14084431" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Albert Camus face à l'absurde et la révolte</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
-
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
-
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
-      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
-      <guid isPermaLink="false">quicestceluilala-fr-15</guid>
-      <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>10:14</itunes:duration>
-      <itunes:episode>15</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-15.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-15-camus.mp3" length="2457836" type="audio/mpeg"/>
+      <ns1:duration>14:40</ns1:duration>
+      <ns1:episode>14</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-14.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-14-beethoven.mp3" length="14084431" type="audio/mpeg" />
     </item>
     <item>
       <title>Simone de Beauvoir — La philosophe du Deuxième Sexe</title>
@@ -547,12 +507,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-12</guid>
       <pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>9:53</itunes:duration>
-      <itunes:episode>12</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-12.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-12-beauvoir.mp3" length="9495980" type="audio/mpeg"/>
+      <ns1:duration>9:53</ns1:duration>
+      <ns1:episode>12</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-12.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-12-beauvoir.mp3" length="9495980" type="audio/mpeg" />
     </item>
     <item>
       <title>432 Hz contre 440 Hz — le duel des diapasons</title>
@@ -587,12 +547,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-13</guid>
       <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>11:23</itunes:duration>
-      <itunes:episode>13</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-13.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-13-432.mp3" length="10928684" type="audio/mpeg"/>
+      <ns1:duration>11:23</ns1:duration>
+      <ns1:episode>13</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-13.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-13-432.mp3" length="10928684" type="audio/mpeg" />
     </item>
     <item>
       <title>Pythagore — La musique des sphères</title>
@@ -627,12 +587,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-11</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>9:42</itunes:duration>
-      <itunes:episode>11</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-11.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-11-pythagore.mp3" length="9326252" type="audio/mpeg"/>
+      <ns1:duration>9:42</ns1:duration>
+      <ns1:episode>11</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-11.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-11-pythagore.mp3" length="9326252" type="audio/mpeg" />
     </item>
     <item>
       <title>Alfred Tomatis — Le son qui guérit</title>
@@ -667,12 +627,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-10</guid>
       <pubDate>Sun, 11 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>8:11</itunes:duration>
-      <itunes:episode>10</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-10.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-10-tomatis.mp3" length="7862828" type="audio/mpeg"/>
+      <ns1:duration>8:11</ns1:duration>
+      <ns1:episode>10</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-10.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-10-tomatis.mp3" length="7862828" type="audio/mpeg" />
     </item>
     <item>
       <title>Victor Hugo face à la misère et aux inégalités</title>
@@ -707,12 +667,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-06</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>5:30</itunes:duration>
-      <itunes:episode>06</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-06.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-06-hugo.mp3" length="5285420" type="audio/mpeg"/>
+      <ns1:duration>5:30</ns1:duration>
+      <ns1:episode>06</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-06.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-06-hugo.mp3" length="5285420" type="audio/mpeg" />
     </item>
     <item>
       <title>Martin Luther King face aux inégalités raciales</title>
@@ -747,12 +707,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-07</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>2:56</itunes:duration>
-      <itunes:episode>07</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-07.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-07-mlk.mp3" length="2829356" type="audio/mpeg"/>
+      <ns1:duration>2:56</ns1:duration>
+      <ns1:episode>07</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-07.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-07-mlk.mp3" length="2829356" type="audio/mpeg" />
     </item>
     <item>
       <title>Jean-Paul Sartre face à la jeunesse et à Mai 68</title>
@@ -787,12 +747,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-08</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>10:24</itunes:duration>
-      <itunes:episode>08</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-08.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-08-sartre.mp3" length="9998636" type="audio/mpeg"/>
+      <ns1:duration>10:24</ns1:duration>
+      <ns1:episode>08</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-08.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-08-sartre.mp3" length="9998636" type="audio/mpeg" />
     </item>
     <item>
       <title>Michel Foucault face aux violences de la jeunesse</title>
@@ -827,77 +787,32 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-09</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <itunes:duration>11:44</itunes:duration>
-      <itunes:episode>09</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-09.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-09-foucault.mp3" length="11277740" type="audio/mpeg"/>
+      <ns1:duration>11:44</ns1:duration>
+      <ns1:episode>09</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-09.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-09-foucault.mp3" length="11277740" type="audio/mpeg" />
     </item>
-    <item>
-      <title>Épisode 9 — Louis Pasteur face au COVID-19</title>
-      <description>Épisode 9 — Louis Pasteur face au COVID-19 — épisode d'archive de la chaîne.</description>
-      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
-      <guid isPermaLink="false">archive-9</guid>
-      <pubDate>Fri, 13 Sep 2024 10:00:00 GMT</pubDate>
-      <itunes:duration>364</itunes:duration>
-      <itunes:episode>9</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-09.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-09-pasteur-covid.mp3" length="2188748" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Épisode 8 — Marie Curie face au vaccin anti-COVID</title>
-      <description>Épisode 8 — Marie Curie face au vaccin anti-COVID — épisode d'archive de la chaîne.</description>
-      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
-      <guid isPermaLink="false">archive-8</guid>
-      <pubDate>Thu, 15 Aug 2024 10:00:00 GMT</pubDate>
-      <itunes:duration>432</itunes:duration>
-      <itunes:episode>8</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-08.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-08-marie-curie-covid.mp3" length="2597276" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Épisode 7 — Martin Luther King face au racisme systémique</title>
-      <description>Épisode 7 — Martin Luther King face au racisme systémique — épisode d'archive de la chaîne.</description>
-      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
-      <guid isPermaLink="false">archive-7</guid>
-      <pubDate>Thu, 04 Jul 2024 10:00:00 GMT</pubDate>
-      <itunes:duration>156</itunes:duration>
-      <itunes:episode>7</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-07.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-07-mlk-racisme.mp3" length="932324" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Épisode 6 — Victor Hugo et la misère du XXIe siècle</title>
-      <description>Épisode 6 — Victor Hugo et la misère du XXIe siècle — épisode d'archive de la chaîne.</description>
-      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
-      <guid isPermaLink="false">archive-6</guid>
-      <pubDate>Tue, 18 Jun 2024 10:00:00 GMT</pubDate>
-      <itunes:duration>157</itunes:duration>
-      <itunes:episode>6</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-06.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-06-hugo-misere.mp3" length="934772" type="audio/mpeg"/>
-    </item>
-    <item>
+    <item><title>Don Miguel Ruiz — Les quatre accords toltèques</title><description>Don Miguel Ruiz — Les quatre accords toltèques
+Série « Qui c&amp;#x27;est celui-là ? »
+
+Chirurgien mexicain devenu l&amp;#x27;un des maîtres spirituels les plus lus au monde : Don Miguel Ruiz est l&amp;#x27;homme derrière « Les Quatre Accords toltèques », ce petit livre de développement personnel vendu à plus de dix millions d&amp;#x27;exemplaires depuis 1997.
+
+Dans ce portrait documentaire, nous suivons le parcours de Miguel Ángel Ruiz : l&amp;#x27;enfant d&amp;#x27;une famille de guérisseurs traditionnels devenu neurochirurgien, le grave accident de voiture qui bouleverse sa vie, puis le retour aux traditions mexicaines. Nous expliquons un à un les quatre accords — la parole impeccable, ne rien prendre personnellement, ne pas faire de suppositions, faire toujours de son mieux — avec un regard à la fois bienveillant et critique, en distinguant la sagesse pratique de la reconstruction « toltèque » moderne.
+
+Ce programme est un portrait biographique et documentaire à visée pédagogique et culturelle. Les propos sur les quatre accords sont une reformulation et une analyse réalisées par nos soins ; ils ne reproduisent pas le texte de Don Miguel Ruiz, dont l&amp;#x27;auteur conserve les droits.</description><link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link><guid isPermaLink="false">quicestceluilala-fr-01</guid><pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate><ns1:duration>11:04</ns1:duration><ns1:episode>1</ns1:episode><ns1:season>1</ns1:season><ns1:explicit>false</ns1:explicit><ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-01-ruiz.jpg" /><enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-01-ruiz.mp3" length="2659436" type="audio/mpeg" /></item><item>
       <title>Épisode 5 — George Orwell face à la surveillance numérique</title>
       <description>Épisode 5 — George Orwell face à la surveillance numérique — épisode d'archive de la chaîne.</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-5</guid>
       <pubDate>Sun, 12 May 2024 10:00:00 GMT</pubDate>
-      <itunes:duration>171</itunes:duration>
-      <itunes:episode>5</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-05.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-05-orwell-sur-veillance.mp3" length="1023476" type="audio/mpeg"/>
+      <ns1:duration>171</ns1:duration>
+      <ns1:episode>5</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-05.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-05-orwell-sur-veillance.mp3" length="1023476" type="audio/mpeg" />
     </item>
     <item>
       <title>Épisode 4 — Nelson Mandela et la réconciliation</title>
@@ -905,12 +820,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-4</guid>
       <pubDate>Fri, 05 Apr 2024 10:00:00 GMT</pubDate>
-      <itunes:duration>171</itunes:duration>
-      <itunes:episode>4</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-04.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-04-mandela-reconciliation.mp3" length="1021316" type="audio/mpeg"/>
+      <ns1:duration>171</ns1:duration>
+      <ns1:episode>4</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-04.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-04-mandela-reconciliation.mp3" length="1021316" type="audio/mpeg" />
     </item>
     <item>
       <title>Épisode 3 — Jean Jaurès face aux inégalités du XXIe siècle</title>
@@ -918,12 +833,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-3</guid>
       <pubDate>Sun, 10 Mar 2024 10:00:00 GMT</pubDate>
-      <itunes:duration>45</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-03.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-03-jaures-inegalites.mp3" length="272828" type="audio/mpeg"/>
+      <ns1:duration>45</ns1:duration>
+      <ns1:episode>3</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-03.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-03-jaures-inegalites.mp3" length="272828" type="audio/mpeg" />
     </item>
     <item>
       <title>Épisode 2 — Simone Veil face à la montée de l'extrême droite</title>
@@ -931,12 +846,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-2</guid>
       <pubDate>Tue, 20 Feb 2024 10:00:00 GMT</pubDate>
-      <itunes:duration>343</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-02.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-02-veil-extreme-droite.mp3" length="2060876" type="audio/mpeg"/>
+      <ns1:duration>343</ns1:duration>
+      <ns1:episode>2</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-02.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-02-veil-extreme-droite.mp3" length="2060876" type="audio/mpeg" />
     </item>
     <item>
       <title>Épisode 1 — Charles de Gaulle face à la crise de Gaza</title>
@@ -944,12 +859,12 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-1</guid>
       <pubDate>Mon, 15 Jan 2024 10:00:00 GMT</pubDate>
-      <itunes:duration>66</itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-01.jpg"/>
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-01-de-gaulle-gaza.mp3" length="396956" type="audio/mpeg"/>
+      <ns1:duration>66</ns1:duration>
+      <ns1:episode>1</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-01.jpg" />
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-01-de-gaulle-gaza.mp3" length="396956" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

@@ -18,7 +18,7 @@
     <itunes:category text="History"/>
     <itunes:image href="https://destock-rgb.github.io/podcasts/img/fr/qui-cest-ce-lui-la-podcast.jpg"/>
     <itunes:owner><itunes:name>Mémoire du Futur</itunes:name></itunes:owner>
-    <!-- TODO client : ajouter <atom:link rel="alternate" href="https://anchor.fm/.../podcast/rss"/> une fois l'URL Spotify for Creators copiee -->
+    <!-- Serie "Memoire du Futur" : ce flux n'a pas d'equivalent Spotify for Creators (ce n'est pas une emission, mais une serie). Pas d'URL officielle a declarer. -->
     <item>
       <title>Nikola Tesla : Le Maître de la Foudre (Les Rebelles de la Science #2)</title>
       <description>Nikola Tesla : Le Maître de la Foudre (Les Rebelles de la Science #2)</description>
