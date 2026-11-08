@@ -5,9 +5,9 @@
     <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
     <atom:link href="https://destock-rgb.github.io/podcasts/en/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Radio portraits of historical figures, between truth and fiction: an imagined interview with the women and men who changed the world. Every episode is a radio reconstruction: the facts are real and verifiable, the conversation is imagined.</description>
-    <language>en-US</language>
+    <language>en</language>
     <copyright>© 2026 Who's That Guy?</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 13:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:00:38 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Who's That Guy?</itunes:author>
     <itunes:subtitle>Portraits · Interviews · History</itunes:subtitle>
@@ -18,13 +18,22 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:image href="https://destock-rgb.github.io/podcasts/img/en/who-is-that-guy-english-channel.jpg"/>
     <itunes:owner><itunes:name>Who's That Guy?</itunes:name></itunes:owner>
-    <!-- TODO client : ajouter <atom:link rel="alternate" href="https://anchor.fm/.../podcast/rss"/> une fois l'URL Spotify for Creators copiee -->
+    <atom:link rel="alternate" href="https://anchor.fm/s/1188a6c04/podcast/rss" type="application/rss+xml"/>
     <item>
       <title>Winfried Schumann and the Resonances of the Earth</title>
-      <description>Winfried Schumann and the Resonances of the Earth</description>
+      <description>Winfried Schumann and the Resonances of the Earth
+
+A German physicist does a division: the circumference of the Earth divided by the speed of light. The result — 7.83 hertz — has become the planet's alleged "heartbeat".
+In 1952, Winfried Otto Schumann, a German electrical engineer, published with his student the demonstration that the Earth and the ionosphere form a resonant cavity. He will never hear his own voice — but his equations are today the instrument that science uses to count the thunderstorms of the world, to track tropical temperature, and to hunt for hydrocarbon deposits off the coasts.
+This episode tells the story of the man, of the cavity, of the measurements that finally came — and it sorts out physics from the promises of healing: Schumann resonances are a measuring instrument, not a medicine.
+🎙️ "Who's That Guy?" — Portraits · Interviews · History
+⚠️ This programme is a work of fictional radio biography, of a historical and heritage character. The person interviewed really existed and all biographical facts are real and verifiable; but the interview you are about to hear is an imagined reconstruction by our editorial team.
+📚 Sources : https://en.wikipedia.org/wiki/Schumann_resonances · https://en.wikipedia.org/wiki/Winfried_Otto_Schumann · https://www.mdpi.com/2076-3417/15/1/449
+🎼 Music : "Träumerei" (Kinderszenen, Op. 15 No. 7) by Robert Schumann — performance by Edigarmonteiro, CC BY-SA 3.0, Wikimedia Commons.
+#WinfriedSchumann #SchumannResonances #783Hz #ElectromagneticWaves #Ionosphere #Lightning #RadioBiography #EarthScience #WhosThatGuy #Physics</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
       <guid isPermaLink="false">whosthatguy-en-8</guid>
-      <pubDate>Mon, 25 Jan 2027 05:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Nov 2026 05:00:00 +0000</pubDate>
       <itunes:duration>14:12</itunes:duration>
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -34,10 +43,20 @@
     </item>
     <item>
       <title>Beethoven Facing the Silence</title>
-      <description>Beethoven Facing the Silence</description>
+      <description>Beethoven Facing the Silence
+
+Vienna, winter 1826. The greatest composer in the world no longer makes out a single note. In his apartment, questions are written to him in a notebook — and he answers out loud, rough and free.
+The most famous deaf man who ever lived, brought back to life through an interview he could never actually hear.
+
+How did a man who went completely deaf compose the Ninth Symphony, the Ode to Joy, the last quartets? Through this fictional interview built on real facts, Beethoven tells of the whistling that began at 26, the Heiligenstadt Letter in which he admitted he wanted to die, the piano with its legs removed and the baton held between his teeth so he could feel the vibrations, that evening of 1824 when a singer had to turn him towards the standing audience he could not hear — and of silence becoming, against all expectation, his greatest master.
+
+🎙️ "Who's That Guy?" — Portraits. Interviews. History.
+⚠️ A work of fictional radio biography for educational and cultural purposes; the biographical facts are real and verifiable, the interview is an imagined reconstruction by our editorial team.
+📚 Sources : https://en.wikipedia.org/wiki/Ludwig_van_Beethoven · https://www.britannica.com/biography/Ludwig-van-Beethoven · https://www.beethoven.de
+#Beethoven #LudwigVanBeethoven #ClassicalMusic #BeethovenSilence #NinthSymphony #OdeToJoy #DeafComposer #MusicHistory #Vienna #ComposerLife #Piano #RadioDocumentary #Heiligenstadt</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
       <guid isPermaLink="false">whosthatguy-en-7</guid>
-      <pubDate>Mon, 18 Jan 2027 05:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
       <itunes:duration>14:19</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -47,10 +66,21 @@
     </item>
     <item>
       <title>Marie Curie — The Woman With Two Nobel Prizes</title>
-      <description>Marie Curie — The Woman With Two Nobel Prizes</description>
+      <description>Marie Curie — The Woman With Two Nobel Prizes
+
+What if a discovery could light up the world twice — and cost the woman who made it her life? Born Maria Skłodowska in Warsaw in 1867, Marie Curie became the only person ever to receive two Nobel Prizes in two different sciences: physics in 1903, chemistry in 1911.
+
+In this imagined interview, we follow her road: the Polish girl who studied in secret in a "flying university" before boarding the train to the Sorbonne; the meeting with Pierre Curie; the announcement of polonium in July 1898 and radium in December; the terrible years in a dilapidated shed where tons of pitchblende were processed without protection; the first chair ever held by a woman professor at the Sorbonne; the "little Curies" of the First World War; and her daughter Irène, who won a Nobel Prize of her own in 1935. Marie Curie speaks here of her philosophy of work, transmission and perseverance — and of the terrible price paid for a discovery whose danger was still unknown.
+
+🎙️ "Who's That Guy?" — Portraits. Interviews. History.
+⚠️ This programme is a work of fictional radio biography, of a historical and heritage character. The person interviewed really existed and all biographical facts are real and verifiable; but the interview you are about to hear is an imagined reconstruction by our editorial team.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Marie_Curie · https://www.nobelprize.org/prizes/physics/1903/marie-curie/ · https://musee.curie.fr
+
+#MarieCurie #TwoNobelPrizes #Radioactivity #PhysicsAndChemistry #WomenInScience #ScienceHistory #IreneCurie #Radium #Podcast #Biography #WhoIsThatGuy</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
       <guid isPermaLink="false">whosthatguy-en-6</guid>
-      <pubDate>Mon, 11 Jan 2027 05:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
       <itunes:duration>13:58</itunes:duration>
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -60,7 +90,15 @@
     </item>
     <item>
       <title>Don Miguel Ruiz — The Four Agreements</title>
-      <description>Don Miguel Ruiz — The Four Agreements</description>
+      <description>Don Miguel Ruiz — The Four Agreements
+A Mexican surgeon falls asleep at the wheel and survives a crash that should have killed him. He walks away from medicine — and writes one of the most widely read spiritual books of all time.
+
+In this documentary portrait, we follow Miguel Ángel Ruiz from his mother's healing house in Guadalajara to the operating room, from the highway accident that changed his life to his return to his family's Toltec tradition. We walk through the four agreements one by one — be impeccable with your word, don't take anything personally, don't make assumptions, always do your best — with a warm but critical eye: who were the real Toltecs of Tula, what the modern "Toltec" revival owes to the twentieth century, and why psychologists still find echoes of cognitive therapy in these four simple sentences.
+
+🎙️ Who's That Guy? — Fictional interviews &amp; documentary portraits with history &amp; science.
+⚠️ This program is a documentary portrait for educational and cultural purposes. Our analysis reformulates the four agreements and does not reproduce Don Miguel Ruiz's text, whose rights remain with the author.
+📚 Sources: https://en.wikipedia.org/wiki/Don_Miguel_Ruiz · https://en.wikipedia.org/wiki/The_Four_Agreements · https://en.wikipedia.org/wiki/Toltec
+#DonMiguelRuiz #TheFourAgreements #Toltec #toltecwisdom #spirituality #personaldevelopment #selfhelp #mindfulness #MexicanHistory #WhoIsThatGuy</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
       <guid isPermaLink="false">whosthatguy-en-5</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
@@ -73,7 +111,16 @@
     </item>
     <item>
       <title>Alfred Tomatis — The Man Who Taught Us to Listen</title>
-      <description>Alfred Tomatis — The Man Who Taught Us to Listen</description>
+      <description>Alfred Tomatis — The Man Who Taught Us to Listen
+
+What if your ear did much more than just hear? What if it powered your brain, your voice, your very energy? French physician Alfred Tomatis spent a lifetime proving exactly that — and his controversial method is still practiced worldwide.
+
+In this episode, we sit down with the inventor of the "Tomatis effect" — the discovery that the voice can only produce what the ear can perceive. From the roar of aircraft factories to the hushed halls of Benedictine monasteries, from Mozart's high frequencies to the filtered voice of a mother heard from the womb, Tomatis reveals how sound shapes us from our very first moments. A conversation about listening, healing, and the three laws that changed our understanding of the human ear.
+
+🎙️ "Who's That Guy?" — Portraits. Interviews. History.
+⚠️ This podcast is a work of fiction, but the questions it raises are very real.
+
+#AlfredTomatis #TomatisEffect #SoundHealing #MozartEffect #Neuroscience #WhoIsThatGuy #Podcast #Biography #HistoryOfMedicine #GregorianChant</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
       <guid isPermaLink="false">whosthatguy-en-2</guid>
       <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
@@ -86,7 +133,16 @@
     </item>
     <item>
       <title>René Quinton — Children of the Sea</title>
-      <description>René Quinton — Children of the Sea</description>
+      <description>René Quinton — Children of the Sea
+
+What if your blood was nothing but ancient seawater, preserved in your veins for three billion years? French biologist René Quinton proved exactly that — by draining a dog of all its blood and replacing it with filtered ocean water. The dog lived.
+
+In this episode, we meet the self-taught genius who stunned the scientific establishment, saved thousands of infants from cholera with nothing but seawater, co-founded French aviation, and then vanished from history. From the Academy of Sciences to the maternity wards of Paris, from the Atlantic Ocean to the skies above France, Quinton's story is one of the most extraordinary — and most forgotten — in modern science. A conversation about the sea inside us, the courage to defy the establishment, and the patience of the ocean.
+
+🎙️ "Who's That Guy?" — Portraits. Interviews. History.
+⚠️ This podcast is a work of fiction, but the questions it raises are very real.
+
+#RenéQuinton #MarinePlasma #QuintonWater #HistoryOfMedicine #Biology #Aviation #FrenchScience #WhoIsThatGuy #Podcast #Biography</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
       <guid isPermaLink="false">whosthatguy-en-3</guid>
       <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
@@ -99,7 +155,16 @@
     </item>
     <item>
       <title>Quinton Water — Marine Plasma &amp; Its Secrets</title>
-      <description>Quinton Water — Marine Plasma &amp; Its Secrets</description>
+      <description>Quinton Water — Marine Plasma &amp; Its Secrets
+
+Our bodies are walking aquariums. That was René Quinton's great intuition — and from it came one of the most fascinating natural therapies of the 20th century. In this bonus episode, we explore what Quinton Water actually is, where it comes from, and how it is used today.
+
+From the depths of the Atlantic Ocean to pharmacy shelves across Europe, discover the difference between hypertonic and isotonic marine plasma, how to take Quinton ampoules, and why this cold-filtered seawater — rich in every mineral and trace element known to life — is still prescribed by practitioners around the world. A short, practical dive into the ocean inside you.
+
+🎙️ "Who's That Guy?" — Bonus Episode
+⚠️ This podcast is a work of fiction, but the questions it raises are very real.
+
+#QuintonWater #MarinePlasma #RenéQuinton #NaturalHealth #SeawaterTherapy #Isotonic #Hypertonic #WhoIsThatGuy #Bonus #Wellness</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
       <guid isPermaLink="false">whosthatguy-en-4</guid>
       <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
@@ -112,7 +177,16 @@
     </item>
     <item>
       <title>432 vs 440 — The Battle of the Pitch Pipes</title>
-      <description>432 vs 440 — The Battle of the Pitch Pipes</description>
+      <description>432 vs 440 — The Battle of the Pitch Pipes
+
+Eight vibrations per second apart, and yet a war without end online: the "universal" tuning fork versus the orchestral standard. A physicist of sound reopens the case and sorts legends from science.
+
+From France's 1859 standard to the Italian decree of 1884 signed for Verdi, from the 1939 London conference to the ISO norm of 1955: the true history of the tuning fork, far stranger than the myth. Then the trial of the legends: 440 imposed by the Nazis? The frequency of water? The Earth's resonance? And above all, what the actual medical studies really say — including the one where anxiety dropped... even without music.
+
+🎙️ "Who's That Guy?" — Episode 1, featuring the return of Doctor Camille Rivière (a fictional character).
+⚠️ This program is a work of radio fiction for educational and cultural purposes: the historical and scientific facts are real and verifiable.
+
+#432hz #440hz #tuningfork #verdi #music #frequencies #myths #science #acoustics #history #podcast #whoisthatguy</description>
       <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
       <guid isPermaLink="false">whosthatguy-en-1</guid>
       <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>

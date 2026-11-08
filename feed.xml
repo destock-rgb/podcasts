@@ -1,818 +1,693 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Qui c'est celui-là ?</title>
     <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
-    <ns0:link href="https://destock-rgb.github.io/podcasts/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://destock-rgb.github.io/podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</description>
     <language>fr-FR</language>
     <copyright>© 2026 Qui c'est celui-là ?</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 13:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:00:35 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
-    <ns1:author>Qui c'est celui-là ?</ns1:author>
-    <ns1:subtitle>Portraits · Interviews · Histoire</ns1:subtitle>
-    <ns1:summary>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</ns1:summary>
-    <ns1:type>episodic</ns1:type>
-    <ns1:explicit>false</ns1:explicit>
-    <ns1:category text="History" />
-    <ns1:category text="Society &amp; Culture" />
-    <ns1:image href="https://destock-rgb.github.io/podcasts/img/fr/qui-cest-ce-lui-la-podcast.jpg" />
-    <ns1:owner><ns1:name>Qui c'est celui-là ?</ns1:name></ns1:owner>
-    <ns0:link rel="alternate" href="https://anchor.fm/s/11830d414/podcast/rss" type="application/rss+xml" />
+    <itunes:author>Qui c'est celui-là ?</itunes:author>
+    <itunes:subtitle>Portraits · Interviews · Histoire</itunes:subtitle>
+    <itunes:summary>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:image href="https://destock-rgb.github.io/podcasts/img/fr/qui-cest-ce-lui-la-podcast.jpg"/>
+    <itunes:owner><itunes:name>Qui c'est celui-là ?</itunes:name></itunes:owner>
+    <atom:link rel="alternate" href="https://anchor.fm/s/11830d414/podcast/rss" type="application/rss+xml"/>
     <item>
       <title>Sénèque — L'art de remplir ses journées</title>
-      <description>Sénèque — L'art de remplir ses journées
+      <description>Sénèque face au temps qu'il lui reste
 
-Rome, 65. Un vieux philosophe répond, dans sa bibliothèque, à un ami qui lui écrit de Sicile.
+Un homme de plus de soixante ans, à Rome, au printemps 65, écrit une lettre par jour à un ami qui vit en Sicile, de l'autre côté de la mer. Il ne médite pas sur le temps : il le découpe. C'est là, dans ce geste d'homme pressé de bien faire, que se cache la plus grande leçon de stoïcisme qui soit.
 
-124 lettres, huit ans d'exil, et une question qui nous traverse : comment s'organise-t-on dans son temps ?
+Lucius Annaeus Seneca, dit Sénèque, né à Cordoue dans les années qui précèdent notre ère, mort à Rome en 65, a été précepteur du jeune Néron et l'un des hommes les plus influents de l'empire avant de tomber en disgrâce. Son parcours tient en trois lignes : un exil de huit ans en Corse (41-48), la plus longue pause imposée de sa vie ; un retour à Rome en 48-49 à la faveur d'Agrippine, avec le poste de précepteur de Néron ; puis, en 65, la conjuration de Pison et l'ordre de mourir donné par l'empereur, qu'il exécute en s'ouvrant les veines.
+
+Dans cet entretien imaginaire de la fin de sa vie, Sénèque raconte sa famille de rhéteurs de Cordoue, le stoïcien Attalus, le pythagoricien Sotion, le voyage d'Égypte imposé par son père, les trois Consolations écrites en Corse pour sa mère Helvia, pour Marcia et pour Polybe, De la brièveté de la vie (49), les cent vingt-quatre Lettres à Lucilius (63-65) et leurs huit tragédies, dont les dates de composition restent impossibles à déterminer.
+
+L'épisode explore une question très simple et très moderne : comment s'organise-t-on dans son propre temps ? Un incident par lettre, une unité de temps par jour, l'attention comme remède au bruit intérieur de la lettre 56, le Stoïcien qui prend le temps comme on prend une place au théâtre. Et il répond, à la fin, à la question de l'épisode précédent : une machine peut-elle penser ? Un esprit qui n'est pas à lui n'est plus qu'un calculateur.
 
 🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A8que · https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1
-#Sénèque #Stoïcisme #LettresÀLucilius #EmpireRomain</description>
+⚠️ Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial ; les propos sont une reconstitution imaginée. Tous les faits biographiques et scientifiques cités sont réels et sourcés.
+📚 Sources : https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A8que · https://www.larousse.fr/encyclopedie/litterature/S%C3%A9n%C3%A8que/176964 · https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1
+#Sénèque #Stoïcisme #LettresÀLucilius #LuciliusJunior #Néron #ExilEnCorse #DeLaBrièvetéDeLaVie #Pomodoro #PenseurLatin #PhilosophieAntique #PortraitHistorique #QuiEstCeluiLa</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-33</guid>
       <pubDate>Mon, 22 Feb 2027 05:00:00 +0000</pubDate>
-      <ns1:duration>14:58</ns1:duration>
-      <ns1:episode>33</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-33.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-33.mp3" length="14372780" type="audio/mpeg" />
+      <itunes:duration>14:58</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-33.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-33.mp3" length="14372780" type="audio/mpeg"/>
     </item>
     <item>
       <title>Ada Lovelace — L'algorithme avant la machine</title>
-      <description>Ada Lovelace — L'algorithme avant la machine
+      <description>Ada Lovelace — La femme qui a demandé si une machine peut penser
 
-Marylebone, 1843. Une comtesse écrit le premier programme de l'histoire sur une machine qui n'a jamais été construite.
+En 1843, une comtesse de Londres écrit le premier programme de l'histoire de l'informatique sur une machine qui n'a jamais été construite. Un siècle et demi plus tard, le monde découvre à la fois ses notes et le silence dans lequel on les avait laissées.
 
-Les sept notes de Babbage, l'algorithme du nombre de Bernoulli, et sa question : une machine peut-elle penser ?
+Augusta Ada King, comtesse de Lovelace, née Byron, fille du célèbre poète Lord Byron qu'elle n'a jamais connu, passe neuf mois de 1842 à 1843 à traduire en anglais l'article du mathématicien italien Menabrea sur la machine analytique de Charles Babbage. Elle y ajoute sept notes, de A à G, près de trois fois plus longues que la traduction. La dernière, la note G, décrit une table d'opérations permettant de calculer les nombres de Bernoulli sur la machine : le premier algorithme publié pour un calculateur.
+
+Mais l'épisode s'ouvre sur une autre question, celle qu'elle pose elle-même dans la note G : le moteur n'a aucune prétention à rien originer, il ne fait que ce qu'on sait lui ordonner. Une machine peut-elle penser ? C'est cette phrase que Turing baptisera en 1950 l'objection de Lady Lovelace, et c'est elle qui fait d'Ada Lovelace bien plus qu'une programmeuse.
+
+Dans cet entretien imaginaire à Marylebone, à l'été 1843, la comtesse de Lovelace raconte sa mère qui lui apprend les mathématiques pour la tenir à l'écart de son père, sa rencontre avec Babbage à dix-sept ans, le calcul des nombres de Bernoulli, l'analogie du métier de Jacquard, la querelle qui l'oppose à Babbage sur la signature de leur papier, l'argent qu'elle n'a pas le droit de disposer, les chevaux et les pari de course, la maladie qui l'emporte à trente-six ans, et le siècle d'oubli qui suit, jusqu'à la plaque bleue de Londres, au langage Ada de la défense américaine et à l'Ada Lovelace Day du deuxième mardi d'octobre.
 
 🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Ada_Lovelace · https://en.wikipedia.org/wiki/Note_G
-#AdaLovelace #Algorithme #HistoireDesFemmes #MachineAnalytique</description>
+⚠️ Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial ; les propos sont une reconstitution imaginée. Tous les faits biographiques et scientifiques cités sont réels et sourcés.
+📚 Sources : https://fr.wikipedia.org/wiki/Ada_Lovelace · https://en.wikipedia.org/wiki/Note_G · https://www.sciencemuseum.org.uk/objects-and-stories/charles-babbages-difference-engines-and-science-museum
+#AdaLovelace #ComtesseDeLovelace #MachineAnalytique #CharlesBabbage #PremierProgramme #NombresDeBernoulli #NoteG #SciencePoetique #HistoireDesFemmes #Informatique #Portrait #QuiEstCeluiLa</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-32</guid>
       <pubDate>Mon, 15 Feb 2027 05:00:00 +0000</pubDate>
-      <ns1:duration>13:32</ns1:duration>
-      <ns1:episode>32</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-32.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-32.mp3" length="12989612" type="audio/mpeg" />
+      <itunes:duration>13:32</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-32.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-32.mp3" length="12989612" type="audio/mpeg"/>
     </item>
     <item>
       <title>Nikola Tesla — L'éclair captif</title>
       <description>Nikola Tesla — L'éclair captif
 
 « Un homme dessine un moteur dans le sable. Cent ans après, ce moteur fait tourner le monde. »
-Né en 1856 à Smiljan, dans l'Empire…
+Né en 1856 à Smiljan, dans l'Empire d'Autriche, Nikola Tesla (1856-1943) a inventé le moteur à induction, le système triphasé et le principe du champ tournant : c'est lui qui a fait du courant alternatif la langue du monde. Face à Edison, qui défendait le courant continu, il a dû ajouter les machines, les câbles et les capitaux à son invention.
 
-On y parle du duel Edison-Westinghouse, de la tour de…
+Cet entretien imaginaire se déroule en janvier 1943, dans la chambre 3327 de l'hôtel le New Yorker, quelques jours avant sa mort. On y parle du duel Edison-Westinghouse, de la tour de Wardenclyffe bâtie et détruite sur Long Island, du rapport militaire qui examina ses papiers après sa disparition, de ses machines volantes jamais construites, et de l'éclair qu'il a voulu emprunter.
 
 🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Nikola_Tesla · https://en.wikipedia.org/wiki/Wardenclyffe_Tower
-#NikolaTesla #CourantAlternatif #GuerreDesCourants #Wardenclyffe</description>
+⚠️ Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial ; les propos sont une reconstitution imaginée. Tous les faits biographiques et scientifiques cités sont réels et sourcés.
+📚 Sources : https://fr.wikipedia.org/wiki/Nikola_Tesla · https://en.wikipedia.org/wiki/Wardenclyffe_Tower · https://www.britannica.com/biography/Nikola-Tesla
+#NikolaTesla #CourantAlternatif #GuerreDesCourants #Wardenclyffe #Électricité #Électrotechnique #ThomasEdison #Westinghouse #MoteurAsynchrone #ChampTournant #TeslaCoil #Pigeons #Science #Portraits</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-31</guid>
       <pubDate>Mon, 08 Feb 2027 05:00:00 +0000</pubDate>
-      <ns1:duration>14:41</ns1:duration>
-      <ns1:episode>31</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-31.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-31.mp3" length="14102060" type="audio/mpeg" />
+      <itunes:duration>14:41</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-31.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-31.mp3" length="14102060" type="audio/mpeg"/>
     </item>
     <item>
       <title>Hedy Lamarr — La danseuse qui a inventé le Wi-Fi</title>
       <description>Hedy Lamarr — La danseuse qui a inventé le Wi-Fi
 
-En 1942, une star d'Hollywood dépose un brevet sur une communication secrète par saut de fréquence. Soixante ans plus tard, la technique…
+En 1942, une star d'Hollywood dépose un brevet sur une communication secrète par saut de fréquence. Soixante ans plus tard, la technique est dans votre poche, et son nom n'est dans aucun manuel.
 
-Refusé par la Marine américaine, oublié pendant vingt…
+Le 11 août 1942, le brevet américain numéro 2 292 387 est accordé à Hedy Kiesler Markey et à George Antheil : un système de radio-guipage qui change de fréquence par bonds, pour qu'un ennemi ne puisse ni intercepter ni brouiller le signal. Refusé par la Marine américaine, oublié pendant vingt ans, il est réinventé par l'électronique en 1957, expire en 1959, et sert en 1962 aux communications sûres des navires du blocus de Cuba. Wi-Fi, Bluetooth, GPS : tout découle de là.
+
+Dans cet entretien imaginaire, Hedy Lamarr raconte la Vienne de 1914, la fuite de son premier mariage avec un industriel de l'armement, les studios de MGM, le soir de 1940 où elle propose l'idée à un compositeur, le papier perforé des pianos mécaniques, le refus de la Marine, les vingt ans de silence, et les prix qui arrivent après sa disparition.
 
 🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Hedy_Lamarr · https://patents.google.com/patent/US2292387
-#HedyLamarr #SautDeFréquence #WiFi #Bluetooth</description>
+⚠️ Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial ; les propos sont une reconstitution imaginée. Tous les faits biographiques et scientifiques cités sont réels et sourcés.
+📚 Sources : https://fr.wikipedia.org/wiki/Hedy_Lamarr · https://patents.google.com/patent/US2292387 · https://www.nationalww2museum.org/war/articles/hedy-lamarrs-wwii-invention-helped-shape-modern-tech
+#HedyLamarr #SautDeFréquence #WiFi #Bluetooth #GPS #BrevetAmericain #GeorgeAntheil #RadioGuidage #SpectreEtale #CinemaEtScience #Inventeurs #Portraits</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-30</guid>
       <pubDate>Mon, 01 Feb 2027 05:00:00 +0000</pubDate>
-      <ns1:duration>14:31</ns1:duration>
-      <ns1:episode>30</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-30.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-30.mp3" length="13940780" type="audio/mpeg" />
+      <itunes:duration>14:31</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-30.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-30.mp3" length="13940780" type="audio/mpeg"/>
     </item>
     <item>
       <title>Benjamin Franklin — L'homme et l'éclair</title>
       <description>Benjamin Franklin — L'homme et l'éclair
 
-Un soir de juin 1752, un cerf-volant de soie, une ficelle, une clé de métal : la preuve que le tonnerre est de…
-
-Benjamin Franklin (1706-1790) fut imprimeur, éditeur,…
-
+Un soir de juin 1752, un cerf-volant de soie, une ficelle, une clé de métal : la preuve que le tonnerre est de l'électricité.
+Benjamin Franklin (1706-1790) fut imprimeur, éditeur, inventeur et homme d'État. En 1752, il montre que la foudre est électrique et invente le paratonnerre ; en 1783, il signe à Paris la paix qui fait naître les États-Unis. Cet épisode suit l'homme, pas la légende : le cerf-volant de juin 1752 et son témoin, la dinde tuée à la décharge électrique, la lettre à Collinson et la conservation de la charge, l'hôpital de Pennsylvanie, le fils resté fidèle au roi, la requête d'abolition envoyée au Congrès deux mois avant sa mort.
+Un entretien imaginaire où l'on entend le métier d'imprimeur dans chaque phrase : le temps est de l'argent, l'ouvrage ne sera pas entièrement perdu, revu et corrigé par d'autres.
 🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Benjamin_Franklin · https://en.wikipedia.org/wiki/Benjamin_Franklin
-#BenjaminFranklin #Paratonnerre #Foudre #Électricité</description>
+⚠️ Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial ; les propos sont une reconstitution imaginée. Tous les faits biographiques et scientifiques cités sont réels et sourcés.
+📚 Sources : https://fr.wikipedia.org/wiki/Benjamin_Franklin · https://en.wikipedia.org/wiki/Benjamin_Franklin · https://en.wikipedia.org/wiki/Kite_experiment
+#BenjaminFranklin #Paratonnerre #Foudre #Électricité #Sciences #Imprimeur #Philadelphie #PaixDeParis #RévolutionAméricaine #Portraits #Histoire #Lumières</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-29</guid>
       <pubDate>Mon, 25 Jan 2027 05:00:00 +0000</pubDate>
-      <ns1:duration>14:03</ns1:duration>
-      <ns1:episode>29</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-29.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-29.mp3" length="13494188" type="audio/mpeg" />
+      <itunes:duration>14:03</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-29.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-29.mp3" length="13494188" type="audio/mpeg"/>
     </item>
     <item>
       <title>Michael Faraday — Le champ invisible</title>
       <description>Michael Faraday — Le champ invisible
 
-Un fils de forgeron devenu physicien, et la nuit de 1831 où un anneau de fer a fait bondir une aiguille : le monde…
-
-De fils de fer, de cuivre et de verre, Michael Faraday…
-
+Un fils de forgeron devenu physicien, et la nuit de 1831 où un anneau de fer a fait bondir une aiguille : le monde a changé de direction.
+De fils de fer, de cuivre et de verre, Michael Faraday a construit l'électromagnétisme moderne. Apprenti relieur dans une librairie de Londres, il entre à l'institut royal en 1813, découvre le premier moteur électrique en 1821, l'induction en 1831, l'effet Faraday en 1845, et pose les lois de l'électrolyse avec des mots que nous employons encore : anode, cathode, ion.
+Cet épisode raconte l'homme du sous-sol d'Albemarle Street : le champ qu'il a nommé, la querelle avec Ampère et les newtoniens, la campagne contre la taxe sur le verre, la lettre sur la Tamise, les dix-neuf conférences de Noël de l'institut royal, et les derniers mois d'un savant qui perdait la mémoire.
 🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Michael_Faraday · https://www.britannica.com/biography/Michael-Faraday
-#Faraday #MichaelFaraday #ChampInvisible #Electromagnétisme</description>
+⚠️ Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial ; les propos sont une reconstitution imaginée. Tous les faits biographiques et scientifiques cités sont réels et sourcés.
+📚 Sources : https://fr.wikipedia.org/wiki/Michael_Faraday · https://www.britannica.com/biography/Michael-Faraday · https://www.rigb.org/christmas-lectures/history-christmas-lecturesr
+#Faraday #MichaelFaraday #ChampInvisible #Electromagnétisme #Induction #LignesDeForce #Electrolyse #CageDeFaraday #InstitutRoyal #ConférencesDeNoël #Physique #Portraits</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-28</guid>
       <pubDate>Mon, 18 Jan 2027 05:00:00 +0000</pubDate>
-      <ns1:duration>14:09</ns1:duration>
-      <ns1:episode>28</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-28.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-28.mp3" length="13585196" type="audio/mpeg" />
+      <itunes:duration>14:09</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-28.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-28.mp3" length="13585196" type="audio/mpeg"/>
     </item>
     <item>
       <title>Joseph Fourier — La loi qui décompose le monde</title>
       <description>Joseph Fourier — La loi qui décompose le monde
 
-Paris, 1830. Un préfet de l'Empire devenu secrétaire perpétuel de l'Académie des…
+Paris, 1830. Un préfet de l'Empire devenu secrétaire perpétuel de l'Académie des sciences travaille seul dans un appartement de la rue d'Enfer. Il vient d'écrire une loi mathématique qui décompose toute courbe, tout son, toute image, en une somme d'ondes. Il lui faudra encore plusieurs décennies pour être compris.
 
-À travers cette interview fictive nourrie de faits réels,…
+Comment un préfet de l'Isère devenu secrétaire perpétuel de l'Académie des sciences a-t-il inventé la grammaire du monde vibrant ? À travers cette interview fictive nourrie de faits réels, Joseph Fourier raconte : l'école militaire des bénédictins à Auxerre, l'arrestation de 1794 et les jours de Thermidor, l'Égypte de Bonaparte et l'Institut des savants au Caire, le mémoire de 1807 sur la propagation de la chaleur que l'Académie refuse de publier, les séries trigonométriques que Laplace, Lagrange et Poisson combattent, les 639 pages de la Théorie analytique de la chaleur en 1822, l'effet de serre avant l'heure, l'analyse dimensionnelle, et les derniers mots d'un savant qui demandait du vinaigre en mourant.
 
 🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Joseph_Fourier · https://www.academie-francaise.fr/les-immortels/joseph-fourier
-#JosephFourier #SériesDeFourier #ThéorieAnalytiqueDeLaChaleur #AnalyseFourier</description>
+⚠️ Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial ; les propos sont une reconstitution imaginée. Tous les faits biographiques et scientifiques cités sont réels et sourcés.
+📚 Sources : https://fr.wikipedia.org/wiki/Joseph_Fourier · https://www.academie-francaise.fr/les-immortels/joseph-fourier · https://www.academie-sciences.fr/pdf/dossiers/Fourier/Fourier_oeuvre.htm
+#JosephFourier #SériesDeFourier #ThéorieAnalytiqueDeLaChaleur #AnalyseFourier #PropagationDeLaChaleur #EffetDeSerre #Mathématiques #HistoireDesSciences #JeanBaptisteJosephFourier #InstitutDEgypte #PhysiqueMathématique #ÉgypteNapoléonienne</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-27</guid>
       <pubDate>Mon, 11 Jan 2027 05:00:00 +0000</pubDate>
-      <ns1:duration>14:06</ns1:duration>
-      <ns1:episode>27</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-27.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-27.mp3" length="13540268" type="audio/mpeg" />
+      <itunes:duration>14:06</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-27.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-27.mp3" length="13540268" type="audio/mpeg"/>
     </item>
     <item>
       <title>Victor Schœlcher — L'abolitionniste</title>
       <description>Victor Schœlcher — L'abolitionniste
 
-Nulle terre française ne peut plus porter d'esclaves.
+Série « Qui c'est celui-là ? »
 
-Un portrait nuancé, fidèle aux faits et sans hagiographie.
+« Nulle terre française ne peut plus porter d'esclaves. » Cette formule résume le combat d'une vie : celui de Victor Schœlcher (1804–1893), homme politique et abolitionniste français, dont le décret du 27 avril 1848 abolit l'esclavage dans toutes les colonies et possessions françaises.
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Victor_Schœlcher · https://francearchives.gouv.fr/fr/705188
-#VictorSchœlcher #Abolition #Esclavage #Histoire #République</description>
+Dans cet entretien imaginaire, nous suivons son parcours : le jeune fils d'un fabricant de porcelaine, bouleversé par un voyage d'affaires à Cuba où il découvre l'horreur de l'esclavage, puis des décennies de militantisme pour une abolition immédiate. Il raconte les semaines décisives de 1848, la signature du décret, son combat pour la citoyenneté et l'instruction des nouveaux libres, son exil sous le Second Empire, puis son entrée au Panthéon en 1949.
+
+L'entretien affronte aussi, sans détour, les débats d'aujourd'hui : les limites de cette abolition — l'indemnité versée aux anciens maîtres et non aux victimes, les règlements de travail imposés aux nouveaux libres —, le rôle décisif des révoltes d'esclaves comme celle du 22 mai en Martinique, et les statues déboulonnées en 2020. Un portrait nuancé, fidèle aux faits et sans hagiographie.
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Victor_Schœlcher · https://www.senat.fr/evenement/archives/D22/scholcher.html · https://www.assemblee-nationale.fr/histoire/victor-schoelcher
+
+#VictorSchœlcher #Abolition #Esclavage #Histoire #République #Podcast #QuiEstCeluiLa #Portrait</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-26</guid>
       <pubDate>Mon, 04 Jan 2027 05:00:00 +0000</pubDate>
-      <ns1:duration>10:38</ns1:duration>
-      <ns1:episode>26</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-26.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-26.mp3" length="2552492" type="audio/mpeg" />
+      <itunes:duration>10:38</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-26.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-26.mp3" length="2552492" type="audio/mpeg"/>
     </item>
     <item>
       <title>Antoine de Saint-Exupéry — L'humanisme du Petit Prince</title>
       <description>Antoine de Saint-Exupéry — L'humanisme du Petit Prince
 
-L'essentiel est invisible pour les yeux.
+Série « Qui c'est celui-là ? »
 
-Derrière cette phrase, tombée du renard du Petit Prince, il y a une vie suspendue entre ciel et désert : celle d'Antoine de…
+« On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux. » Derrière cette phrase, tombée du renard du Petit Prince, il y a une vie suspendue entre ciel et désert : celle d'Antoine de Saint-Exupéry (1900–1944), aviateur et écrivain, pionnier de l'Aéropostale.
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Antoine_de_Saint-Exupéry · https://www.larousse.fr/encyclopedie/personnage/Antoine_de_Saint-Exupery/138442
-#SaintExupery #PetitPrince #Aviation #Litterature</description>
+Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Lyon, les premières lignes du courrier entre Toulouse et Dakar, le fortin de Cap Juby dans le Sahara, la Patagonie et « Vol de nuit », puis l'épreuve du crash de 1935 dans le désert de Libye. Antoine de Saint-Exupéry y raconte sa conception de la responsabilité et des liens humains, la naissance du « Petit Prince » à New York, et revient, au seuil de son dernier vol, sur sa disparition au large de Marseille en 1944.
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Antoine_de_Saint-Exupéry · https://www.antoinedesaintexupery.com · https://www.bnf.fr/fr/antoine-de-saint-exupery
+
+#SaintExupery #PetitPrince #Aviation #Litterature #Humanisme #Podcast #QuiEstCeluiLa #Biographie</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-25</guid>
       <pubDate>Mon, 28 Dec 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>11:14</ns1:duration>
-      <ns1:episode>25</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-25.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-25.mp3" length="2696588" type="audio/mpeg" />
+      <itunes:duration>11:14</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-25.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-25.mp3" length="2696588" type="audio/mpeg"/>
     </item>
     <item>
       <title>Frida Kahlo — Peindre la douleur</title>
       <description>Frida Kahlo — Peindre la douleur
 
-Je peins des autoportraits parce que je suis souvent seule, et parce que je me connais le mieux.
+Série « Qui c'est celui-là ? »
 
-Derrière le visage le plus reconnaissable de la peinture du XXe siècle, il y a une vie traversée par la souffrance et illuminée…
+« Je peins des autoportraits parce que je suis souvent seule, et parce que je me connais le mieux. » Derrière le visage le plus reconnaissable de la peinture du XXe siècle, il y a une vie traversée par la souffrance et illuminée par la couleur : celle de Frida Kahlo (1907–1954), peintre mexicaine, figure de l'art mondial.
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Frida_Kahlo · https://www.fridakahlo.org
-#FridaKahlo #Peinture #Art #Feminisme</description>
+Dans cet entretien imaginaire, nous suivons son parcours : la petite fille de la Casa Azul entre un père photographe allemand et une mère mexicaine, la polio, puis l'accident de bus du 17 septembre 1925 et la douleur chronique devenue matière d'œuvre. Frida Kahlo y raconte ses autoportraits peints sous le miroir, sa relation tumultueuse avec le muraliste Diego Rivera, son refus de l'étiquette « surréaliste » (« je peins ma réalité »), son engagement politique et son dernier tableau, « Viva la Vida ».
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Frida_Kahlo · https://www.fridakahlo.org · https://www.moma.org/artists/2967
+
+#FridaKahlo #Peinture #Art #Feminisme #Mexique #Podcast #QuiEstCeluiLa #Biographie</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-24</guid>
       <pubDate>Mon, 21 Dec 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>11:12</ns1:duration>
-      <ns1:episode>24</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-24.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-24.mp3" length="2690060" type="audio/mpeg" />
+      <itunes:duration>11:12</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-24.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-24.mp3" length="2690060" type="audio/mpeg"/>
     </item>
     <item>
       <title>Rosa Parks — Le refus qui changea l'Amérique</title>
       <description>Rosa Parks — Le refus qui changea l'Amérique
 
-Le 1er décembre 1955, à Montgomery, en Alabama, une couturière de quarante-deux ans refuse de céder sa place dans…
+Série « Qui c'est celui-là ? »
 
-Elle y raconte le boycott, les menaces, l'exil à Detroit, les honneurs nationaux, et le sens profond de sa vie : la dignité comme…
+« J'en avais assez de céder. » Le 1er décembre 1955, à Montgomery, en Alabama, une couturière de quarante-deux ans refuse de céder sa place dans l'autobus à un passager blanc. Son arrestation déclenche un boycott des bus de 381 jours, révèle un jeune pasteur nommé Martin Luther King, et fait basculer l'histoire des droits civiques aux États-Unis.
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Rosa_Parks · https://www.archives.gov/education/lessons/rosa-parks
-#RosaParks #DroitsCiviques #Segregation #Histoire</description>
+Dans cet entretien imaginaire, nous suivons le parcours de Rosa Parks (1913–2005) : l'enfance pauvre et fière de Pine Level, le mariage avec le militant Raymond Parks, les années de travail discret à la NAACP, puis le geste fondateur dans l'autobus de Cleveland Avenue. Elle y raconte le boycott, les menaces, l'exil à Detroit, les honneurs nationaux, et le sens profond de sa vie : la dignité comme forme suprême de courage.
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Rosa_Parks · https://www.archives.gov/education/lessons/rosa-parks · https://www.britannica.com/biography/Rosa-Parks
+
+#RosaParks #DroitsCiviques #Segregation #Histoire #Montgomery #Podcast #QuiEstCeluiLa #Portrait</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-23</guid>
       <pubDate>Mon, 14 Dec 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>11:11</ns1:duration>
-      <ns1:episode>23</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-23.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-23.mp3" length="2685356" type="audio/mpeg" />
+      <itunes:duration>11:11</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-23.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-23.mp3" length="2685356" type="audio/mpeg"/>
     </item>
     <item>
       <title>Louise Michel — La Vierge rouge</title>
       <description>Louise Michel — La Vierge rouge
 
-Cette devise résume une vie tout entière tournée vers la justice : celle de Louise Michel (1830–1905),…
+Série « Qui c'est celui-là ? »
 
-Louise Michel y raconte aussi son retour triomphal à Paris, ses procès, l'attentat dont elle réchappe en 1888, et ses funérailles…
+« Je suis avec les opprimés. » Cette devise résume une vie tout entière tournée vers la justice : celle de Louise Michel (1830–1905), institutrice, figure majeure de la Commune de Paris (1871) et devenue, au bagne, une voix de l'anarchisme.
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Louise_Michel · https://maitron.fr/spip.php?article24705
-#LouiseMichel #CommuneDeParis #Anarchisme #Feminisme</description>
+Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Vroncourt, le refus de prêter serment à Napoléon III, les barricades de la Commune, l'arrestation et le conseil de guerre, puis la déportation en Nouvelle-Calédonie (1873–1880) et la rencontre décisive avec les Kanaks qui l'ouvre à l'anarchisme. Louise Michel y raconte aussi son retour triomphal à Paris, ses procès, l'attentat dont elle réchappe en 1888, et ses funérailles immenses de 1905.
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Louise_Michel · https://maitron.fr/spip.php?article24705 · https://gallica.bnf.fr (Mémoires de Louise Michel)
+
+#LouiseMichel #CommuneDeParis #Anarchisme #Feminisme #Histoire #Podcast #QuiEstCeluiLa #Portrait</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-22</guid>
       <pubDate>Mon, 07 Dec 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>11:33</ns1:duration>
-      <ns1:episode>22</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-22.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-22.mp3" length="2775980" type="audio/mpeg" />
+      <itunes:duration>11:33</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-22.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-22.mp3" length="2775980" type="audio/mpeg"/>
     </item>
     <item>
       <title>Émile Zola — L'écrivain et « J'accuse »</title>
       <description>Émile Zola — L'écrivain et « J'accuse »
 
-La vérité est en marche, et rien ne l'arrêtera.
+Série « Qui c'est celui-là ? »
 
-le 13 janvier 1898, son procès et son exil en Angleterre, avant une mort tragique en 1902.
+« La vérité est en marche, et rien ne l'arrêtera. » Derrière cette phrase devenue l'un des cris les plus célèbres de l'histoire de la justice, il y a une vie et une œuvre : celles d'Émile Zola (1840–1902), romancier, chef de file du naturalisme et auteur du cycle monumental des « Rougon-Macquart ».
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Émile_Zola · https://data.bnf.fr/fr/11914216/emile_zola/
-#ÉmileZola #Jaccuse #Litterature #AffaireDreyfus #Naturalisme</description>
+Dans cet entretien imaginaire, nous suivons son parcours : les années de misère à Paris, la défense des peintres impressionnistes, la conquête du roman naturaliste, puis la construction des vingt romans des « Rougon-Macquart », de « L'Assommoir » à « Germinal ». Émile Zola y raconte son engagement dans l'affaire Dreyfus, la publication de « J'accuse… ! » le 13 janvier 1898, son procès et son exil en Angleterre, avant une mort tragique en 1902.
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Émile_Zola · https://www.bnf.fr/fr/emile-zola · https://gallica.bnf.fr (J'accuse, L'Aurore 1898)
+
+#ÉmileZola #Jaccuse #Litterature #AffaireDreyfus #Naturalisme #Podcast #QuiEstCeluiLa #Histoire</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-21</guid>
       <pubDate>Mon, 30 Nov 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>12:29</ns1:duration>
-      <ns1:episode>21</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-21.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-21.mp3" length="2997548" type="audio/mpeg" />
+      <itunes:duration>12:29</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-21.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-21.mp3" length="2997548" type="audio/mpeg"/>
     </item>
     <item>
       <title>Hannah Arendt — La banalité du mal</title>
       <description>Hannah Arendt — La banalité du mal
 
-Derrière cette formule devenue légendaire, il y a une vie et une œuvre : celles de Hannah Arendt (1906–1975),…
+Série « Qui c'est celui-là ? »
 
-Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Königsberg dans une famille juive cultivée, les études…
+« La banalité du mal. » Derrière cette formule devenue légendaire, il y a une vie et une œuvre : celles de Hannah Arendt (1906–1975), philosophe politique allemande, juive, exilée de l'Allemagne nazie, devenue l'une des penseuses majeures du XXᵉ siècle.
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Hannah_Arendt · https://plato.stanford.edu/entries/arendt/
-#HannahArendt #Philosophie #BanalitéDuMal #Totalitarisme</description>
+Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Königsberg dans une famille juive cultivée, les études auprès de Heidegger et de Jaspers, l'exil de 1933, l'internement au camp de Gurs et l'arrivée aux États-Unis en 1941. Hannah Arendt y raconte ses grandes œuvres — « Les Origines du totalitarisme » (1951), « La Condition de l'homme moderne » (1958) et sa théorie de l'action, « Eichmann à Jérusalem » (1963) et le scandale de la « banalité du mal » — ainsi que son regard sur la pensée, la pluralité et la vérité dans le monde d'aujourd'hui.
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Hannah_Arendt · https://plato.stanford.edu/entries/arendt/ · https://www.bnf.fr/fr/hannah-arendt
+
+#HannahArendt #Philosophie #BanalitéDuMal #Totalitarisme #Podcast #QuiEstCeluiLa #Portrait #Exil</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-20</guid>
       <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>10:05</ns1:duration>
-      <ns1:episode>20</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-20.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-20.mp3" length="2420684" type="audio/mpeg" />
+      <itunes:duration>10:05</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-20.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-20.mp3" length="2420684" type="audio/mpeg"/>
     </item>
     <item>
       <title>Linus Pauling — La molécule et la paix</title>
       <description>Linus Pauling — La molécule et la paix
 
-Derrière ce record inégalé, il y a une vie hors norme : celle de Linus Pauling (1901–1994), chimiste et…
+Série « Qui c'est celui-là ? »
 
-Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Portland dans l'Oregon, l'intuition précoce pour la…
+« Deux prix Nobel, aucun partagé. » Derrière ce record inégalé, il y a une vie hors norme : celle de Linus Pauling (1901–1994), chimiste et biochimiste américain, fondateur de la biologie moléculaire, avocat passionné de la vitamine C et inlassable militant de la paix.
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Linus_Pauling · https://www.nobelprize.org/prizes/peace/1962/pauling/
-#LinusPauling #Chimie #PrixNobel #Paix</description>
+Dans cet entretien imaginaire, nous suivons son parcours : l'enfance à Portland dans l'Oregon, l'intuition précoce pour la chimie, la théorie de la liaison chimique qui lui vaut le Nobel de chimie en 1954, puis la découverte de l'hélice alpha des protéines et celle de la première « maladie moléculaire », la drépanocytose (1949). Linus Pauling y raconte aussi son engagement contre les essais nucléaires — qui lui vaut un second Nobel, celui de la paix, en 1962 — ainsi que son combat, très débattu, pour les hautes doses de vitamine C et la médecine dite orthomoléculaire.
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Linus_Pauling · https://www.nobelprize.org/prizes/peace/1962/pauling/ · https://profiles.nlm.nih.gov/spotlight/mm
+
+#LinusPauling #Chimie #PrixNobel #Paix #VitamineC #Podcast #QuiEstCeluiLa #Science</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-19</guid>
       <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>8:34</ns1:duration>
-      <ns1:episode>19</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-19.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-19.mp3" length="2059340" type="audio/mpeg" />
+      <itunes:duration>8:34</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-19.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-19.mp3" length="2059340" type="audio/mpeg"/>
     </item>
     <item>
       <title>Gandhi — La force de la non-violence</title>
       <description>Gandhi — La force de la non-violence
 
-Soyez le changement que vous voulez voir dans le monde.
+Série « Qui c'est celui-là ? »
 
-Gandhi y évoque son jeûne, son rouet, sa lutte contre l'intouchabilité, sa déchirure face à la partition de 1947, et son…
+« Soyez le changement que vous voulez voir dans le monde. » Derrière cette maxime devenue universelle, il y a une vie et une lutte : celles de Mohandas Karamchand Gandhi (1869–1948), surnommé le Mahatma, la « grande âme », leader de l'indépendance de l'Inde et apôtre mondial de la non-violence.
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi · https://www.britannica.com/biography/Mahatma-Gandhi
-#Gandhi #NonViolence #Inde #Indépendance</description>
+Dans cet entretien imaginaire, nous suivons son parcours : l'enfant de Porbandar marié à treize ans, le jeune avocat jeté hors d'un train en Afrique du Sud en 1893, l'inventeur du satyagraha — la « force de la vérité » —, puis le retour en Inde et les grandes campagnes de désobéissance civile, jusqu'à la marche du sel de 1930, qui ébranla un empire avec une simple poignée de sel. Gandhi y évoque son jeûne, son rouet, sa lutte contre l'intouchabilité, sa déchirure face à la partition de 1947, et son assassinat en 1948.
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi · https://www.britannica.com/biography/Mahatma-Gandhi · https://www.gandhiheritageportal.org
+
+#Gandhi #NonViolence #Inde #Indépendance #Histoire #Podcast #QuiEstCeluiLa #Paix</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-18</guid>
       <pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>11:15</ns1:duration>
-      <ns1:episode>18</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-18.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-18.mp3" length="2701676" type="audio/mpeg" />
+      <itunes:duration>11:15</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-18.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-18.mp3" length="2701676" type="audio/mpeg"/>
     </item>
     <item>
       <title>Marie Curie — La femme aux deux prix Nobel</title>
       <description>Marie Curie — La femme aux deux prix Nobel
 
-Rien dans la vie n'est à craindre, tout est à comprendre.
+Série « Qui c'est celui-là ? »
 
-Marie Curie y confie sa philosophie du travail, de la transmission et de la persévérance, et son regard sur la science et le…
+« Rien dans la vie n'est à craindre, tout est à comprendre. » Derrière cette phrase, il y a une vie d'exception : celle de Marie Curie (1867–1934), née Maria Skłodowska à Varsovie, physicienne et chimiste, seule personne à avoir reçu deux prix Nobel dans deux sciences différentes.
 
-🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
-⚠️ Fiction radiophonique : faits réels, conversation imaginée.
-📚 Sources : https://fr.wikipedia.org/wiki/Marie_Curie · https://www.nobelprize.org/prizes/physics/1903/marie-curie/
-#MarieCurie #PrixNobel #Radioactivité #Science</description>
+Dans cet entretien imaginaire, nous suivons son parcours : la petite Polonaise née sous l'occupation russe, qui étudie en secret dans une « université volante » avant de gagner Paris pour la Sorbonne ; la rencontre avec Pierre Curie et la découverte du polonium et du radium au terme d'années d'épreuves dans un hangar délabré ; les prix Nobel de physique (1903) puis de chimie (1911) ; la première chaire de femme professeure à la Sorbonne ; les « petites Curie » de la Grande Guerre ; et, en filigrane, le prix terrible payé pour une découverte dont on ignorait encore le danger. Marie Curie y confie sa philosophie du travail, de la transmission et de la persévérance, et son regard sur la science et le monde d'aujourd'hui.
+
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.
+
+📚 Sources : https://fr.wikipedia.org/wiki/Marie_Curie · https://www.nobelprize.org/prizes/physics/1903/marie-curie/ · https://musee.curie.fr
+
+#MarieCurie #PrixNobel #Radioactivité #Science #FemmesEnScience #Podcast #QuiEstCeluiLa #Biographie</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-17</guid>
       <pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>13:21</ns1:duration>
-      <ns1:episode>17</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-17.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-17.mp3" length="3207404" type="audio/mpeg" />
+      <itunes:duration>13:21</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-17.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-17.mp3" length="3207404" type="audio/mpeg"/>
     </item>
     <item>
       <title>Winfried Schumann face au murmure de la Terre</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Winfried Schumann face au murmure de la Terre
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
-
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+Un physicien allemand fait une division : la circonférence de la Terre divisée par la vitesse de la lumière. Le résultat — 7,83 hertz — est devenu le prétendu « battement de cœur » de la planète.
+En 1952, Winfried Otto Schumann, ingénieur électricien allemand, publie avec son étudiant la démonstration que la Terre et l'ionosphère forment une cavité résonante. Sa propre voix, il ne l'entendra jamais — mais ses équations sont aujourd'hui l'instrument que la science utilise pour compter les orages du monde, suivre la température tropicale et chercher des gisements d'hydrocarbures au large des côtes.
+Cet épisode raconte l'homme, la cavité, les mesures enfin venues — et fait le tri entre la physique et les promesses de guérison : les résonances de Schumann sont un instrument de mesure, pas un médicament.
+🎙️ « Qui c'est celui-là ? » — Portraits · Interviews · Histoire
+⚠️ Œuvre de fiction radiophonique et biographique à caractère historique et patrimonial ; les propos sont une reconstitution imaginée. Tous les faits biographiques et scientifiques cités sont réels et sourcés.
+📚 Sources : https://en.wikipedia.org/wiki/Schumann_resonances · https://en.wikipedia.org/wiki/Winfried_Otto_Schumann · https://www.mdpi.com/2076-3417/15/1/449
+🎼 Musique : « Träumerei » (Kinderszenen, Op. 15 n° 7) de Robert Schumann — interprétation d'Edigarmonteiro, CC BY-SA 3.0, Wikimedia Commons.
+#Schumann #RésonancesDeSchumann #783Hz #Fréquence #Ondes #Électromagnétisme #Ionosphère #Foudre #Sciences #Terre #Physique #Portraits</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-16</guid>
       <pubDate>Sun, 01 Nov 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>13:31</ns1:duration>
-      <ns1:episode>16</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-16.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-16-schumann.mp3" length="19465238" type="audio/mpeg" />
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-16.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-16-schumann.mp3" length="19465238" type="audio/mpeg"/>
     </item>
     <item>
       <title>Beethoven face au silence</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Beethoven face au silence
+Vienne, hiver 1826. Le plus grand compositeur du monde ne distingue plus une note. Dans son appartement, on lui écrit les questions dans un cahier — et il répond à voix haute, rugueuse et libre.
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+Comment un homme devenu totalement sourd a-t-il composé la Neuvième Symphonie, l'Ode à la joie, les derniers quatuors ? À travers cette interview fictive nourrie de faits réels, Beethoven raconte : le sifflement qui a tout commencé à 26 ans, la Lettre de Heiligenstadt où il avoue avoir voulu mourir, le piano sans pieds et le bâton entre les dents pour sentir les vibrations, cette soirée de 1824 où une chanteuse a dû le retourner vers le public debout qu'il n'entendait pas — et le silence devenu, contre toute attente, son plus grand maître.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+🎙️ « Qui c'est celui-là ? » — Portraits. Interviews. Histoire.
+⚠️ Œuvre de fiction radiophonique à visée pédagogique et culturelle ; les faits biographiques sont réels et vérifiables, l'entretien est une reconstitution imaginée.
+📚 Sources : https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven · https://fr.wikipedia.org/wiki/Testament_de_Heiligenstadt · https://fr.wikipedia.org/wiki/Symphonie_no_9_de_Beethoven
+#Beethoven #LudwigVanBeethoven #ClassicalMusic #MusiqueClassique #Surdité #NeuvièmeSymphonie #OdeALaJoie #HistoireDeLaMusique #Compositeur #Vienne
+📖 L'article et ses sources : https://destock-rgb.github.io/podcasts/blog/beethoven-silence.html
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+🎵 Musique : « Sonate au clair de lune » op. 27 n° 2 (1er mvt, L. van Beethoven), interprétation eldüendesüarez — CC BY-SA 4.0 via Wikimedia Commons · « Ode à la joie » (Symphonie n° 9, finale), United States Navy Band, domaine public via Wikimedia Commons (fond musical au moment du récit de la création, mai 1824).
 
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+🎹 Accord final : notes de Steinway (université d'Iowa, Musical Instrument Samples) — domaine public, utilisables sans restriction.</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-14</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>14:40</ns1:duration>
-      <ns1:episode>14</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-14.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-14-beethoven.mp3" length="14084431" type="audio/mpeg" />
+      <itunes:duration>14:40</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-14.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-14-beethoven.mp3" length="14084431" type="audio/mpeg"/>
     </item>
     <item>
       <title>Simone de Beauvoir — La philosophe du Deuxième Sexe</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Simone de Beauvoir — La philosophe du Deuxième Sexe
+Série « Qui c'est celui-là ? »
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+« On ne naît pas femme : on le devient. » Derrière cette phrase fondatrice du féminisme moderne, il y a une vie et une œuvre : celles de Simone de Beauvoir (1908–1986), philosophe, écrivaine et figure majeure de l'existentialisme.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+Dans cet entretien imaginaire, nous suivons son parcours : la petite fille « bien rangée » d'un milieu bourgeois catholique, l'agrégation de philosophie de 1929 et la rencontre décisive avec Jean-Paul Sartre, puis la rédaction du « Deuxième Sexe » (1949) et le scandale qu'il provoqua. Simone de Beauvoir y raconte sa philosophie de la liberté, son engagement féministe des années 1970 et son regard sur le monde d'aujourd'hui.
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-12</guid>
       <pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>9:53</ns1:duration>
-      <ns1:episode>12</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-12.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-12-beauvoir.mp3" length="9495980" type="audio/mpeg" />
+      <itunes:duration>9:53</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-12.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-12-beauvoir.mp3" length="9495980" type="audio/mpeg"/>
     </item>
     <item>
       <title>432 Hz contre 440 Hz — le duel des diapasons</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>432 contre 440 — le duel des diapasons
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+Huit vibrations par seconde de différence, et pourtant une guerre sans fin sur internet : le la universel contre le standard des orchestres. Une physicienne du son rouvre le dossier et tranche entre légendes et science.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+De la France de 1859 au décret italien de 1884 signé pour Verdi, de la conférence de Londres 1939 à la norme ISO de 1955 : la véritable histoire du diapason, bien plus étonnante que le mythe. Puis le procès des légendes : le 440 imposé par les nazis ? La fréquence de l'eau ? La résonance de la Terre ? Et surtout, ce que disent vraiment les études médicales existantes — jusqu'à celle où l'anxiété baissait... même sans musique.
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+🎙️ « Qui c'est celui-là ? » — portrait n° 13, avec le retour de la docteure Camille Rivière (personnage fictif).
+⚠️ Ce programme est une œuvre de fiction radiophonique à visée pédagogique : les faits historiques et scientifiques sont réels et vérifiables.
 
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+#432hz #440hz #diapason #verdi #musique #fréquences #mythes #science #acoustique #histoire #podcastfrancais #quicestceluilà</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-13</guid>
       <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>11:23</ns1:duration>
-      <ns1:episode>13</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-13.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-13-432.mp3" length="10928684" type="audio/mpeg" />
+      <itunes:duration>11:23</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-13.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-13-432.mp3" length="10928684" type="audio/mpeg"/>
     </item>
     <item>
       <title>Pythagore — La musique des sphères</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Pythagore — La musique des sphères
+Série « Qui c'est celui-là ? »
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+« Tout est nombre. » Avant les laboratoires et les machines, un homme a pensé que le monde entier n'était qu'une immense vibration : Pythagore (vers 570–495 av. J.-C.). Il est le premier à avoir uni les nombres, la musique et le ciel.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+Dans cet entretien imaginaire, nous suivons sa pensée : la forge et les rapports harmoniques, le monocorde, la tétraktys, la « musique des sphères », la catharsis par la musique et le destin de son école. Une figure à demi légendaire, ici située avec la prudence qu'elle mérite. Deuxième épisode d'une série consacrée aux pionniers du son qui guérit.
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après la tradition et les sources publiques.</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-11</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>9:42</ns1:duration>
-      <ns1:episode>11</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-11.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-11-pythagore.mp3" length="9326252" type="audio/mpeg" />
+      <itunes:duration>9:42</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-11.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-11-pythagore.mp3" length="9326252" type="audio/mpeg"/>
     </item>
     <item>
       <title>Alfred Tomatis — Le son qui guérit</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Alfred Tomatis — Le son qui guérit
+Série « Qui c'est celui-là ? »
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+« La voix ne peut produire que ce que l'oreille entend. » Derrière cette formule, il y a la découverte d'un médecin français : Alfred Tomatis (1920–2001), oto-rhino-laryngologiste, qui a consacré sa vie à une idée audacieuse — le son peut soigner.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+Dans cet entretien imaginaire, nous suivons son parcours : l'enfance dans les coulisses de l'opéra, l'observation fondatrice à l'usine d'aéronautique, les tests sur les chanteurs, l'oreille électronique et l'« effet Mozart », jusqu'à la méthode qui porte son nom — contestée, mais toujours pratiquée dans le monde entier. Premier épisode d'une série consacrée aux pionniers du son qui guérit.
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+Ce programme est une œuvre de fiction radiophonique et biographique à caractère historique et patrimonial. Les propos attribués au personnage sont une reconstitution imaginée ; les éléments biographiques sont rapportés d'après les sources publiques.</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-10</guid>
       <pubDate>Sun, 11 Oct 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>8:11</ns1:duration>
-      <ns1:episode>10</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-10.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-10-tomatis.mp3" length="7862828" type="audio/mpeg" />
+      <itunes:duration>8:11</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-10.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-10-tomatis.mp3" length="7862828" type="audio/mpeg"/>
     </item>
     <item>
       <title>Victor Hugo face à la misère et aux inégalités</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Victor Hugo face à la misère et aux inégalités
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+Et si Victor Hugo revenait parmi nous ? Dans cet épisode, « Qui c'est celui-là ? » imagine l'interview qu'il aurait pu donner sur un sujet brûlant : la misère, la pauvreté qui se transmet de génération en génération, et les inégalités qui fracturent notre société.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+L'auteur des Misérables a passé sa vie à écrire sur les invisibles : l'enfant pauvre, la femme seule, le travailleur exploité. Que dirait-il de nos précarités modernes, du sans-abrisme, des écarts de richesse et de l'accès aux droits ?
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+🎙️ « Qui c'est celui-là ? » — des portraits et interviews fictives pour redonner vie aux grandes figures de l'histoire.
 
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
+⚠️ Ce podcast est une œuvre de fiction. Toute ressemblance avec des propos réels serait purement fortuite.
 
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+#VictorHugo #LesMisérables #Misère #Inégalités #Littérature #PodcastHistorique</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-06</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>5:30</ns1:duration>
-      <ns1:episode>06</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-06.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-06-hugo.mp3" length="5285420" type="audio/mpeg" />
+      <itunes:duration>5:30</itunes:duration>
+      <itunes:episode>06</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-06.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-06-hugo.mp3" length="5285420" type="audio/mpeg"/>
     </item>
     <item>
       <title>Martin Luther King face aux inégalités raciales</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Martin Luther King face aux inégalités raciales aujourd'hui
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+« I have a dream », disait-il en 1963. Ce rêve est-il devenu réalité ? Dans cet épisode, « Qui c'est celui-là ? » imagine ce que le pasteur Martin Luther King aurait à dire sur les inégalités raciales, les violences policières et le racisme systémique en 2026.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+Un dialogue respectueux et équilibré, qui confronte l'héritage du mouvement des droits civiques aux combats contemporains : Black Lives Matter, justice sociale, et le chemin qu'il reste à parcourir.
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+🎙️ « Qui c'est celui-là ? » — des portraits et interviews fictives pour redonner vie aux grandes figures de l'histoire.
 
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
+⚠️ Ce podcast est une œuvre de fiction. Toute ressemblance avec des propos réels serait purement fortuite.
 
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+#MartinLutherKing #IHaveADream #DroitsCiviques #Racisme #JusticeSociale #PodcastHistorique</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-07</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>2:56</ns1:duration>
-      <ns1:episode>07</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-07.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-07-mlk.mp3" length="2829356" type="audio/mpeg" />
+      <itunes:duration>2:56</itunes:duration>
+      <itunes:episode>07</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-07.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-07-mlk.mp3" length="2829356" type="audio/mpeg"/>
     </item>
     <item>
       <title>Jean-Paul Sartre face à la jeunesse et à Mai 68</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Jean-Paul Sartre face à la jeunesse et à Mai 68
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+Et si le philosophe de la liberté revenait confronter sa jeunesse à la nôtre ? « Qui c'est celui-là ? » imagine Jean-Paul Sartre revisitant le Mai 68 qu'il a vécu — « l'imagination au pouvoir », les amphithéâtres occupés, l'engagement — et le mettant en regard des inquiétudes de la jeunesse d'aujourd'hui : éco-anxiété, société de l'attention, quête de sens.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+Il déplie au passage les grands thèmes de sa pensée : l'existence précède l'essence, la liberté et son vertige, la mauvaise foi, et cette conviction finale — « l'homme est l'avenir de l'homme ».
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+🎙️ « Qui c'est celui-là ? » — des portraits et interviews fictives pour redonner vie aux grandes figures de l'histoire.
 
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
+⚠️ Ce podcast est une œuvre de fiction. Toute ressemblance avec des propos réels serait purement fortuite.
 
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+#JeanPaulSartre #Mai68 #Philosophie #Existentialisme #Jeunesse #PodcastHistorique</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-08</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>10:24</ns1:duration>
-      <ns1:episode>08</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-08.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-08-sartre.mp3" length="9998636" type="audio/mpeg" />
+      <itunes:duration>10:24</itunes:duration>
+      <itunes:episode>08</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-08.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-08-sartre.mp3" length="9998636" type="audio/mpeg"/>
     </item>
     <item>
       <title>Michel Foucault face aux violences de la jeunesse</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Michel Foucault face aux violences de la jeunesse
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+Que dirait le philosophe du pouvoir, des institutions et des révoltes face aux violences des jeunes en France aujourd'hui ? « Qui c'est celui-là ? » imagine Michel Foucault à la lumière de Mai 68.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+À travers ses concepts — la discipline et la normalisation dans « Surveiller et punir », la prison qui « produit la délinquance », la biopolitique des quartiers, sa méfiance des mots-écrans comme « ensauvagement » — il distingue la révolte structurée des irruptions sans médiation d'aujourd'hui. Un dialogue exigeant qui refuse de glorifier la violence comme de diaboliser la jeunesse.
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+🎙️ « Qui c'est celui-là ? » — des portraits et interviews fictives pour redonner vie aux grandes figures de l'histoire.
 
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
+⚠️ Ce podcast est une œuvre de fiction. Toute ressemblance avec des propos réels serait purement fortuite.
 
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+#MichelFoucault #Mai68 #Philosophie #Violence #Jeunesse #SurveillerEtPunir #PodcastHistorique</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">quicestceluilala-fr-09</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
-      <ns1:duration>11:44</ns1:duration>
-      <ns1:episode>09</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-09.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-09-foucault.mp3" length="11277740" type="audio/mpeg" />
+      <itunes:duration>11:44</itunes:duration>
+      <itunes:episode>09</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-09.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-09-foucault.mp3" length="11277740" type="audio/mpeg"/>
     </item>
-    <item><title>Don Miguel Ruiz — Les quatre accords toltèques</title><description>Don Miguel Ruiz — Les quatre accords toltèques
-Série « Qui c&amp;#x27;est celui-là ? »
+    <item>
+      <title>Don Miguel Ruiz — Les quatre accords toltèques</title>
+      <description>Don Miguel Ruiz — Les quatre accords toltèques
+Série « Qui c'est celui-là ? »
 
-Chirurgien mexicain devenu l&amp;#x27;un des maîtres spirituels les plus lus au monde : Don Miguel Ruiz est l&amp;#x27;homme derrière « Les Quatre Accords toltèques », ce petit livre de développement personnel vendu à plus de dix millions d&amp;#x27;exemplaires depuis 1997.
+Chirurgien mexicain devenu l'un des maîtres spirituels les plus lus au monde : Don Miguel Ruiz est l'homme derrière « Les Quatre Accords toltèques », ce petit livre de développement personnel vendu à plus de dix millions d'exemplaires depuis 1997.
 
-Dans ce portrait documentaire, nous suivons le parcours de Miguel Ángel Ruiz : l&amp;#x27;enfant d&amp;#x27;une famille de guérisseurs traditionnels devenu neurochirurgien, le grave accident de voiture qui bouleverse sa vie, puis le retour aux traditions mexicaines. Nous expliquons un à un les quatre accords — la parole impeccable, ne rien prendre personnellement, ne pas faire de suppositions, faire toujours de son mieux — avec un regard à la fois bienveillant et critique, en distinguant la sagesse pratique de la reconstruction « toltèque » moderne.
+Dans ce portrait documentaire, nous suivons le parcours de Miguel Ángel Ruiz : l'enfant d'une famille de guérisseurs traditionnels devenu neurochirurgien, le grave accident de voiture qui bouleverse sa vie, puis le retour aux traditions mexicaines. Nous expliquons un à un les quatre accords — la parole impeccable, ne rien prendre personnellement, ne pas faire de suppositions, faire toujours de son mieux — avec un regard à la fois bienveillant et critique, en distinguant la sagesse pratique de la reconstruction « toltèque » moderne.
 
-Ce programme est un portrait biographique et documentaire à visée pédagogique et culturelle. Les propos sur les quatre accords sont une reformulation et une analyse réalisées par nos soins ; ils ne reproduisent pas le texte de Don Miguel Ruiz, dont l&amp;#x27;auteur conserve les droits.</description><link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link><guid isPermaLink="false">quicestceluilala-fr-01</guid><pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate><ns1:duration>11:04</ns1:duration><ns1:episode>1</ns1:episode><ns1:season>1</ns1:season><ns1:explicit>false</ns1:explicit><ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-01-ruiz.jpg" /><enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-01-ruiz.mp3" length="2659436" type="audio/mpeg" /></item><item>
+Ce programme est un portrait biographique et documentaire à visée pédagogique et culturelle. Les propos sur les quatre accords sont une reformulation et une analyse réalisées par nos soins ; ils ne reproduisent pas le texte de Don Miguel Ruiz, dont l'auteur conserve les droits.</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-01</guid>
+      <pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>11:04</itunes:duration>
+      <itunes:episode>01</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-01-ruiz.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-01-ruiz.mp3" length="2659436" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Épisode 5 — George Orwell face à la surveillance numérique</title>
       <description>Épisode 5 — George Orwell face à la surveillance numérique — épisode d'archive de la chaîne.</description>
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-5</guid>
       <pubDate>Sun, 12 May 2024 10:00:00 GMT</pubDate>
-      <ns1:duration>171</ns1:duration>
-      <ns1:episode>5</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-05.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-05-orwell-sur-veillance.mp3" length="1023476" type="audio/mpeg" />
+      <itunes:duration>171</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-05.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-05-orwell-sur-veillance.mp3" length="1023476" type="audio/mpeg"/>
     </item>
     <item>
       <title>Épisode 4 — Nelson Mandela et la réconciliation</title>
@@ -820,12 +695,12 @@ Ce programme est un portrait biographique et documentaire à visée pédagogique
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-4</guid>
       <pubDate>Fri, 05 Apr 2024 10:00:00 GMT</pubDate>
-      <ns1:duration>171</ns1:duration>
-      <ns1:episode>4</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-04.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-04-mandela-reconciliation.mp3" length="1021316" type="audio/mpeg" />
+      <itunes:duration>171</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-04.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-04-mandela-reconciliation.mp3" length="1021316" type="audio/mpeg"/>
     </item>
     <item>
       <title>Épisode 3 — Jean Jaurès face aux inégalités du XXIe siècle</title>
@@ -833,12 +708,12 @@ Ce programme est un portrait biographique et documentaire à visée pédagogique
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-3</guid>
       <pubDate>Sun, 10 Mar 2024 10:00:00 GMT</pubDate>
-      <ns1:duration>45</ns1:duration>
-      <ns1:episode>3</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-03.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-03-jaures-inegalites.mp3" length="272828" type="audio/mpeg" />
+      <itunes:duration>45</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-03.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-03-jaures-inegalites.mp3" length="272828" type="audio/mpeg"/>
     </item>
     <item>
       <title>Épisode 2 — Simone Veil face à la montée de l'extrême droite</title>
@@ -846,12 +721,12 @@ Ce programme est un portrait biographique et documentaire à visée pédagogique
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-2</guid>
       <pubDate>Tue, 20 Feb 2024 10:00:00 GMT</pubDate>
-      <ns1:duration>343</ns1:duration>
-      <ns1:episode>2</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-02.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-02-veil-extreme-droite.mp3" length="2060876" type="audio/mpeg" />
+      <itunes:duration>343</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-02.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-02-veil-extreme-droite.mp3" length="2060876" type="audio/mpeg"/>
     </item>
     <item>
       <title>Épisode 1 — Charles de Gaulle face à la crise de Gaza</title>
@@ -859,12 +734,12 @@ Ce programme est un portrait biographique et documentaire à visée pédagogique
       <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
       <guid isPermaLink="false">archive-1</guid>
       <pubDate>Mon, 15 Jan 2024 10:00:00 GMT</pubDate>
-      <ns1:duration>66</ns1:duration>
-      <ns1:episode>1</ns1:episode>
-      <ns1:season>1</ns1:season>
-      <ns1:explicit>false</ns1:explicit>
-      <ns1:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-01.jpg" />
-      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-01-de-gaulle-gaza.mp3" length="396956" type="audio/mpeg" />
+      <itunes:duration>66</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/anciens/pochette-01.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/anciens/episode-01-de-gaulle-gaza.mp3" length="396956" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

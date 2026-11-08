@@ -7,7 +7,7 @@
     <description>Chaque semaine, trois bonnes nouvelles racontées comme on les rencontrerait en marchant : une espèce qui revient, un territoire protégé, une recherche qui aboutit. Un journal sonore court et factuel.</description>
     <language>fr-FR</language>
     <copyright>© 2026 Le Journal des Bonnes Nouvelles</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 13:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:00:40 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Le Journal des Bonnes Nouvelles</itunes:author>
     <itunes:subtitle>L'actualité qui va bien</itunes:subtitle>
@@ -18,37 +18,18 @@
     <itunes:category text="Nature &amp; Environment"/>
     <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/journal/pochette-chaine.jpg"/>
     <itunes:owner><itunes:name>Le Journal des Bonnes Nouvelles</itunes:name></itunes:owner>
-    <!-- TODO client : ajouter <atom:link rel="alternate" href="https://anchor.fm/.../podcast/rss"/> une fois l'URL Spotify for Creators copiee -->
+    <atom:link rel="alternate" href="https://anchor.fm/s/118180b28/podcast/rss" type="application/rss+xml"/>
     <item>
       <title>Le Journal des Bonnes Nouvelles — Édition 2</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Le Journal des Bonnes Nouvelles — Édition 2
+Des forêts sous-marines restaurées à Porquerolles, un vaccin antipaludique recommandé par l'OMS, un réseau de voisins sort de l'isolement à Bordeaux.
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+Édition 2 : la Méditerranée, la santé mondiale, l'entraide de quartier, la biodiversité.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+🎙️ Le Journal des Bonnes Nouvelles — l'actualité positive, édition par édition.
+⚠️ Reporters fictifs ; tous les faits évoqués sont réels, datés et sourcés.
+📚 Sources : https://ofb.gouv.fr · https://iucn.org
+#JournalDesBonnesNouvelles #ActualitéPositive #Littoral #SantéMondiale #Entraide</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
       <guid isPermaLink="false">journal-2</guid>
       <pubDate>Tue, 03 Nov 2026 14:51:00 +0000</pubDate>
@@ -61,34 +42,15 @@
     </item>
     <item>
       <title>Le Journal des Bonnes Nouvelles — Édition 4</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Le Journal des Bonnes Nouvelles — Édition 4
+Le deuxième plan d'aires protégées sort, un Français reçoit le Nobel de chimie, un train fonctionne au soleil, une usine capte le CO₂.
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+Édition 4 : la nature, la recherche, le train, le carbone — tout est sourcé.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+🎙️ Le Journal des Bonnes Nouvelles — l'actualité positive, édition par édition.
+⚠️ Reporters fictifs ; tous les faits évoqués sont réels, datés et sourcés.
+📚 Sources : https://www.ecologie.gouv.fr · https://www.nobelprize.org/prizes/chemistry/2026/
+#JournalDesBonnesNouvelles #ActualitéPositive #AiresProtégées #NobelDeChimie #TrainSolaire</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
       <guid isPermaLink="false">journal-4</guid>
       <pubDate>Tue, 03 Nov 2026 13:49:00 +0000</pubDate>
@@ -101,34 +63,15 @@
     </item>
     <item>
       <title>Le Journal des Bonnes Nouvelles — Édition 3</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Le Journal des Bonnes Nouvelles — Édition 3
+La forêt de laminaires du Pouliguen se reconstitue, 38 tourbières des Hautes-Vosges sont restaurées, la pointe de l'Estérel est rendue au public.
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+Édition 3 : l'océan, la montagne, un littoral rendu au public, et Octobre Rose.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+🎙️ Le Journal des Bonnes Nouvelles — l'actualité positive, édition par édition.
+⚠️ Reporters fictifs ; tous les faits évoqués sont réels, datés et sourcés.
+📚 Sources : https://vert.eco · https://lasonotheque.org
+#JournalDesBonnesNouvelles #ActualitéPositive #Océan #Tourbières #OctobreRose</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
       <guid isPermaLink="false">journal-3</guid>
       <pubDate>Wed, 14 Oct 2026 08:30:00 +0000</pubDate>
@@ -141,34 +84,15 @@
     </item>
     <item>
       <title>Le Journal des Bonnes Nouvelles — Édition 1</title>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
-    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
-    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
-    &lt;style type="text/css" media="screen"&gt;
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      <description>Le Journal des Bonnes Nouvelles — Édition 1
+Le gypaète barbu revient dans les Pyrénées, la France bat un record d'exportations d'électricité, et les Restos du Cœur mobilisent.
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+Une première édition sillonne la France : la faune, l'énergie, la solidarité — et la note du sourire.
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-devi</description>
+🎙️ Le Journal des Bonnes Nouvelles — l'actualité positive, édition par édition.
+⚠️ Reporters fictifs ; tous les faits évoqués sont réels, datés et sourcés.
+📚 Sources : https://www.lpo.fr · https://cna.lpo.fr · https://keep.eu
+#JournalDesBonnesNouvelles #ActualitéPositive #Gypaète #Énergie #Solidarité</description>
       <link>https://open.spotify.com/show/73HuoLu9P8d1pa9Yp02EKU</link>
       <guid isPermaLink="false">journal-1</guid>
       <pubDate>Sun, 04 Oct 2026 13:26:00 +0000</pubDate>
