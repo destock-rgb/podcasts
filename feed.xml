@@ -7,7 +7,7 @@
     <description>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</description>
     <language>fr-FR</language>
     <copyright>© 2026 Qui c'est celui-là ?</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 12:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:17:59 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Qui c'est celui-là ?</itunes:author>
     <itunes:subtitle>Portraits · Interviews · Histoire</itunes:subtitle>
@@ -18,7 +18,7 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:image href="https://destock-rgb.github.io/podcasts/img/fr/qui-cest-ce-lui-la-podcast.jpg"/>
     <itunes:owner><itunes:name>Qui c'est celui-là ?</itunes:name></itunes:owner>
-    <!-- TODO client : ajouter <atom:link rel="alternate" href="https://anchor.fm/.../podcast/rss"/> une fois l'URL Spotify for Creators copiee -->
+    <atom:link rel="alternate" href="https://anchor.fm/s/11830d414/podcast/rss" type="application/rss+xml"/>
     <item>
       <title>Sénèque — L'art de remplir ses journées</title>
       <description>Sénèque — L'art de remplir ses journées
