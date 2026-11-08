@@ -7,7 +7,7 @@
     <description>Radio portraits of historical figures, between truth and fiction: an imagined interview with the women and men who changed the world. Every episode is a radio reconstruction: the facts are real and verifiable, the conversation is imagined.</description>
     <language>en-US</language>
     <copyright>© 2026 Who's That Guy?</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 11:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:03:49 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Who's That Guy?</itunes:author>
     <itunes:subtitle>Portraits · Interviews · History</itunes:subtitle>
@@ -57,6 +57,71 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/pochette-6.jpg"/>
       <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-6.mp3" length="13417004" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Don Miguel Ruiz — The Four Agreements</title>
+      <description>Don Miguel Ruiz — The Four Agreements</description>
+      <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
+      <guid isPermaLink="false">whosthatguy-en-5</guid>
+      <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>13:18</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-5.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-5.mp3" length="12782252" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Alfred Tomatis — The Man Who Taught Us to Listen</title>
+      <description>Alfred Tomatis — The Man Who Taught Us to Listen</description>
+      <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
+      <guid isPermaLink="false">whosthatguy-en-2</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>8:15</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-2.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-2.mp3" length="7923116" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>René Quinton — Children of the Sea</title>
+      <description>René Quinton — Children of the Sea</description>
+      <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
+      <guid isPermaLink="false">whosthatguy-en-3</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>10:21</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-3.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-3.mp3" length="9939884" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Quinton Water — Marine Plasma &amp; Its Secrets</title>
+      <description>Quinton Water — Marine Plasma &amp; Its Secrets</description>
+      <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
+      <guid isPermaLink="false">whosthatguy-en-4</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>4:00</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-4.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-4.mp3" length="3841964" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>432 vs 440 — The Battle of the Pitch Pipes</title>
+      <description>432 vs 440 — The Battle of the Pitch Pipes</description>
+      <link>https://open.spotify.com/show/04a6RHUSUE7cSylm1TDWho</link>
+      <guid isPermaLink="false">whosthatguy-en-1</guid>
+      <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>12:56</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/en/fichiers/cover-1.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/en/fichiers/episode-1.mp3" length="12425516" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
