@@ -7,7 +7,7 @@
     <description>Des portraits radiophoniques de personnalités historiques, entre vérité et fiction : un entretien imaginaire avec des femmes et des hommes qui ont changé le monde — Ada Lovelace, Sénèque, Marie Curie, Nikola Tesla, Hedy Lamarr, Gandhi, Rosa Parks, Louis Pasteur. Chaque épisode est une reconstitution radiophonique : les faits sont réels et vérifiables, la conversation est imaginée.</description>
     <language>fr-FR</language>
     <copyright>© 2026 Qui c'est celui-là ?</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 11:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:52:17 +0000</lastBuildDate>
     <generator>Hermes - generer_flux_rss_v2.py</generator>
     <itunes:author>Qui c'est celui-là ?</itunes:author>
     <itunes:subtitle>Portraits · Interviews · Histoire</itunes:subtitle>
@@ -393,6 +393,446 @@ Marie Curie y confie sa philosophie du travail, de la transmission et de la pers
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-17.jpg"/>
       <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-17.mp3" length="3207404" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Winfried Schumann face au murmure de la Terre</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-16</guid>
+      <pubDate>Sun, 01 Nov 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-16.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-16-schumann.mp3" length="19465238" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Beethoven face au silence</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-14</guid>
+      <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>14:40</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-14.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-14-beethoven.mp3" length="14084431" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Albert Camus face à l'absurde et la révolte</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-15</guid>
+      <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>10:14</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-15.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-15-camus.mp3" length="2457836" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Simone de Beauvoir — La philosophe du Deuxième Sexe</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-12</guid>
+      <pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>9:53</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-12.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-12-beauvoir.mp3" length="9495980" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>432 Hz contre 440 Hz — le duel des diapasons</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-13</guid>
+      <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>11:23</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-13.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-13-432.mp3" length="10928684" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pythagore — La musique des sphères</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-11</guid>
+      <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>9:42</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-11.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-11-pythagore.mp3" length="9326252" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Alfred Tomatis — Le son qui guérit</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-10</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>8:11</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-10.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-10-tomatis.mp3" length="7862828" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Victor Hugo face à la misère et aux inégalités</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-06</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>5:30</itunes:duration>
+      <itunes:episode>06</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-06.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-06-hugo.mp3" length="5285420" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Martin Luther King face aux inégalités raciales</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-07</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>2:56</itunes:duration>
+      <itunes:episode>07</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-07.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-07-mlk.mp3" length="2829356" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jean-Paul Sartre face à la jeunesse et à Mai 68</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-08</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>10:24</itunes:duration>
+      <itunes:episode>08</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-08.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-08-sartre.mp3" length="9998636" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Michel Foucault face aux violences de la jeunesse</title>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta http-equiv="Content-type" content="text/html; charset=utf-8"&gt;
+    &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"&gt;
+    &lt;title&gt;Page not found &amp;middot; GitHub Pages&lt;/title&gt;
+    &lt;style type="text/css" media="screen"&gt;
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-devi</description>
+      <link>https://open.spotify.com/show/78cm8PKX5uOLXClfHtwUaP</link>
+      <guid isPermaLink="false">quicestceluilala-fr-09</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>11:44</itunes:duration>
+      <itunes:episode>09</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://destock-rgb.github.io/podcasts/fichiers/pochette-09.jpg"/>
+      <enclosure url="https://destock-rgb.github.io/podcasts/fichiers/episode-09-foucault.mp3" length="11277740" type="audio/mpeg"/>
     </item>
     <item>
       <title>Épisode 9 — Louis Pasteur face au COVID-19</title>
