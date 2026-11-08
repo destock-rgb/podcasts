@@ -31,11 +31,11 @@ Par tirage au sort final : 1 bon d'achat "Auchan Voyages" de 15 000€ 5 console
 
 Ça se termine le 9 novembre. Le règlement est en ligne, et le lien est dans la description.
 
-**4. ici.fr — 5 000 €**
+**4. riffx.fr — 4 900 €**
 
-2 bons séjours Belambra Clubs de 5000€
+1 lot comportant 100 vinyles incontournables + 1 platine GLORIOUS DJ (4900€)
 
-Ça se termine le 7 novembre. Le règlement est en ligne, et le lien est dans la description.
+Ça se termine le 8 novembre. Le règlement est en ligne, et le lien est dans la description.
 
 Et puis, il y a ceux qu'on rejoue tous les jours. C'est là que le calcul devient intéressant : un jeu à 500 euros qu'on peut tenter chaque jour de la semaine vaut souvent mieux qu'un tirage unique à 200 euros. C'est tout l'objet de notre tableau de suivi : il trie par valeur réelle et par échéance, et il vous dit ce que vous n'avez pas encore tenté.
 
