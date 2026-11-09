@@ -1,30 +1,13 @@
 {
- "genere_le": "2026-11-08",
+ "genere_le": "2026-11-09",
  "jeux": [
-  {
-   "id": "a0d3fa3c21",
-   "organisateur": "auchan.fr",
-   "lot": "Par tirage au sort final : 1 bon d'achat \"Auchan Voyages\" de 15 000€ 5 consoles de jeux Nintendo Switch 2 avec \"Super Mario Galaxy + Super Mario Galaxy 2\" Par tirage au sort intermédiaire (selon vos points) : 30 kits acc",
-   "valeur_max": 15000,
-   "fin": "2026-11-08",
-   "jours_restants": 0,
-   "mecaniques": [
-    "Tirage au sort",
-    "Fréquence quotidienne"
-   ],
-   "principe": "Scannez le QR Code avec votre mobile ou tablette. Laissez vos coordonnées + 1 question quotidienne pour gagner des points. Obtenez 500 points pour participer aux 2 tirages au sort intermédiaires et 10",
-   "reponses": [],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.ledemondujeu.com/jeux-concours-auchan.fr.html"
-  },
   {
    "id": "6798fa8de0",
    "organisateur": "intermarche.com",
    "lot": "1 séjour d'une semaine pour 4 personnes à la résidence Pierre & Vacances Le Thabor à Valmeinier avec matériel de ski et dîner (3850€) 15 appareils à croque-monsieur (299€) 30 appareils à fondue (99€)",
    "valeur_max": 3850,
    "fin": "2026-11-15",
-   "jours_restants": 7,
+   "jours_restants": 6,
    "mecaniques": [
     "Instants Gagnants"
    ],
@@ -40,28 +23,12 @@
    "lien": "https://www.ledemondujeu.com/jeux-concours-intermarche.com.html"
   },
   {
-   "id": "9df1942e2e",
-   "organisateur": "riffx.fr",
-   "lot": "1 lot comportant 100 vinyles incontournables + 1 platine GLORIOUS DJ (4900€)",
-   "valeur_max": 4900,
-   "fin": "2026-11-08",
-   "jours_restants": 0,
-   "mecaniques": [
-    "Tirage au sort"
-   ],
-   "principe": "Inscrivez-vous",
-   "reponses": [],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.riffx.fr/concours/la-discotheque-de-legende-2026/?utm_source=agence-reflexemedia.com"
-  },
-  {
    "id": "a88d99f4b1",
    "organisateur": "meribel.net",
    "lot": "1 séjour d'une semaine au ski pour 6 personnes dans un appartement VIP au cœur de la station Méribel avec les forfaits de ski 3 Vallées (8000€)",
    "valeur_max": 8000,
    "fin": "2026-11-09",
-   "jours_restants": 1,
+   "jours_restants": 0,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -77,7 +44,7 @@
    "lot": "1 séjour de 2 nuits pour 4 personnes à Paris avec un dîner au restaurant Madame Brasserie (2 500€)",
    "valeur_max": 2500,
    "fin": "2026-11-18",
-   "jours_restants": 10,
+   "jours_restants": 9,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -93,12 +60,51 @@
    "lien": "https://formulaires.services.orange.fr/19838"
   },
   {
+   "id": "979bda3382",
+   "organisateur": "lespetitsculottes.com",
+   "lot": "1 séjour d'une semaine pour 4 personnes à la Résidence Montana Premier à Val Thorens du 19 au 26 décembre 2026 ou du 10 au 17 avril 2027 (4000€)",
+   "valeur_max": 4000,
+   "fin": "2026-11-13",
+   "jours_restants": 4,
+   "mecaniques": [
+    "Tirage au sort",
+    "Instagram"
+   ],
+   "principe": "",
+   "reponses": [],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://www.instagram.com/les.petits.culottes/p/DfRx0jfiIwK/"
+  },
+  {
+   "id": "a4247b3cca",
+   "organisateur": "sonovente.com",
+   "lot": "1 contrôleur DJ Hercules DJControl T10 (1275€)",
+   "valeur_max": 1275,
+   "fin": "2026-11-12",
+   "jours_restants": 3,
+   "mecaniques": [
+    "Tirage au sort",
+    "Instagram"
+   ],
+   "principe": "",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "7,3 kg"
+    }
+   ],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://www.instagram.com/sonovente/p/Dev0ovKDTCX/"
+  },
+  {
    "id": "82e9d29ac9",
    "organisateur": "lebonnumero.fr",
    "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
    "valeur_max": 28600,
    "fin": "2026-12-04",
-   "jours_restants": 26,
+   "jours_restants": 25,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"
