@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-09",
+ "genere_le": "2026-11-10",
  "jeux": [
   {
    "id": "6798fa8de0",
@@ -7,7 +7,7 @@
    "lot": "1 séjour d'une semaine pour 4 personnes à la résidence Pierre & Vacances Le Thabor à Valmeinier avec matériel de ski et dîner (3850€) 15 appareils à croque-monsieur (299€) 30 appareils à fondue (99€)",
    "valeur_max": 3850,
    "fin": "2026-11-15",
-   "jours_restants": 6,
+   "jours_restants": 5,
    "mecaniques": [
     "Instants Gagnants"
    ],
@@ -23,28 +23,12 @@
    "lien": "https://www.ledemondujeu.com/jeux-concours-intermarche.com.html"
   },
   {
-   "id": "a88d99f4b1",
-   "organisateur": "meribel.net",
-   "lot": "1 séjour d'une semaine au ski pour 6 personnes dans un appartement VIP au cœur de la station Méribel avec les forfaits de ski 3 Vallées (8000€)",
-   "valeur_max": 8000,
-   "fin": "2026-11-09",
-   "jours_restants": 0,
-   "mecaniques": [
-    "Tirage au sort"
-   ],
-   "principe": "Laissez vos coordonnées",
-   "reponses": [],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.reflexemedia.com/diff.php?c=1632"
-  },
-  {
    "id": "54e86d4845",
    "organisateur": "orange.fr",
    "lot": "1 séjour de 2 nuits pour 4 personnes à Paris avec un dîner au restaurant Madame Brasserie (2 500€)",
    "valeur_max": 2500,
    "fin": "2026-11-18",
-   "jours_restants": 9,
+   "jours_restants": 8,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -60,12 +44,28 @@
    "lien": "https://formulaires.services.orange.fr/19838"
   },
   {
+   "id": "2f21b602f9",
+   "organisateur": "rossignol.com",
+   "lot": "1 lot comportant 1 séjour d'une semaine pour 2 personnes dans un Resort Club Med en Europe ou en Afrique + 2 équipements complets de ski Rossignol (6900€)",
+   "valeur_max": 6900,
+   "fin": "2026-11-12",
+   "jours_restants": 2,
+   "mecaniques": [
+    "Tirage au sort"
+   ],
+   "principe": "Laissez vos coordonnées + 5 questions personnelles",
+   "reponses": [],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://jeuclubmed.rossignol.com/fr/?utm_source=agence-reflexemedia"
+  },
+  {
    "id": "979bda3382",
    "organisateur": "lespetitsculottes.com",
    "lot": "1 séjour d'une semaine pour 4 personnes à la Résidence Montana Premier à Val Thorens du 19 au 26 décembre 2026 ou du 10 au 17 avril 2027 (4000€)",
    "valeur_max": 4000,
    "fin": "2026-11-13",
-   "jours_restants": 4,
+   "jours_restants": 3,
    "mecaniques": [
     "Tirage au sort",
     "Instagram"
@@ -74,7 +74,7 @@
    "reponses": [],
    "departement": "",
    "frequence": "",
-   "lien": "https://www.instagram.com/les.petits.culottes/p/DfRx0jfiIwK/"
+   "lien": "https://www.ledemondujeu.com/jeux-concours-lespetitsculottes.com.html"
   },
   {
    "id": "a4247b3cca",
@@ -82,7 +82,7 @@
    "lot": "1 contrôleur DJ Hercules DJControl T10 (1275€)",
    "valeur_max": 1275,
    "fin": "2026-11-12",
-   "jours_restants": 3,
+   "jours_restants": 2,
    "mecaniques": [
     "Tirage au sort",
     "Instagram"
@@ -96,7 +96,7 @@
    ],
    "departement": "",
    "frequence": "",
-   "lien": "https://www.instagram.com/sonovente/p/Dev0ovKDTCX/"
+   "lien": "https://www.ledemondujeu.com/jeux-concours-sonovente.com.html"
   },
   {
    "id": "82e9d29ac9",
@@ -104,7 +104,7 @@
    "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
    "valeur_max": 28600,
    "fin": "2026-12-04",
-   "jours_restants": 25,
+   "jours_restants": 24,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"

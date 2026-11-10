@@ -83,24 +83,24 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "meribel.net",
-  "lot": "1 séjour d'une semaine au ski pour 6 personnes dans un appartement VIP au cœur de la station Méribel avec les forfaits de ski 3 Vallées (8000€)",
-  "valeur_max": 8000,
-  "fin": "2026-11-09",
-  "ajoute": "2026-10-10",
+  "organisateur": "rossignol.com",
+  "lot": "1 lot comportant 1 séjour d'une semaine pour 2 personnes dans un Resort Club Med en Europe ou en Afrique + 2 équipements complets de ski Rossignol (6900€)",
+  "valeur_max": 6900,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
   "mecaniques": [
    "Tirage au sort"
   ],
-  "principe": "Laissez vos coordonnées",
+  "principe": "Laissez vos coordonnées + 5 questions personnelles",
   "reponses": [],
   "conditions": "Le concours est ouvert à toute personne résidant en France",
   "departement": "",
   "frequence": "",
   "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=379163",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-meribel.net.html",
-  "lien": "https://www.reflexemedia.com/diff.php?c=1632",
-  "id": "a88d99f4b1"
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381882",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-rossignol.com.html",
+  "lien": "https://jeuclubmed.rossignol.com/fr/?utm_source=agence-reflexemedia",
+  "id": "2f21b602f9"
  },
  {
   "source": "ledemondujeu.com",
@@ -142,7 +142,7 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=381334",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-lespetitsculottes.com.html",
-  "lien": "https://www.instagram.com/les.petits.culottes/p/DfRx0jfiIwK/",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lespetitsculottes.com.html",
   "id": "979bda3382"
  },
  {
@@ -164,7 +164,7 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=381513",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-mnphotovideo.com.html",
-  "lien": "https://www.instagram.com/mn.photovideo/p/DfPlE60o5IC/",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-mnphotovideo.com.html",
   "id": "21f65aed17"
  },
  {
@@ -305,24 +305,46 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "century21-kadima.fr",
-  "lot": "1 remboursement de votre taxe foncière dans la limite de 1500€",
+  "organisateur": "lespetitsculottes.com",
+  "lot": "1 meule de Comté (1500€)",
   "valeur_max": 1500,
-  "fin": "2026-12-20",
-  "ajoute": "2026-10-06",
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France, Belgique, Suisse, Luxembourg",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381828",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lespetitsculottes.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lespetitsculottes.com.html",
+  "id": "ce4d1f6bc7"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "bfmtv.com",
+  "lot": "1 séjour d'une nuit à Strasbourg pour 2 personnes avec des invitations pour le spectacle \"Celeste Experience\" jusqu'au 07 février (transport en train inclus, 1500€)",
+  "valeur_max": 1500,
+  "fin": "2026-11-30",
+  "ajoute": "2026-11-10",
   "mecaniques": [
    "Tirage au sort"
   ],
   "principe": "Laissez vos coordonnées",
   "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France et redevable de la taxe foncière 2026 pour un bien situé en Gironde",
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
   "departement": "",
   "frequence": "",
   "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=378680",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-century21-kadima.fr.html",
-  "lien": "https://century21-kadima.fr/jeu-concours-taxe-fonciere/?utm_source=agence-reflexemedia",
-  "id": "2cd5bd8163"
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381831",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-bfmtv.com.html",
+  "lien": "https://www.bfmtv.com/evenements/partenariats/celeste-experience-a-strasbourg-bfmtv-vous-fait-gagner-un-week-end-magique_AN-202611030511.html?utm_source=agence-reflexemedia",
+  "id": "ea732736c2"
  },
  {
   "source": "ledemondujeu.com",
@@ -398,7 +420,7 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=381517",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-organicabeauty.fr.html",
-  "lien": "https://www.instagram.com/organicabeautyfrance/p/DfRfHmEDMf9/",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-organicabeauty.fr.html",
   "id": "69c85085bd"
  },
  {
@@ -425,7 +447,7 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=380150",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-sonovente.com.html",
-  "lien": "https://www.instagram.com/sonovente/p/Dev0ovKDTCX/",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-sonovente.com.html",
   "id": "a4247b3cca"
  },
  {
@@ -506,7 +528,7 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=381198",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-avigstudio.agency.html",
-  "lien": "https://www.instagram.com/avigstudio.agency/p/DfKsANEsEfY/",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-avigstudio.agency.html",
   "id": "0ce483622a"
  },
  {
@@ -575,6 +597,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "siligom.fr",
+  "lot": "1 bon d'achat de 1000€ pour un séjour à la montagne",
+  "valeur_max": 1000,
+  "fin": "2026-11-30",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381830",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-siligom.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-siligom.fr.html",
+  "id": "6fe4e6b42a"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "laboratoire-gallia.com",
   "lot": "1 lot d'un an de lait infantile Laboratoire Gallia (1000€)",
   "valeur_max": 1000,
@@ -640,6 +684,50 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "privatesportshop.fr",
+  "lot": "1 doudoune Blackyak Mandu (990€)",
+  "valeur_max": 990,
+  "fin": "2026-11-15",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France, Belgique, Suisse, Luxembourg",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381829",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-privatesportshop.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-privatesportshop.fr.html",
+  "id": "a8263f3967"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "restaurantledulis.com",
+  "lot": "1 séjour d'une nuit pour 6 personnes en gîte à Saint-Quentin-sur-le-Homme [Manche] avec un menu gastronomique du Chef à domicile Jonathan Datin (970€)",
+  "valeur_max": 970,
+  "fin": "2026-11-30",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381783",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-restaurantledulis.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-restaurantledulis.com.html",
+  "id": "556614e335"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "lephotographe_demetz",
   "lot": "1 iPhone 17 (969€) 1 caméra Insta360 GO 3S (329€)",
   "valeur_max": 969,
@@ -657,7 +745,7 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=380012",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-lephotographe_demetz.html",
-  "lien": "https://www.instagram.com/lephotographe_demetz/p/DejQgoFuZJ8/",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lephotographe_demetz.html",
   "id": "1c466b861c"
  },
  {
@@ -721,7 +809,7 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=381680",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-oden.fr.html",
-  "lien": "https://www.instagram.com/oden_fr/p/DfZBRG0iBQK/",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-oden.fr.html",
   "id": "f28f64e1f6"
  },
  {
@@ -766,30 +854,8 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=381640",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-marieclaire.fr.html",
-  "lien": "https://www.instagram.com/marieclairemaison/p/DfU1A8UDJSH/",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-marieclaire.fr.html",
   "id": "ac9142d9d8"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "michelin.fr",
-  "lot": "1 coffret Azur \"Relais & Châteaux\" (780€)",
-  "valeur_max": 780,
-  "fin": "2026-11-09",
-  "ajoute": "2026-10-31",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381072",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-michelin.fr.html",
-  "lien": "https://www.instagram.com/michelinfrance/p/DfB32nrAVui/",
-  "id": "008081aa2e"
  },
  {
   "source": "ledemondujeu.com",
@@ -887,6 +953,40 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "francetelevisions.fr",
+  "lot": "1 console Sony PS5 (650€)",
+  "valeur_max": 650,
+  "fin": "2026-11-28",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous + 3 questions",
+  "reponses": [
+   {
+    "n": 1,
+    "r": "En Écosse"
+   },
+   {
+    "n": 2,
+    "r": "La société consumériste"
+   },
+   {
+    "n": 3,
+    "r": "Fadily Camara"
+   }
+  ],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381827",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-francetelevisions.fr.html",
+  "lien": "https://www.francetelevisions.fr/et-vous/mon-offre-fidelite/autres-operations-fidelite/gta-le-jeu-no-limit-61567?utm_source=agence-reflexemedia",
+  "id": "9263b0ddfb"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "vannes.bretagne.sud",
   "lot": "1 console PS5 (649€)",
   "valeur_max": 649,
@@ -964,6 +1064,27 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "confort-sauter.com",
+  "lot": "1 radiateur Malao auto connecté (529€)",
+  "valeur_max": 529,
+  "fin": "2026-11-14",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées + Jeu permettant de participer au tirage au sort (score sans importance)",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381945",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-confort-sauter.com.html",
+  "lien": "https://kimple.co/website/jeu-instants-sauter-2026?utm_source=agence-reflexemedia",
+  "id": "952c70b299"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "petitfute.com",
   "lot": "1 séjour de 2 jours pour 2 adultes et 2 enfants au parc du Futuroscope (520€)",
   "valeur_max": 520,
@@ -986,6 +1107,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "cosmopolitan.fr",
+  "lot": "2 lots comportant 1 calendrier de l'Avent beauté multi-marques Premium + 1 calendrier de l'Avent Marionnaud (502€)",
+  "valeur_max": 502,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381781",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-cosmopolitan.fr.html",
+  "lien": "https://www.instagram.com/cosmopolitan_fr/p/DfZgNTuoMHy/",
+  "id": "5bea32e74f"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "veepee.fr",
   "lot": "1 bon d'achat Veepee de 500€",
   "valeur_max": 500,
@@ -1005,6 +1148,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-veepee.fr.html",
   "lien": "https://www.instagram.com/veepee_fr/p/DfXa5wmgAEv/",
   "id": "c604ac0e7b"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "prescriptionlabFR",
+  "lot": "1 calendrier de l'Avent beauté Prescription Lab (500€)",
+  "valeur_max": 500,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381856",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-prescriptionlabFR.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-prescriptionlabFR.html",
+  "id": "da5cd750d2"
  },
  {
   "source": "ledemondujeu.com",
@@ -1307,28 +1472,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "beka-cookware.com",
-  "lot": "1 lot comportant 2 faitouts + 2 casseroles Sensa (368€)",
-  "valeur_max": 368,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381639",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-beka-cookware.com.html",
-  "lien": "https://www.instagram.com/beka_cookware_fr/p/DfU722HjZ_D/",
-  "id": "18f8a4a3ca"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "pourdebon.com",
   "lot": "1 lot comportant 1 séjour d'une nuit pour 2 personnes dans le réseau Bienvenue à la ferme + 1 bon d'achat Pourdebon de 150€ (350€)",
   "valeur_max": 350,
@@ -1369,6 +1512,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-lecomptoirdemathilde.com.html",
   "lien": "https://jeuconcours.lecomptoirdemathilde.com/?utm_source=agence-reflexemedia",
   "id": "8997306d4d"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "rebyte.fr",
+  "lot": "1 PC portable Lenovo ThinkPad L13 reconditionné (310€)",
+  "valeur_max": 310,
+  "fin": "2026-12-25",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381791",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-rebyte.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-rebyte.fr.html",
+  "id": "919cff2195"
  },
  {
   "source": "ledemondujeu.com",
@@ -1435,28 +1600,6 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-beauteprivee.fr.html",
   "lien": "https://www.instagram.com/beauteprivee/reel/DfXg53CInKB/",
   "id": "36ff215a4a"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "fontainebleau-tourisme.com",
-  "lot": "8 séjours d'une nuit pour 2 personnes à Fontainebleau (176 à 250€) 1 balade à cheval en forêt de Fontainebleau (140€) 1 lot de 2 entrées au spa de l'hôtel Napoléon 1 tapis beige du Grand Parquet (60€) 2 initiations à l'escalade (35€) 3 casquettes du Grand Parquet (20€) 2 invitations adultes pour une",
-  "valeur_max": 250,
-  "fin": "2026-11-12",
-  "ajoute": "2026-11-02",
-  "mecaniques": [
-   "Instants Gagnants",
-   "Fréquence quotidienne"
-  ],
-  "principe": "Laissez vos coordonnées + Instants Gagnants. Vous pouvez jouer tous les jours.",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
-  "departement": "",
-  "frequence": "tous les jours",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381126",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-fontainebleau-tourisme.com.html",
-  "lien": "https://www.fontainebleau-tourisme.com/fr/sortir-bouger/en-ce-moment/grand-jeu-concours-destination-voyage-2026/?utm_source=agence-reflexemedia",
-  "id": "8b1bda3931"
  },
  {
   "source": "ledemondujeu.com",
@@ -1722,27 +1865,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "auvergne-livradois-forez.com",
-  "lot": "1 séjour d'une nuit pour 2 personnes en tente glamping au Domaine de Marchal à Celles-sur-Durolle [Puy-de-Dôme] avec dîner, petit-déjeuner et panier pique-nique (198€)",
-  "valeur_max": 198,
-  "fin": "2026-12-31",
-  "ajoute": "2026-06-01",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=369359",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-auvergne-livradois-forez.com.html",
-  "lien": "https://www.auvergne-livradois-forez.com/je-suis-sur-place/pratique/jeu-concours/?utm_source=agence-reflexemedia.com",
-  "id": "442e6ce58d"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "lancome.fr",
   "lot": "1 calendrier de l'Avent beauté Lancôme (195€)",
   "valeur_max": 195,
@@ -1782,28 +1904,6 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-gloirealaloire.fr.html",
   "lien": "https://gloirealaloire.fr/?utm_source=agence-reflexemedia",
   "id": "0ee5f66db6"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "milwaukeefrance.com",
-  "lot": "1 calendrier de l'Avent outils Milwaukee (190€)",
-  "valeur_max": 190,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381413",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-milwaukeefrance.com.html",
-  "lien": "https://www.instagram.com/milwaukeefrance/reel/DfP9PT5CPt4/",
-  "id": "76af3df478"
  },
  {
   "source": "ledemondujeu.com",
@@ -1870,6 +1970,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "mika_run_trek",
+  "lot": "1 pistolet de massage RYMA (169€)",
+  "valeur_max": 169,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-09",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381687",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-mika_run_trek.html",
+  "lien": "https://www.instagram.com/mika_run_trek/p/DfVRj4piOuL/",
+  "id": "e7477bf788"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "20minutes.fr",
   "lot": "1 calendrier de l'Avent beauté Sephora (169€)",
   "valeur_max": 169,
@@ -1910,6 +2032,27 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-enjoyfamily.fr.html",
   "lien": "https://www.enjoyfamily.fr/jeux-concours-marques/jeu-concours-tonies/?utm_source=agence-reflexemedia.com",
   "id": "010ba6764f"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "payot.com",
+  "lot": "1 lot comportant 1 calendrier de l'Avent beauté Payot + 1 calendrier de l'Avent gourmand Edwart (164€)",
+  "valeur_max": 164,
+  "fin": "2026-11-13",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées + 2 questions personnelles &#x26A0;&#xFE0F; Inscription à 2 newsletters obligatoire.",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381946",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-payot.com.html",
+  "lien": "https://www.payot.com/pages/payot-x-edwart?utm_source=agence-reflexemedia&utm_medium=campaign&utm_campaign=FR+-+09.11+-+Payot+x+Edwart&_kx=7jgVbHu_ZDNKTRSgTv5CX-sbTVqz48jPc5xdLL0Vl_k.R96Qyx",
+  "id": "94046673c1"
  },
  {
   "source": "ledemondujeu.com",
@@ -2021,6 +2164,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "lescotonsderomane",
+  "lot": "1 lot de 2 bons d'achat GreenGo (voyages) et Les Cotons de Romane (linge de maison) de 150€ chacun",
+  "valeur_max": 150,
+  "fin": "2026-11-14",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381925",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lescotonsderomane.html",
+  "lien": "https://www.instagram.com/lescotonsderomane/p/DffODOIircs/",
+  "id": "7744e7f263"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "veepee.fr",
   "lot": "5 bons d'achat Veepee de 150€",
   "valeur_max": 150,
@@ -2064,6 +2229,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "dorianebijoux",
+  "lot": "1 lot de 2 bons d'achat Doriane Bijoux (bijoux) et Morphée (sommeil) de 150€ chacun",
+  "valeur_max": 150,
+  "fin": "2026-11-15",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381847",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-dorianebijoux.html",
+  "lien": "https://www.instagram.com/dorianebijoux/p/DfeYoLzgPle/",
+  "id": "aa54cc46fa"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "lacotedorjadore.com",
   "lot": "1 séjour pour 2 personnes dans un hébergement atypique de Côte-d'Or (150€)",
   "valeur_max": 150,
@@ -2082,6 +2269,27 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-lacotedorjadore.com.html",
   "lien": "https://www.lacotedorjadore.com/reglement-grand-jeu-2026/?utm_source=agence-reflexemedia",
   "id": "cfd8fcd5a9"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "hom.com",
+  "lot": "5 bons d'achat Hom de 150€ (sous-vêtements pour homme)",
+  "valeur_max": 150,
+  "fin": "2026-11-22",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381937",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-hom.com.html",
+  "lien": "https://www.hom.com/fr/pages/jeu-concours?utm_source=agence-reflexemedia",
+  "id": "de9931686a"
  },
  {
   "source": "ledemondujeu.com",
@@ -2126,50 +2334,6 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-nicolas-feuillatte.com.html",
   "lien": "https://nicolas-feuillatte.com/pages/nicolas-feuillatte-50-ans-dhistoires-partagees?utm_source=agence-reflexemedia.com",
   "id": "d3449e2ad5"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "petitfute.com",
-  "lot": "1 calendrier de l'Avent Caviar de Neuvic (149€)",
-  "valeur_max": 149,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381676",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-petitfute.com.html",
-  "lien": "https://www.instagram.com/petitfutebordeauxgironde/p/DfU8ZDrjbl1/",
-  "id": "b456ecf992"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "janette.lu",
-  "lot": "1 miroir de comptoir LED (146€)",
-  "valeur_max": 146,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381589",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-janette.lu.html",
-  "lien": "https://www.instagram.com/janette_magazine/p/DfT_siLgJwF/",
-  "id": "fccd018f09"
  },
  {
   "source": "ledemondujeu.com",
@@ -2237,11 +2401,11 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "cewe-photo.fr",
-  "lot": "1 lot comportant 1 kit banane + 1 coussin musical Mellipou + 1 bon d'achat Cewe de 110€",
-  "valeur_max": 110,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
+  "organisateur": "voltex.fr",
+  "lot": "1 lampe Facet corten sans fil (129€)",
+  "valeur_max": 129,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-10",
   "mecaniques": [
    "Tirage au sort",
    "Instagram"
@@ -2252,10 +2416,10 @@
   "departement": "",
   "frequence": "",
   "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381418",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-cewe-photo.fr.html",
-  "lien": "https://www.instagram.com/cewe_france/p/DfPy5I9FwMc/",
-  "id": "84024a0a5f"
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381861",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-voltex.fr.html",
+  "lien": "https://www.instagram.com/voltex.fr/p/DffHqEaNKcu/",
+  "id": "da62159fc2"
  },
  {
   "source": "ledemondujeu.com",
@@ -2314,28 +2478,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "lafrancaise-mailles.fr",
-  "lot": "1 lot comportant 1 séjour d'une nuit pour 2 personnes à l'hôtel Toujours à Paris + 1 bon d'achat La Française Maille de 100€",
-  "valeur_max": 100,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381524",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-lafrancaise-mailles.fr.html",
-  "lien": "https://www.instagram.com/lafrancaise_mailles/p/DfUFhLEDEFz/",
-  "id": "158fd230c4"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "falbala-chaussures.fr",
   "lot": "5 bons d'achat Falbala de 100€ (mode)",
   "valeur_max": 100,
@@ -2379,6 +2521,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "lespetitespousses-bio.com",
+  "lot": "1 lot comportant 6 desserts végétaux Les Petites Pousses + 1 bon d'achat Flexilivre de 100€",
+  "valeur_max": 100,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-07",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381421",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lespetitespousses-bio.com.html",
+  "lien": "https://www.instagram.com/lespetitespousses/p/DfPqL63NdTR/",
+  "id": "bbab7f0d63"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "may.app",
   "lot": "1 lot comportant 1 bon d'achat Aubert de 100€ (puériculture) + 1 bon d'achat Love & Green de 100€ (produits d'hygiène) + 1 abonnement premium à l'application May pendant 1 an",
   "valeur_max": 100,
@@ -2401,6 +2565,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "acanthe-paris",
+  "lot": "1 lot de 2 bons d'achat Acanthe (mode) et Bachca (accessoires de beauté) de 100€ chacun",
+  "valeur_max": 100,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381890",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-acanthe-paris.html",
+  "lien": "https://www.instagram.com/acanthe_paris/p/DfZ_LEciOdJ/",
+  "id": "f421167de0"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "guerande-cosmetiques.fr",
   "lot": "1 lot de 2 bons d'achat Guérande Cosmétiques et Inny de 100€ chacun (cosmétiques et mode)",
   "valeur_max": 100,
@@ -2420,6 +2606,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-guerande-cosmetiques.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-guerande-cosmetiques.fr.html",
   "id": "00bc466075"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "snowleader.com",
+  "lot": "1 bon de réparation d’équipements outdoor Goodloop de 100€",
+  "valeur_max": 100,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381767",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-snowleader.com.html",
+  "lien": "https://www.instagram.com/snowleader74/p/DfXam10iKJD/",
+  "id": "caea8a41bb"
  },
  {
   "source": "ledemondujeu.com",
@@ -2552,28 +2760,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "daniabijoux.fr",
-  "lot": "3 bons d'achat Dania Bijoux de 100€ valables à Dijon [Côte-d'or]",
-  "valeur_max": 100,
-  "fin": "2026-12-23",
-  "ajoute": "2026-11-04",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381283",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-daniabijoux.fr.html",
-  "lien": "https://www.instagram.com/daniabijoux_dijon/p/DfKFupaNYSY/",
-  "id": "e10e177379"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "enjoyfamily.fr",
   "lot": "1 fauteuil pour enfants S'Teddy Renolux (99€)",
   "valeur_max": 99,
@@ -2590,7 +2776,7 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=381694",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-enjoyfamily.fr.html",
-  "lien": "https://www.enjoyfamily.fr/jeux-concours-marques/jeu-concours-renolux/?utm_source=agence-reflexemedia",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-enjoyfamily.fr.html",
   "id": "ee3996dabc"
  },
  {
@@ -2611,16 +2797,16 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=362334",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-labeyrie.com.html",
-  "lien": "https://www.80ans.labeyrie.com/?utm_source=agence-reflexemedia.com",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-labeyrie.com.html",
   "id": "5fdd857437"
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "dpam.com",
-  "lot": "1 lot de 2 bons d'achat DPAM et Lilliputiens de 80€ chacun (mode enfant et jouets)",
+  "organisateur": "kercadelac.fr",
+  "lot": "1 lot comportant 1 bon d'achat Easy Peasy de 80€ + 1 assortiment de gourmandises Ker Cadélac",
   "valeur_max": 80,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
   "mecaniques": [
    "Tirage au sort",
    "Instagram"
@@ -2631,75 +2817,10 @@
   "departement": "",
   "frequence": "",
   "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381627",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-dpam.com.html",
-  "lien": "https://www.instagram.com/dpam_officiel/p/DfRjXqpCB7D/",
-  "id": "fb6c5a1eac"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "meora-paris.com",
-  "lot": "1 lot de 2 bons d'achat Meora et Fericelli de 80€ chacun",
-  "valeur_max": 80,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381417",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-meora-paris.com.html",
-  "lien": "https://www.instagram.com/meora.paris/p/DfPdqrtsqDZ/",
-  "id": "db1ca3e52b"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "tictac.com",
-  "lot": "100 sacs à dos avec 1 boîte Tic Tac (80€) 100 sacs polochon avec 1 boîte Tic Tac (67€) 100 sacs banane avec 1 boîte Tic Tac (41€) 100 pochettes de téléphone avec 1 boîte Tic Tac (34€)",
-  "valeur_max": 80,
-  "fin": "2026-11-09",
-  "ajoute": "2026-10-14",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées + votez pour votre saveur de Tic Tac préférée",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=379549",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-tictac.com.html",
-  "lien": "https://www.tictac.com/fr/fr/xp/choisistonmatch/?utm_source=agence-reflexemedia",
-  "id": "5879b313cc"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "enviedefraise.fr",
-  "lot": "1 bon d'achat Envie de Fraise de 80€ (mode maternité)",
-  "valeur_max": 80,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381411",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-enviedefraise.fr.html",
-  "lien": "https://www.instagram.com/enviedefraise/reel/DfRuf17Dc-J/",
-  "id": "c85a3c9e41"
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381807",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-kercadelac.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-kercadelac.fr.html",
+  "id": "954ed05d61"
  },
  {
   "source": "ledemondujeu.com",
@@ -2719,7 +2840,7 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=381487",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-blissim.fr.html",
-  "lien": "https://communaute.blissim.fr/app/752/channel/concours-2412/details/37723?utm_source=agence-reflexemedia",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-blissim.fr.html",
   "id": "806383060e"
  },
  {
@@ -2740,51 +2861,8 @@
   "obligation_achat": false,
   "redirect": "https://www.ledemondujeu.com/toconc.php?c=381531",
   "fiche": "https://www.ledemondujeu.com/jeux-concours-planet-cards.com.html",
-  "lien": "https://www.planet-cards.com/pages/jeu-concours-pro-nutrition-x-planet-cards?utm_source=agence-reflexemedia",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-planet-cards.com.html",
   "id": "59b4e7a4fa"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "bourjois.fr",
-  "lot": "10 invitations pour participer le 17 novembre à une expérience immersive Bourjois dans un lieu privé à Paris (71€)",
-  "valeur_max": 71,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées + 1 question personnelle",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381361",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-bourjois.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-bourjois.fr.html",
-  "id": "f30b98aeb1"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "chocolats-pralus.com",
-  "lot": "2 calendriers de l'Avent gourmands (69€)",
-  "valeur_max": 69,
-  "fin": "2026-11-09",
-  "ajoute": "2026-10-30",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380865",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-chocolats-pralus.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-chocolats-pralus.com.html",
-  "id": "031b43af08"
  },
  {
   "source": "ledemondujeu.com",
@@ -2900,6 +2978,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "groupecdm.fr",
+  "lot": "1 coffret de décorations de Noël (60€)",
+  "valeur_max": 60,
+  "fin": "2026-11-30",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381824",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-groupecdm.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-groupecdm.fr.html",
+  "id": "433d8e148b"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "ferrerorocher.com",
   "lot": "100 pyramides Ferrero Rocher (60€) 100 lots de 4 flûtes à champagne (40€)",
   "valeur_max": 60,
@@ -2991,6 +3091,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "juste.elles.35",
+  "lot": "1 bon d'achat Juste Elles de 50€ (mode)",
+  "valeur_max": 50,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381865",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-juste.elles.35.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-juste.elles.35.html",
+  "id": "b3d71bf70a"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "tessuti.fr",
   "lot": "1 lot comportant 1 bon d'achat Tessuti de 50€ (tissus) + 1 patron de pantalon + 1 patron de body",
   "valeur_max": 50,
@@ -3013,6 +3135,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "maxizoo.fr",
+  "lot": "1 fontaine à eau pour sans fil chien/chat Cool Blue 1 fontaine à eau filaire pour chien/chat Cassis 2 bons d'achat Maxi Zoo de 50€",
+  "valeur_max": 50,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381785",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-maxizoo.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-maxizoo.fr.html",
+  "id": "260da37834"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "enjoyfamily.fr",
   "lot": "1 vanity \"Les Essentiels Pédiatriques Gilbert\" (50€)",
   "valeur_max": 50,
@@ -3031,6 +3175,27 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-enjoyfamily.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-enjoyfamily.fr.html",
   "id": "442bc61406"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "ici.fr",
+  "lot": "1 bon d'achat Illicado de 50€ à retirer à Strasbourg",
+  "valeur_max": 50,
+  "fin": "2026-11-14",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381923",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-ici.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-ici.fr.html",
+  "id": "bb85591263"
  },
  {
   "source": "ledemondujeu.com",
@@ -3097,6 +3262,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-laboitedejeu.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-laboitedejeu.fr.html",
   "id": "9fc7f23ec1"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "caluire.aushopping.com",
+  "lot": "1 bon d'achat Sergent Major de 40€ (mode enfant) à retirer à Caluire-et-Cuire [Rhône]",
+  "valeur_max": 40,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381808",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-caluire.aushopping.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-caluire.aushopping.com.html",
+  "id": "d5f8ce981f"
  },
  {
   "source": "ledemondujeu.com",
@@ -3228,28 +3415,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "aubert.com",
-  "lot": "1 lot comportant 10 poubelles à couches Twist & Click + 1 cassette de recharge Tommee Tippee (24€)",
-  "valeur_max": 24,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381677",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-aubert.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-aubert.com.html",
-  "id": "f5b2adc840"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "radiofrance.fr",
   "lot": "10 doubles vinyles \"Fip Cultes\" (23€)",
   "valeur_max": 23,
@@ -3268,6 +3433,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-radiofrance.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-radiofrance.fr.html",
   "id": "f38d283488"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "epices-fuchs.fr",
+  "lot": "1 coffret d'épices (22€)",
+  "valeur_max": 22,
+  "fin": "2026-11-17",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381821",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-epices-fuchs.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-epices-fuchs.fr.html",
+  "id": "eb0d59eeb6"
  },
  {
   "source": "ledemondujeu.com",
@@ -3471,1478 +3658,6 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-labelleadresse.com.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-labelleadresse.com.html",
   "id": "0dae056cce"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "kyriad.com",
-  "lot": "3 lots comportant 1 séjour d'une nuit pour 2 personnes au Kyriad Prestige d' Asnières [Hauts-de-Seine] + 2 invitations pour le match de rugby \"France / Argentine\" le 21 novembre au Stade de France",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-02",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380975",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-kyriad.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-kyriad.com.html",
-  "id": "f19d39990d"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "diverto.tv",
-  "lot": "1 paire d'écouteurs Apple AirPods 4",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-10-19",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=379786",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-diverto.tv.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-diverto.tv.html",
-  "id": "449093ce26"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "lemediagaming.fr",
-  "lot": "1 console de jeux PS5",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-10-13",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France, Belgique, Suisse, Luxembourg",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=379288",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-lemediagaming.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-lemediagaming.fr.html",
-  "id": "25797aeb1f"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "micromania.fr",
-  "lot": "1 jeu vidéo Switch ou PS5 \"K-Pop Rising\"",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Twitter"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381579",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-micromania.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-micromania.fr.html",
-  "id": "f06f22e2ae"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "laperruche.fr",
-  "lot": "1 lot comportant 1 poêle La Fabuleuse Cookut + des produits La Perruche",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-04",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381344",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-laperruche.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-laperruche.fr.html",
-  "id": "4cafc91ce7"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "tramier.fr",
-  "lot": "1 lot comportant 1 bouteille d'huile + 1 poêle sauteuse Beka Cookware",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-04",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381224",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-tramier.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-tramier.fr.html",
-  "id": "e39f041df8"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "cyrillus.com",
-  "lot": "1 tapis pour la chambre d'un enfant",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381415",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-cyrillus.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-cyrillus.com.html",
-  "id": "33c72e6ed1"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "bricocash.fr",
-  "lot": "1 débroussailleuse PowerPlus",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Instants Gagnants"
-  ],
-  "principe": "Laissez vos coordonnées + Instants Gagnants. Vous ne pouvez jouer qu'une seule fois.",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381635",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-bricocash.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-bricocash.fr.html",
-  "id": "758159eda8"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "biofloral.fr",
-  "lot": "1 lot de produits beauté et gourmands Biofloral et Greendoz",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381578",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-biofloral.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-biofloral.fr.html",
-  "id": "72abe0526d"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "blueorangegames.eu",
-  "lot": "2 lots de jeux de société",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-02",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France, Belgique, Suisse",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380787",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-blueorangegames.eu.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-blueorangegames.eu.html",
-  "id": "7ad8d01578"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "sportmedtv",
-  "lot": "1 maillot de de foot l'OM",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381734",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-sportmedtv.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-sportmedtv.html",
-  "id": "c31d8fe4b5"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "pilotpen.fr",
-  "lot": "1 lot comportant 1 carnet + 1 cahier d'exercices + des stylos Pilot + 1 trousse + des surprises",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-02",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380964",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-pilotpen.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-pilotpen.fr.html",
-  "id": "520475333e"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "panini.fr",
-  "lot": "1 lot comportant 1 figurine Funko Pop! \"Demon Hunters surprise\" + 1 magazine",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381444",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-panini.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-panini.fr.html",
-  "id": "3126156b40"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "agrilait.fr",
-  "lot": "1 colis gourmand",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-03",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381048",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-agrilait.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-agrilait.fr.html",
-  "id": "93f53c51d2"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "saintelucie1885.fr",
-  "lot": "1 lot de produits alimentaires Sainte Lucie",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381446",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-saintelucie1885.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-saintelucie1885.fr.html",
-  "id": "eaa5862f29"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "happybiscuits",
-  "lot": "1 calendrier de l'Avent gourmand Happy Biscuits",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381733",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-happybiscuits.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-happybiscuits.html",
-  "id": "de76264f09"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "papillonmyosoti",
-  "lot": "1 calendrier de l'avent saucissons",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Twitter"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381580",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-papillonmyosoti.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-papillonmyosoti.html",
-  "id": "c29e427fd7"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "reaute-chocolat.com",
-  "lot": "2 calendriers de l’Avent gourmands",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381393",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-reaute-chocolat.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-reaute-chocolat.com.html",
-  "id": "83cd1e7ca9"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "latribu.fr",
-  "lot": "1 calendrier de l'Avent créatif Legami",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-10-29",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380661",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-latribu.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-latribu.fr.html",
-  "id": "da8b928567"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "chezlapaulette.com",
-  "lot": "2 lots comportant 1 coffret de thés et infusions Pagès + 2 mugs + 1 kit de produits d'entretien Paulette",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381378",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-chezlapaulette.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-chezlapaulette.com.html",
-  "id": "62f077f83b"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "puressentiel.com",
-  "lot": "1 lot comportant 1 maillot du XV de France dédicacé + 1 ballon de rugby",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381583",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-puressentiel.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-puressentiel.com.html",
-  "id": "4efef77b9b"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "biscuitssucredart.com",
-  "lot": "1 lot comportant 4 emporte-pièces + 1 recette + 1 sachet d'épices + 1 boîte décorative",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381732",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-biscuitssucredart.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-biscuitssucredart.com.html",
-  "id": "f07c675577"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "dvdfr.com",
-  "lot": "2 livres \"Vidéo vidéos 50 ans de cinéma en vidéo (1976-2026)\"",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées + 1 question",
-  "reponses": [
-   {
-    "n": 1,
-    "r": "500"
-   }
-  ],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381480",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-dvdfr.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-dvdfr.com.html",
-  "id": "e3fb127c16"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "editions.flammarion.com",
-  "lot": "Des livres au choix de la collection \"Les Fameux Classiques\"",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées + 2 questions",
-  "reponses": [
-   {
-    "n": 1,
-    "r": "Pour avoir volé du pain"
-   },
-   {
-    "n": 2,
-    "r": "Cinq"
-   }
-  ],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381784",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-editions.flammarion.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-editions.flammarion.com.html",
-  "id": "1349ca9485"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "quellehistoire.com",
-  "lot": "3 lots de 2 BD signés par Lorànt Deutsch",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381715",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-quellehistoire.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-quellehistoire.com.html",
-  "id": "f8a65bac34"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "pocket.fr",
-  "lot": "1 lot de 2romans de Harlan Coben",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381414",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-pocket.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-pocket.fr.html",
-  "id": "a1b982e25a"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "terres_amerique",
-  "lot": "1 lot de 3 livres",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381587",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-terres_amerique.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-terres_amerique.html",
-  "id": "54018bf589"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "belin-editeur.com",
-  "lot": "1 lot de 2 livres de la collection \"Mondes Anciens\"",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381714",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-belin-editeur.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-belin-editeur.com.html",
-  "id": "d705a99118"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "saveurs-magazine.fr",
-  "lot": "3 lots comportant 1 livre de recettes \"Saveurs\" + 1 abonnement au magazine \"Saveurs\" + 1 abonnement à l'application",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381345",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-saveurs-magazine.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-saveurs-magazine.fr.html",
-  "id": "8200c6fee4"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "fleuve-editions.fr",
-  "lot": "1 lot comportant 1 roman \"Te retrouver en automne – T’aimer à Noël\" de Carène Ponte + 1 marque-page aimanté",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381586",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-fleuve-editions.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-fleuve-editions.fr.html",
-  "id": "e36e1dd5ac"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "rampal-latour.fr",
-  "lot": "1 coffret de 4 savons",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381797",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-rampal-latour.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-rampal-latour.fr.html",
-  "id": "da85668407"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "cattier-paris.com",
-  "lot": "1 lot de 4 produits de soins Cattier + 2 accessoires",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-02",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380965",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-cattier-paris.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-cattier-paris.com.html",
-  "id": "9d4efff652"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "easypara.fr",
-  "lot": "1 lot de 3 produits de soins Neostrata",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Inscrivez-vous + 3 questions",
-  "reponses": [
-   {
-    "n": 1,
-    "r": "l'hydratation et le soin"
-   },
-   {
-    "n": 2,
-    "r": "l'acide glycolique"
-   },
-   {
-    "n": 3,
-    "r": "aider à lisser le grain de la peau"
-   }
-  ],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381525",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-easypara.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-easypara.fr.html",
-  "id": "6d1889b564"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "atida.fr",
-  "lot": "2 lots de produits de soins Krème",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381416",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-atida.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-atida.fr.html",
-  "id": "122e23d498"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "athenashop.fr",
-  "lot": "6 culottes menstruelles",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381300",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-athenashop.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-athenashop.fr.html",
-  "id": "09613fbd7e"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "athenashop.fr",
-  "lot": "6 lots de slips Training Dry",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381301",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-athenashop.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-athenashop.fr.html",
-  "id": "8867df4975"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "bfmtv.com",
-  "lot": "5 lots de 2 invitations pour la tournée des \"Harlem Globettroters\" en France (show de basket)",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381568",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-bfmtv.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-bfmtv.com.html",
-  "id": "92731b40a1"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "jaimeradio.fr",
-  "lot": "Des invitations pour le concert \"Chicago Blues Festival\" le 20 novembre à Quéven [Morbihan]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-03",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381116",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "id": "1ca4c5ad16"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "jaimeradio.fr",
-  "lot": "Des invitations pour \"Festi-Récré\" les 21 et 22 novembre à Pont-Scorff [Morbihan]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-03",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381117",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "id": "56f7ecbe79"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "frequence-sud.fr",
-  "lot": "3 lots de 2 invitations pour le spectacle \"Tutu\" le 19 novembre à Marseille",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-09-10",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Inscrivez-vous + 1 question + 1 question subsidiaire",
-  "reponses": [
-   {
-    "n": 1,
-    "r": "20 Estimation> entre 200 et 500 participants"
-   }
-  ],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=376434",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-frequence-sud.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-frequence-sud.fr.html",
-  "id": "5ebe923a0b"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "centre-valdeloire.fr",
-  "lot": "1 lot de 2 entrées pour le Salon \"Mariage & Célébrations\" du 14 au 15 novembre à Orléans [Loiret]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381478",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "id": "1804d737b4"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "frequence-sud.fr",
-  "lot": "3 lots de 2 invitations pour le concert de Elephanz le 18 novembre à Aix-en-Provence [Bouches-du-Rhône]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-09-10",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Inscrivez-vous + 1 question + 1 question subsidiaire",
-  "reponses": [
-   {
-    "n": 1,
-    "r": "Nantes Estimation> entre 200 et 500 participants"
-   }
-  ],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=376433",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-frequence-sud.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-frequence-sud.fr.html",
-  "id": "df0758eb1a"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "premiereclasse.com",
-  "lot": "3 lots de 2 invitations pour le match de rugby \"France / Argentine\" le 21 novembre à Saint-Denis",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-03",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381049",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-premiereclasse.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-premiereclasse.com.html",
-  "id": "950877420e"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "panini.fr",
-  "lot": "10 lots de 2 invitations pour le match de foot \"France / Turquie\" le 15 novembre à Bordeaux",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381346",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-panini.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-panini.fr.html",
-  "id": "ae83c14eda"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "centre-valdeloire.fr",
-  "lot": "1 lot de 2 invitations pour le match de handball féminin \"Chambray Touraine / Brest\" le 11 novembre à Chambray-lès-Tours [Indre-et-Loire]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381477",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "id": "7c93ef79dc"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "credit-agricole.fr",
-  "lot": "1 lot de 2 invitations pour le match de basket \"Saint-Étienne / Blois\" le 13 novembre à Saint-Étienne [Loire]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381700",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-credit-agricole.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-credit-agricole.fr.html",
-  "id": "cf6a074d89"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "actu.fr",
-  "lot": "1 repas pour 2 personnes chez Urban Patty à Orléans [Loiret]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381447",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-actu.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-actu.fr.html",
-  "id": "6c5d3b7454"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "jaimeradio.fr",
-  "lot": "Des places de cinéma pour l'avant-première du film \"Gilles United\" le 12 novembre à Lorient [Morbihan]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-03",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381119",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "id": "fda1a9d995"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "jaimedijon.com",
-  "lot": "Des invitations pour le match de basket \"JDA Dijon / Nanterre 92\" le 15 novembre à Dijon [Côte-d'or]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381581",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-jaimedijon.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-jaimedijon.com.html",
-  "id": "b4ff689e2d"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "jaimeradio.fr",
-  "lot": "Des invitations pour la comédie \"Un dernier pour la route\" le 15 novembre à Auray [Morbihan]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-04",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381120",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "id": "3243c42b52"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "jaimeradio.fr",
-  "lot": "Des invitations pour le spectacle \"Slava's Snowshow\" le 19 décembre à Lorient [Morbihan]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-03",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381124",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "id": "85e4a6daab"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "jaimeradio.fr",
-  "lot": "Des invitations pour le spectacle \"Pas si miss que ça\" le 20 novembre à Auray [Morbihan]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-02",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381122",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-jaimeradio.fr.html",
-  "id": "31658232bf"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "rtl.fr",
-  "lot": "2 lots de 2 invitations pour le concert de Vianney le 12 novembre à Paris",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381751",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-rtl.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-rtl.fr.html",
-  "id": "9b2d1f420b"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "bfmtv.com",
-  "lot": "15 entrées pour l'exposition \"House of Banksy – Une expo non autorisée\" à Nantes",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-10-31",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380855",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-bfmtv.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-bfmtv.com.html",
-  "id": "084e27b963"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "cstarlachaine",
-  "lot": "1 lot de 2 invitations pour le concert de Bryan Adams le 03 décembre à Paris",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381412",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-cstarlachaine.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-cstarlachaine.html",
-  "id": "3cbba45f1d"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "centre-valdeloire.fr",
-  "lot": "1 lot de 2 invitations pour le match de handball \"C'Chartres Métropole Handball / Limoges\" le 13 novembre à Chartres [Eure-et-Loir]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381473",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "id": "7c93ef79dc"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "centre-valdeloire.fr",
-  "lot": "1 lot de 2 invitations pour le match de volley-ball \"Tours / Saint-Nazaire\" le 13 novembre à Tours [Indre-et-Loire]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381474",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "id": "7c93ef79dc"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "radiofajet.net",
-  "lot": "1 lot de 2 invitations pour la release party d'Allivm le 14 novembre à Nancy [Meurthe-et-Moselle]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381686",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-radiofajet.net.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-radiofajet.net.html",
-  "id": "f98c629f08"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "centre-valdeloire.fr",
-  "lot": "1 lot de 2 invitations pour le gala de boxe anglaise le 14 novembre à Tours [Indre-et-Loire]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381472",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-centre-valdeloire.fr.html",
-  "id": "5d5edb68fa"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "ici.fr",
-  "lot": "1 lot de 2 invitations pour la pièce \"Panique au ministère 2\" le 13 novembre à Mandeure [Doubs]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381540",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-ici.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-ici.fr.html",
-  "id": "20b0747df3"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "muse-metz.fr",
-  "lot": "3 lots de 2 entrées au parc Europa-Park en Allemagne à retirer à Metz [Moselle]",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-04",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381302",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-muse-metz.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-muse-metz.fr.html",
-  "id": "c52fc3d45d"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "cstar.fr",
-  "lot": "1 lot de 2 invitations pour le concert de Bryan Adams le 03 décembre à Paris",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381392",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-cstar.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-cstar.fr.html",
-  "id": "399b0b75fa"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "dvdfr.com",
-  "lot": "3 DVD du film \"La Baleine et le musicien\"",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées + 1 question",
-  "reponses": [
-   {
-    "n": 1,
-    "r": "La nuit venue"
-   }
-  ],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381481",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-dvdfr.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-dvdfr.com.html",
-  "id": "e16adc3df7"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "aubert.com",
-  "lot": "3 lots de 3 jouets de bain",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381582",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-aubert.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-aubert.com.html",
-  "id": "f4a26a7f26"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "les_petites_frelotes",
-  "lot": "2 produits au choix entre la torche Glowy et le Talky Video",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381588",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-les_petites_frelotes.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-les_petites_frelotes.html",
-  "id": "9efb7be630"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "suavinexfrance",
-  "lot": "1 lot comportant 1 sélection de produits de cosmétique pédiatrique + 1 cape de bain",
-  "valeur_max": 0,
-  "fin": "2026-11-09",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381584",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-suavinexfrance.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-suavinexfrance.html",
-  "id": "775b532dc1"
  },
  {
   "source": "ledemondujeu.com",
@@ -5171,6 +3886,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "reautechocolat.officiel",
+  "lot": "1 lot de 3 boites gourmandes \"Krispi\"",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381863",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-reautechocolat.officiel.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-reautechocolat.officiel.html",
+  "id": "756d9c92c3"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "womensports.fr",
   "lot": "1 gourde avec filtre à charbon en acier inoxydable de LifeStraw",
   "valeur_max": 0,
@@ -5190,6 +3927,204 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-womensports.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-womensports.fr.html",
   "id": "3f7bd7999c"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "unisportstore.fr",
+  "lot": "1 paire de chaussures de foot Adidas \"Nemeziz Messi 17+ FG/AG Cold Blooded\"",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-07",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne âgée de 16 ans minimum et résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381594",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-unisportstore.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-unisportstore.fr.html",
+  "id": "37e11528f7"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "geant-beaux-arts.fr",
+  "lot": "1 calendrier de l’avent artistique Lefranc Bourgeois x Conté à Paris",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-05",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381225",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-geant-beaux-arts.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-geant-beaux-arts.fr.html",
+  "id": "e9cbdc4d51"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "reisenthel.com",
+  "lot": "1 lot comportant 1 sac bandoulière Moonbag + 1 grand cabas souple Softshopper 5 sacs bandoulière Daily Shopper XS",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-10-26",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380314",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-reisenthel.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-reisenthel.com.html",
+  "id": "1fece96eaa"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "libellud.com",
+  "lot": "1 lot comportant 1 jeu de société \"Mysterium\" + 1 roman \"Le Fantôme de l'Opéra\" de Gaston Leroux",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-09",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381716",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-libellud.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-libellud.com.html",
+  "id": "091e4fbd63"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "brasserie-montblanc.com",
+  "lot": "1 lot comportant 2 produits alimentaires Alpina Savoie + 2 verres + 1 décapsuleur",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-10-30",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne majeure résidant en France, Belgique, Suisse, Luxembourg",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380883",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-brasserie-montblanc.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-brasserie-montblanc.com.html",
+  "id": "22e6b3386b"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "merveilles-du-monde.fr",
+  "lot": "3 lots de 4 produits chocolatés",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-07",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381641",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-merveilles-du-monde.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-merveilles-du-monde.fr.html",
+  "id": "e954b4bf09"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "agradi.fr",
+  "lot": "1 complément alimentaire liquide NAF Magic Liquide pour chevaux",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-06",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381384",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-agradi.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-agradi.fr.html",
+  "id": "c64340a7b5"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "lachaiselongue.fr",
+  "lot": "1 lot comportant 1 coffret senteur + 1 mallette de 72 feutres acryliques + des carnets de coloriage Art Thérapie + un assortiment de produits alimentaires KoRo",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-07",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381598",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lachaiselongue.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lachaiselongue.fr.html",
+  "id": "63e467d69e"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "PolliFrance1872",
+  "lot": "1 lot de 3 sauces Polli au choix",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381864",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-PolliFrance1872.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-PolliFrance1872.html",
+  "id": "89bd628a14"
  },
  {
   "source": "ledemondujeu.com",
@@ -5234,6 +4169,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-grundjeunesse.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-grundjeunesse.html",
   "id": "7b7c034e71"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "memoiresport.com",
+  "lot": "1 livre \"Mon chemin vers l'or\" de Jimmy Gressier",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Twitter"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381799",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-memoiresport.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-memoiresport.com.html",
+  "id": "0266f55ce6"
  },
  {
   "source": "ledemondujeu.com",
@@ -5460,6 +4417,383 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "andros.fr",
+  "lot": "3 lots de 2 invitations pour le spectacle de catch \"Final Slam\" le 14 novembre à Paris",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381798",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-andros.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-andros.fr.html",
+  "id": "92a78d3574"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "ici.fr",
+  "lot": "Des invitations pour le spectacle \"Biographies\" le 14 novembre à Grasse [Alpes-Maritimes]",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-06",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381482",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-ici.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-ici.fr.html",
+  "id": "d76196b1f6"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "lillelanuit.com",
+  "lot": "3 lots de 2 invitations pour la projection du film \"Mes Films de Chevet - La Planète sauvage\" le 17 novembre à Lille",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-10-19",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=379718",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lillelanuit.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lillelanuit.com.html",
+  "id": "07a7da7465"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "lillelanuit.com",
+  "lot": "2 lots de 2 invitations pour le concert de The Meltdown le 18 novembre à Lille",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-10-27",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380632",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lillelanuit.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lillelanuit.com.html",
+  "id": "6805959be4"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "zoomsurlille.fr",
+  "lot": "10 lots de 2 places de cinéma pour l'avant-première du film \"Changer l’eau des fleurs\" le 14 novembre à Lille",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381877",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-zoomsurlille.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-zoomsurlille.fr.html",
+  "id": "39fd08cac0"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "CirqueArletteGrussOfficiel",
+  "lot": "2 lots de 2 invitations pour le spectacle du cirque Arlette Gruss le 13 novembre à Amiens [Somme]",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381871",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-CirqueArletteGrussOfficiel.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-CirqueArletteGrussOfficiel.html",
+  "id": "1f8f289322"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "wik-nantes.fr",
+  "lot": "Des invitations pour la pièce de théâtre \"Multitude\" le 15 novembre à Boussay [Loire-Atlantique]",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-06",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381454",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-wik-nantes.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-wik-nantes.fr.html",
+  "id": "bf9aff27a2"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "radiocampusmontpellier",
+  "lot": "Des invitations pour le concert de Pact + Delon le 14 novembre à Nîmes [Gard]",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381886",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-radiocampusmontpellier.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-radiocampusmontpellier.html",
+  "id": "54d42fea4f"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "raje.fr",
+  "lot": "1 lot de 2 invitations pour le spectacle \"Moba Comedy Club #3\" le 13 novembre à Bagnols-sur-Cèze [Gard]",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-10-23",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant à proximité du lieu de l'évenement",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380097",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-raje.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-raje.fr.html",
+  "id": "a354f69670"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "lepopulaire.fr",
+  "lot": "3 lots de 2 invitations pour le concert de Stephan Eicher le 17 novembre à Limoges [Haute-Vienne]",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-05",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous + 1 question.",
+  "reponses": [
+   {
+    "n": 1,
+    "r": "1960"
+   }
+  ],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381159",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lepopulaire.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lepopulaire.fr.html",
+  "id": "51a6c4cdd6"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "imperio.fr",
+  "lot": "1 lot de 2 invitations pour le concert de Calema le 28 novembre à Lyon",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-10-01",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=378285",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-imperio.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-imperio.fr.html",
+  "id": "67827bd922"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "umusic.com",
+  "lot": "1 lot de 2 invitations pour le concert de \"Westside Cowboy\" les 13 et 14 novembre à Paris ou à Lille",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-09",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381688",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-umusic.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-umusic.com.html",
+  "id": "92d0c7a899"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "associationbereal",
+  "lot": "1 lot de 2 des invitations pour le spectacle de Redouane Harjane le 19 novembre à Bar-le-Duc [Meuse]",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-09",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381736",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-associationbereal.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-associationbereal.html",
+  "id": "1e482d5dd4"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "lillelanuit.com",
+  "lot": "1 lot de 2 invitations pour le concert de Barbara Carlotti le 17 novembre à Lille",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-10-19",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=379799",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lillelanuit.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lillelanuit.com.html",
+  "id": "9b4104b706"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "ratp.fr",
+  "lot": "1 lot de 2 invitations pour le match de rugby \"France / Afrique du Sud\" le 13 novembre à Saint-Denis",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-07",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [
+   {
+    "n": 1,
+    "r": "Les Quilter Nations Series"
+   }
+  ],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381620",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-ratp.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-ratp.fr.html",
+  "id": "fb870712c6"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "lillelanuit.com",
+  "lot": "4 lots de 2 invitations pour le concert de Wamen le 19 novembre à Lille",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-10-29",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380634",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lillelanuit.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lillelanuit.com.html",
+  "id": "29b1b73260"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "lamontagne.fr",
+  "lot": "4 lots de 2 invitations pour le match de basket \"JA Vichy / SCABB\" le 17 novembre à vichy [Allier]",
+  "valeur_max": 0,
+  "fin": "2026-11-10",
+  "ajoute": "2026-11-02",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous + 1 question",
+  "reponses": [
+   {
+    "n": 1,
+    "r": "84-68"
+   }
+  ],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380985",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lamontagne.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lamontagne.fr.html",
+  "id": "7f5d7cac55"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "seriesdefilms.com",
   "lot": "2 Blu-Ray du film \"In waves\"",
   "valeur_max": 0,
@@ -5596,121 +4930,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "geant-beaux-arts.fr",
-  "lot": "1 calendrier de l’avent artistique Lefranc Bourgeois x Conté à Paris",
-  "valeur_max": 0,
-  "fin": "2026-11-10",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381225",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-geant-beaux-arts.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-geant-beaux-arts.fr.html",
-  "id": "e9cbdc4d51"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "agradi.fr",
-  "lot": "1 complément alimentaire liquide NAF Magic Liquide pour chevaux",
-  "valeur_max": 0,
-  "fin": "2026-11-10",
-  "ajoute": "2026-11-06",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381384",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-agradi.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-agradi.fr.html",
-  "id": "c64340a7b5"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "brasserie-montblanc.com",
-  "lot": "1 lot comportant 2 produits alimentaires Alpina Savoie + 2 verres + 1 décapsuleur",
-  "valeur_max": 0,
-  "fin": "2026-11-10",
-  "ajoute": "2026-10-30",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380884",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-brasserie-montblanc.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-brasserie-montblanc.com.html",
-  "id": "22e6b3386b"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "associationbereal",
-  "lot": "1 lot de 2 des invitations pour le spectacle de Redouane Harjane le 19 novembre à Bar-le-Duc [Meuse]",
-  "valeur_max": 0,
-  "fin": "2026-11-10",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381736",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-associationbereal.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-associationbereal.html",
-  "id": "1e482d5dd4"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "ratp.fr",
-  "lot": "1 lot de 2 invitations pour le match de rugby \"France / Afrique du Sud\" le 13 novembre à Saint-Denis",
-  "valeur_max": 0,
-  "fin": "2026-11-10",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [
-   {
-    "n": 1,
-    "r": "Les Quilter Nations Series"
-   }
-  ],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381620",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-ratp.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-ratp.fr.html",
-  "id": "fb870712c6"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "vvf.fr",
   "lot": "1 séjour d'une semaine pour 4 à 5 personnes dans un VVF au choix",
   "valeur_max": 0,
@@ -5730,6 +4949,50 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-vvf.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-vvf.fr.html",
   "id": "bd8dfef6f8"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "AssassinsFR",
+  "lot": "2 jeux vidéo PC dématérialisés Steam \"Assassin's Creed Valhalla Ragnarök Edition\"",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Twitter"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381860",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-AssassinsFR.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-AssassinsFR.html",
+  "id": "ccaeecb816"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "ubisoft.com",
+  "lot": "1 jeu vidéo PC \"Tribun Ed\"",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Twitter"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381796",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-ubisoft.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-ubisoft.com.html",
+  "id": "1e53fed732"
  },
  {
   "source": "ledemondujeu.com",
@@ -5799,6 +5062,50 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "micromania.fr",
+  "lot": "5 répliques de la boîte de Nintendo 64 \"Ocarina of Time\"",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381800",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-micromania.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-micromania.fr.html",
+  "id": "f0833ac380"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "ubisoft.fr",
+  "lot": "1 jeu vidéo PS5 \"Anno 117: Pax Romana\" 1 jeu vidéo PC \"Anno 117: Pax Romana\"",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381804",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-ubisoft.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-ubisoft.fr.html",
+  "id": "4786a69456"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "ubisoft.com",
   "lot": "2 jeux vidéo dématérialisés \"The Division 2 - Legendary Edition\" (plateforme au choix)",
   "valeur_max": 0,
@@ -5862,6 +5169,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-fnac.com.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-fnac.com.html",
   "id": "84a33fad38"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "pensebet.com",
+  "lot": "1 jeu vidéo \"GTA 6\" (plateforme au choix)",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Twitter"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381794",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-pensebet.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-pensebet.com.html",
+  "id": "83c76efad4"
  },
  {
   "source": "ledemondujeu.com",
@@ -5980,6 +5309,115 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "dammann.fr",
+  "lot": "1 calendrier de l'Avent thés & infusions Dammann Frères",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-03",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381050",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-dammann.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-dammann.fr.html",
+  "id": "59340a413f"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "ambiancecade.com",
+  "lot": "10 lots comportant 1 coffret d'encens et diffuseur + des desserts Yabon",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-09",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381738",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-ambiancecade.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-ambiancecade.com.html",
+  "id": "7334b16d4f"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "accro.fr",
+  "lot": "1 lot de 3 packs alimentaires Accro",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381803",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-accro.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-accro.fr.html",
+  "id": "9e766bb1a6"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "enjoyfamily.fr",
+  "lot": "1 lot comportant 1 mois d'eau minérale naturelle Mont Roucous + 1 gourde",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-07-15",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=372872",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-enjoyfamily.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-enjoyfamily.fr.html",
+  "id": "0deefc6ffb"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "eau-courmayeur.com",
+  "lot": "1 box Courmayeur \"Bouffée de fraîcheur\" (eau, infusion, gourde à priori)",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-09",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381759",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-eau-courmayeur.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-eau-courmayeur.com.html",
+  "id": "e4c2fd4df5"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "mafamillezen.com",
   "lot": "6 romans jeunesse sur le thème \"Halloween\"",
   "valeur_max": 0,
@@ -6050,6 +5488,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "sofoot.com",
+  "lot": "3 livres \"Le monde de Minecraft - une histoire visuelle du phénomène mondial\"",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381802",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-sofoot.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-sofoot.com.html",
+  "id": "d48da56398"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "laroussejeunesse",
   "lot": "3 lots comportant 1 livre \"Mon Larousse de la danse classique\" + 1 paire de pointes dédicacées par une danseuse étoile",
   "valeur_max": 0,
@@ -6116,6 +5576,50 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "livraisondemots",
+  "lot": "2 lots comportant 1 livre \"L'atelier Grand-Feuille\" dédicacés par Mickaël Brun-Arnaud + 1 dessin personnalisé de Benjamin Lacombe",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381876",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-livraisondemots.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-livraisondemots.html",
+  "id": "a7ed5cb212"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "scrineo",
+  "lot": "1 roman \"Les révoltés des deux mondes\" d'Estelle Faye",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381875",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-scrineo.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-scrineo.html",
+  "id": "b465e638d6"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "maisonheritage.fr",
   "lot": "1 lot comportant 1 tenue Bowdies bleu + 1 sac Solo noir",
   "valeur_max": 0,
@@ -6135,6 +5639,94 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-maisonheritage.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-maisonheritage.fr.html",
   "id": "fb5a32421d"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "beautycoiffure.com",
+  "lot": "1 lot comportant 1 masque + 1 sérum de nuit",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381756",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-beautycoiffure.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-beautycoiffure.com.html",
+  "id": "22a0004829"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "respectueuse.fr",
+  "lot": "10 lots comportant 1 brosse à dents Respectueuse + 1 dentifrice naturel + 1 recharge de dentifrice",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381786",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-respectueuse.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-respectueuse.fr.html",
+  "id": "b90324e543"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "parfumdo.com",
+  "lot": "1 calendrier de l'Avent beauté Parisax",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381753",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-parfumdo.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-parfumdo.com.html",
+  "id": "d2d63bb536"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "yves-rocher.fr",
+  "lot": "1 lot de 3 produits de maquillage",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381793",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-yves-rocher.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-yves-rocher.fr.html",
+  "id": "955c7ce760"
  },
  {
   "source": "ledemondujeu.com",
@@ -6179,6 +5771,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-kerargan.com.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-kerargan.com.html",
   "id": "9def72a173"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "bam_graffeur",
+  "lot": "1 lot comportant 1 veste en jean customisée à la main + 1 sac Intermarché personnalisé avec le loup",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381795",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-bam_graffeur.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-bam_graffeur.html",
+  "id": "9899fd0753"
  },
  {
   "source": "ledemondujeu.com",
@@ -6249,6 +5863,181 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-mafamillezen.com.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-mafamillezen.com.html",
   "id": "3a95de4e43"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "ozzak.fr",
+  "lot": "3 lots de 2 places de cinéma pour l'avant-première du film \"Claude\" le 15 novembre à Bressuire [Deux-Sèvres]",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381757",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-ozzak.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-ozzak.fr.html",
+  "id": "30c6432111"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "radioscoop.com",
+  "lot": "Des invitations pour le match de basket \"JL Bourg / Roanne\" le 14 novembre à Bourg-en-Bresse [Ain]",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381867",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-radioscoop.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-radioscoop.com.html",
+  "id": "5d926fbb9d"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "wik-nantes.fr",
+  "lot": "Des places de cinéma pour l’avant-première du film \"Claude\" le 18 novembre à Saint-Herblain [Loire-Atlantique]",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-06",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381453",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-wik-nantes.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-wik-nantes.fr.html",
+  "id": "48cec64b0c"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "gironde.fff.fr",
+  "lot": "1 lot de 3 invitations pour le match de football \"France / Turquie\" le 15 novembre à Bordeaux",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-09",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381727",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-gironde.fff.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-gironde.fff.fr.html",
+  "id": "943df95959"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "francetelevisions.fr",
+  "lot": "6 lots de 2 invitations pour une avant-première du Festival International du Film et Livre d’Aventure les 17 ou 18 novembre à La Rochelle [Charente-Maritime]",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-10-22",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous + 3 questions",
+  "reponses": [
+   {
+    "n": 1,
+    "r": "2016, 2021 et 2024"
+   },
+   {
+    "n": 2,
+    "r": "1991"
+   },
+   {
+    "n": 3,
+    "r": "La Rochelle"
+   }
+  ],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380055",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-francetelevisions.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-francetelevisions.fr.html",
+  "id": "48bddb171b"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "francetelevisions.fr",
+  "lot": "8 lots de 2 invitations pour une visite guidée de l'exposition \"Cezanne et nous\" le 20 novembre au Grand Palais à Paris 10 lots de 2 entrées pour l'exposition",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-10-14",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Inscrivez-vous + 3 questions",
+  "reponses": [
+   {
+    "n": 1,
+    "r": "Parce que son œuvre continue d’être réinterprétée de multiples façons"
+   },
+   {
+    "n": 2,
+    "r": "Comment l’œuvre de Cezanne a inspiré des artistes jusqu’à aujourd’hui"
+   },
+   {
+    "n": 3,
+    "r": "Comment un artiste du XIXe siècle peut-il encore influencer la création contemporaine"
+   }
+  ],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=379270",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-francetelevisions.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-francetelevisions.fr.html",
+  "id": "43231bba0b"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "rjfm.net",
+  "lot": "1 lot de 2 invitations pour le \"Chicago Blues Festival Tour\" le 14 novembre à Montluçon [Allier]",
+  "valeur_max": 0,
+  "fin": "2026-11-11",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381879",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-rjfm.net.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-rjfm.net.html",
+  "id": "050ad4ba8d"
  },
  {
   "source": "ledemondujeu.com",
@@ -6384,50 +6173,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "ambiancecade.com",
-  "lot": "1 lot comportant 1 coffret d'encens et diffuseur + des desserts Yabon",
-  "valeur_max": 0,
-  "fin": "2026-11-11",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381738",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-ambiancecade.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-ambiancecade.com.html",
-  "id": "26d70cf1fd"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "eau-courmayeur.com",
-  "lot": "1 box Courmayeur \"Bouffée de fraîcheur\" (eau, infusion, gourde à priori)",
-  "valeur_max": 0,
-  "fin": "2026-11-11",
-  "ajoute": "2026-11-09",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381759",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-eau-courmayeur.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-eau-courmayeur.com.html",
-  "id": "e4c2fd4df5"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "arkema.com",
   "lot": "1 maillot d'Arkema Première Ligue au choix",
   "valeur_max": 0,
@@ -6472,6 +6217,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "glenatmangamax",
+  "lot": "1 console PS5",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Twitter"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381891",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-glenatmangamax.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-glenatmangamax.html",
+  "id": "d913e4fdf2"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "joybuy.fr",
   "lot": "1 Airfryer Cosori",
   "valeur_max": 0,
@@ -6494,6 +6261,137 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "francoisesaget.fr",
+  "lot": "1 parure de lit Françoise Saget",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381814",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-francoisesaget.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-francoisesaget.fr.html",
+  "id": "2f1c208547"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "babelio.com",
+  "lot": "3 lots de 3 albums BD",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381810",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-babelio.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-babelio.com.html",
+  "id": "11ae021de0"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "hachette",
+  "lot": "1 lot de 6 romans de la saga \"Le Pont des Tempêtes\"",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381888",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-hachette.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-hachette.html",
+  "id": "9be7d2c5a2"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "pika.fr",
+  "lot": "1 artbook luxe \"L'Atelier des Sorciers - La magie créatrice\"",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France (Dom-Tom inclus), Belgique, Suisse, Luxembourg, Canada",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381834",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-pika.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-pika.fr.html",
+  "id": "6dfa2211f6"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "april_parfumeries",
+  "lot": "10 calendriers de l'Avent April Paris Cosmetics (beauté)",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381851",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-april_parfumeries.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-april_parfumeries.html",
+  "id": "a15f23f285"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "mediprix.fr",
+  "lot": "1 lot de 3 produits de soins",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381813",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-mediprix.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-mediprix.fr.html",
+  "id": "3f229d42da"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "laresellerie.fr",
   "lot": "1 paire de chaussures au choix",
   "valeur_max": 0,
@@ -6513,6 +6411,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-laresellerie.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-laresellerie.fr.html",
   "id": "97bfbe08eb"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "gaultmillau.com",
+  "lot": "1 lot de 2 menus dégustation chez le Cuisinier de l'année (nom et lieu encore inconnus)",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381811",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-gaultmillau.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-gaultmillau.com.html",
+  "id": "0c94a0a93e"
  },
  {
   "source": "ledemondujeu.com",
@@ -6567,6 +6487,193 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-lebleudumiroir.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-lebleudumiroir.fr.html",
   "id": "7487c3ed6c"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "digitalcine.fr",
+  "lot": "1 lot de 5 Blu-Ray/DVD de films d'horreur",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées + 3 questions",
+  "reponses": [
+   {
+    "n": 1,
+    "r": "Fondu au noir"
+   },
+   {
+    "n": 2,
+    "r": "L’Invasion des piranhas"
+   },
+   {
+    "n": 3,
+    "r": "La Compagnie des loups"
+   }
+  ],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381855",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-digitalcine.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-digitalcine.fr.html",
+  "id": "83a38ffb3a"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "pharmacielafayette.com",
+  "lot": "1 lot de 2 compléments alimentaires pour les sportifs",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381812",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-pharmacielafayette.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-pharmacielafayette.com.html",
+  "id": "a0307f81e8"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "hugolemaraicher",
+  "lot": "1 lot de 4 boissons Hugo Le Maraîcher",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381884",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-hugolemaraicher.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-hugolemaraicher.html",
+  "id": "d1184a8039"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "bureau-vallee.fr",
+  "lot": "1 calendrier de l'avent créatif \"Legami - Dream Peaks\"",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381768",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-bureau-vallee.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-bureau-vallee.fr.html",
+  "id": "a676c36d29"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "yankeecandle",
+  "lot": "1 calendrier de l'avent bougies Yankee Candle",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381885",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-yankeecandle.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-yankeecandle.html",
+  "id": "b74bf61f89"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "waterdrop.fr",
+  "lot": "10 calendriers de l'Avent Waterdrop (cubes effervescents pour la transformer l'eau en boisson aromatisée)",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381850",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-waterdrop.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-waterdrop.fr.html",
+  "id": "9e0d77be53"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "lapouleapois.fr",
+  "lot": "2 calendriers de l'Avent au choix parmi 30",
+  "valeur_max": 0,
+  "fin": "2026-11-12",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381769",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lapouleapois.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lapouleapois.fr.html",
+  "id": "24fc73f669"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "sonymusicfans.com",
+  "lot": "1 voyage pour 2 personnes à Londres afin d'assister au spectacle \"Christmas Time\" de Mariah Carey",
+  "valeur_max": 0,
+  "fin": "2026-11-13",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381943",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-sonymusicfans.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-sonymusicfans.com.html",
+  "id": "45060a89b5"
  },
  {
   "source": "ledemondujeu.com",
@@ -6943,6 +7050,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "albin-michel.fr",
+  "lot": "20 lots de 10 livres du catalogue Albin Michel",
+  "valeur_max": 0,
+  "fin": "2026-11-14",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381780",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-albin-michel.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-albin-michel.fr.html",
+  "id": "c848aacc60"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "manga-nova.com",
   "lot": "1 lot de 6 mangas \"Doga\"",
   "valeur_max": 0,
@@ -7028,6 +7157,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-gautrot.com.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-gautrot.com.html",
   "id": "51b0eae83f"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "kaysolcouture.fr",
+  "lot": "1 lot comportant 1 bonnet en satin + 1 taie d’oreiller en satin + 1 chouchou en satin 1 Box couture avec tissu, patron et mercerie. 1 lot de 3 patrons de couture au choix 1 sweat de la collection Kaysol",
+  "valeur_max": 0,
+  "fin": "2026-11-14",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381770",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-kaysolcouture.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-kaysolcouture.fr.html",
+  "id": "8f367f9538"
  },
  {
   "source": "ledemondujeu.com",
@@ -7147,6 +7298,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "juraflorefortdesrousses.com",
+  "lot": "1 assortiment de fromages Juraflore 1 repas pour 2 personnes à Paris ou Bordeaux",
+  "valeur_max": 0,
+  "fin": "2026-11-14",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381815",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-juraflorefortdesrousses.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-juraflorefortdesrousses.com.html",
+  "id": "93a7ac647a"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "cellierduperigord.com",
   "lot": "1 calendrier de l'Avent gourmand Cellier du Périgord",
   "valeur_max": 0,
@@ -7256,6 +7429,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "ofunpark.fr",
+  "lot": "1 séjour pour 4 personnes à O'Tel Park [Vendée] avec 4 entrées à O'Fun Park",
+  "valeur_max": 0,
+  "fin": "2026-11-15",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381835",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-ofunpark.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-ofunpark.fr.html",
+  "id": "3a97a7a9da"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "xbox-gamer.net",
   "lot": "1 jeu vidéo Xbox \"EA Sports FC 27 Ultimate Edition\"",
   "valeur_max": 0,
@@ -7275,6 +7470,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-xbox-gamer.net.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-xbox-gamer.net.html",
   "id": "f20ebc2456"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "joybuy.fr",
+  "lot": "2 jeux vidéo Switch 2 \"The legend of Zelda : Ocarina of time\"",
+  "valeur_max": 0,
+  "fin": "2026-11-15",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381820",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-joybuy.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-joybuy.fr.html",
+  "id": "b80e8c28d4"
  },
  {
   "source": "ledemondujeu.com",
@@ -7452,6 +7669,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "thermiefrance",
+  "lot": "1 lot composé de 2 entrées adultes et 2 entrées enfants à Disneyland Paris",
+  "valeur_max": 0,
+  "fin": "2026-11-15",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381926",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-thermiefrance.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-thermiefrance.html",
+  "id": "409d774bc5"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "amos-sweets.fr",
   "lot": "1 lot de 4 entrées à Disneyland Paris",
   "valeur_max": 0,
@@ -7544,6 +7783,27 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "umusic.com",
+  "lot": "1 lot de 2 albums CD dédicacés de Bernard Lavilliers",
+  "valeur_max": 0,
+  "fin": "2026-11-15",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381927",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-umusic.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-umusic.com.html",
+  "id": "5343058f87"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "pokemoms.fr",
   "lot": "1 coffret \"Pokemon\"",
   "valeur_max": 0,
@@ -7588,6 +7848,50 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "famillemary.fr",
+  "lot": "1 lot comportant 3 pots de miel + 3 sachets de fruits secs",
+  "valeur_max": 0,
+  "fin": "2026-11-15",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381817",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-famillemary.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-famillemary.fr.html",
+  "id": "f3f3e78c8f"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "crit-job.com",
+  "lot": "1 paire d'écouteurs AirPods 5",
+  "valeur_max": 0,
+  "fin": "2026-11-16",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381787",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-crit-job.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-crit-job.com.html",
+  "id": "6bc058ef03"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "insta360.com",
   "lot": "1 stabilisateur pour smartphone Insta360 Flow 2 Pro Standard Bundle",
   "valeur_max": 0,
@@ -7629,6 +7933,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-xbox-gamer.net.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-xbox-gamer.net.html",
   "id": "bde97f9f07"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "editions-maisonpop.com",
+  "lot": "3 lots comportant 1 roman \"Strandling\" de James Brogden + 1 roman \"Victorian Psycho\" de Virginia Feito + 1 abonnement d'un mois à Shadowz",
+  "valeur_max": 0,
+  "fin": "2026-11-16",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381772",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-editions-maisonpop.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-editions-maisonpop.com.html",
+  "id": "eaa5a0f19a"
  },
  {
   "source": "ledemondujeu.com",
@@ -7764,6 +8090,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "color-room.fun",
+  "lot": "1 jeu vidéo PS5 \"GTA VI\"",
+  "valeur_max": 0,
+  "fin": "2026-11-17",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381773",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-color-room.fun.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-color-room.fun.html",
+  "id": "1d122f8643"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "rizdecamargue.com",
   "lot": "1 lot comportant 1 cuiseur à riz + du riz 2 lots de riz",
   "valeur_max": 0,
@@ -7830,6 +8178,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "arystudio-formation.fr",
+  "lot": "1 calendrier de l'Avent beauté Plouise",
+  "valeur_max": 0,
+  "fin": "2026-11-17",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381788",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-arystudio-formation.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-arystudio-formation.fr.html",
+  "id": "b4de4051a3"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "baz-art.org",
   "lot": "2 coffrets collector Blu-Ray 4K du film \"Obsession Fatale\"",
   "valeur_max": 0,
@@ -7857,6 +8227,50 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-baz-art.org.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-baz-art.org.html",
   "id": "519ec94838"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "hoteleiffelblomet.com",
+  "lot": "1 séjour d'une nuit pour 2 personnes à l'hôtel Eiffel Blomet à Paris",
+  "valeur_max": 0,
+  "fin": "2026-11-18",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381774",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-hoteleiffelblomet.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-hoteleiffelblomet.com.html",
+  "id": "1f5b0b5337"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "gangofpizza.com",
+  "lot": "5 jeux vidéo PS5 \"GTA VI\"",
+  "valeur_max": 0,
+  "fin": "2026-11-18",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381775",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-gangofpizza.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-gangofpizza.com.html",
+  "id": "82ff5e368d"
  },
  {
   "source": "ledemondujeu.com",
@@ -7952,6 +8366,36 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "baz-art.org",
+  "lot": "Des places de cinéma pour le film \"Malika\"",
+  "valeur_max": 0,
+  "fin": "2026-11-19",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées + 2 questions",
+  "reponses": [
+   {
+    "n": 1,
+    "r": "Marc Lavoine"
+   },
+   {
+    "n": 2,
+    "r": "2018"
+   }
+  ],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381862",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-baz-art.org.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-baz-art.org.html",
+  "id": "c6a1bdd100"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "bluesactu.com",
   "lot": "3 albums CD \"Wait A Minute\" de Mazingo",
   "valeur_max": 0,
@@ -8042,6 +8486,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "gallimard-bd.fr",
+  "lot": "10 BD \"Le néant électrique\" 10 BD \"Nycthémère\" 10 BD \"L'Anomalie\" 10 BD \"Beauvoir Made In America\" 10 BD \"Le fantôme de l'opéra\"",
+  "valeur_max": 0,
+  "fin": "2026-11-20",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Instants Gagnants",
+   "Fréquence quotidienne"
+  ],
+  "principe": "Laissez vos coordonnées + Instants Gagnants. Vous pouvez jouer tous les jours.",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "tous les jours",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381944",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-gallimard-bd.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-gallimard-bd.fr.html",
+  "id": "3db4dd1f19"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "nobi-nobi.fr",
   "lot": "3 mangas \"Minecraft\"",
   "valeur_max": 0,
@@ -8061,6 +8527,27 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-nobi-nobi.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-nobi-nobi.fr.html",
   "id": "2d21b57eda"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "nobi-nobi.fr",
+  "lot": "3 mangas \"Minecraft - T11\"",
+  "valeur_max": 0,
+  "fin": "2026-11-20",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort"
+  ],
+  "principe": "Laissez vos coordonnées",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France (Dom-Tom inclus), Suisse, Luxembourg",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381936",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-nobi-nobi.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-nobi-nobi.fr.html",
+  "id": "8a4949b63a"
  },
  {
   "source": "ledemondujeu.com",
@@ -8278,28 +8765,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "agamy-happyhairday.com",
-  "lot": "5 lots comportant 2 brosses à cheveux + 2 recharges pour brosse à cheveux",
-  "valeur_max": 0,
-  "fin": "2026-11-22",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381536",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-agamy-happyhairday.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-agamy-happyhairday.com.html",
-  "id": "4e77fe843a"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "francetelevisions.fr",
   "lot": "35 lots de 2 places de cinéma pour le film \"Demain je tombe amoureux\"",
   "valeur_max": 0,
@@ -8376,28 +8841,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "azura-snacking.com",
-  "lot": "6 lots comportant 1 t-shirt + 1 sweat + 1 casquette",
-  "valeur_max": 0,
-  "fin": "2026-11-23",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381374",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-azura-snacking.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-azura-snacking.com.html",
-  "id": "ed3686f0f5"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "montpellier.aeroport.fr",
   "lot": "8 voyages pour 2 personnes à Ténérife au départ de Montpellier",
   "valeur_max": 0,
@@ -8416,28 +8859,6 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-montpellier.aeroport.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-montpellier.aeroport.fr.html",
   "id": "0aa4a11344"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "go-mademoiselle.fr",
-  "lot": "1 montre ou 1 bijou Go Mademoiselle au choix",
-  "valeur_max": 0,
-  "fin": "2026-11-24",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381611",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-go-mademoiselle.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-go-mademoiselle.fr.html",
-  "id": "71f28dbac6"
  },
  {
   "source": "ledemondujeu.com",
@@ -8482,6 +8903,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-eastasia.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-eastasia.fr.html",
   "id": "57ce3455fd"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "melfor.com",
+  "lot": "1 lot de 2 entrées au parc Europa-Park en Allemagne",
+  "valeur_max": 0,
+  "fin": "2026-11-24",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381823",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-melfor.com.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-melfor.com.html",
+  "id": "c0b3df6968"
  },
  {
   "source": "ledemondujeu.com",
@@ -8625,72 +9068,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "tchip.fr",
-  "lot": "1 routine capillaires Vitamino Color de L'Oréal Professionnel",
-  "valeur_max": 0,
-  "fin": "2026-11-26",
-  "ajoute": "2026-10-30",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380911",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-tchip.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-tchip.fr.html",
-  "id": "a17b26817f"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "lafrenchbeautycoloc.com",
-  "lot": "1 lot comportant 1 brume fraîcheur + 1 produits de soins",
-  "valeur_max": 0,
-  "fin": "2026-11-26",
-  "ajoute": "2026-11-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Instagram"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381432",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-lafrenchbeautycoloc.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-lafrenchbeautycoloc.com.html",
-  "id": "8e0e661a09"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "latapenade.com",
-  "lot": "1 lot de 28 pots La Maison de la tapenade",
-  "valeur_max": 0,
-  "fin": "2026-11-27",
-  "ajoute": "2026-10-24",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380172",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-latapenade.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-latapenade.com.html",
-  "id": "d402fc78d6"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "familiscope.fr",
   "lot": "5 romans jeunesse \"Coup de froid, coeur chaud\"",
   "valeur_max": 0,
@@ -8768,28 +9145,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "FFGcreations",
-  "lot": "1 bracelet personnalisé",
-  "valeur_max": 0,
-  "fin": "2026-11-28",
-  "ajoute": "2026-10-28",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=380631",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-FFGcreations.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-FFGcreations.html",
-  "id": "9aa630879a"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "bchef.fr",
   "lot": "1 lot comportant 1 console PS5 + 1 jeu \"Grand Theft Auto VI\"",
   "valeur_max": 0,
@@ -8809,6 +9164,28 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-bchef.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-bchef.fr.html",
   "id": "41802203ab"
+ },
+ {
+  "source": "ledemondujeu.com",
+  "organisateur": "romo.tech",
+  "lot": "1 robot aspirateur DJI Romo P2",
+  "valeur_max": 0,
+  "fin": "2026-11-29",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Instagram"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381782",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-romo.tech.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-romo.tech.html",
+  "id": "12d4be5d80"
  },
  {
   "source": "ledemondujeu.com",
@@ -8975,50 +9352,6 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-bayard-jeunesse.com.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-bayard-jeunesse.com.html",
   "id": "42240fa71e"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "codifra.fr",
-  "lot": "1 cure santé \"Normalite Nez Gorge\"",
-  "valeur_max": 0,
-  "fin": "2026-11-29",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381616",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-codifra.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-codifra.fr.html",
-  "id": "70c2fb7998"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "kikkoman.fr",
-  "lot": "1 lot de sauces Kikkoman avec des goodies",
-  "valeur_max": 0,
-  "fin": "2026-11-29",
-  "ajoute": "2026-11-03",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381230",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-kikkoman.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-kikkoman.fr.html",
-  "id": "efdd510929"
  },
  {
   "source": "ledemondujeu.com",
@@ -9234,6 +9567,29 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "lelombard",
+  "lot": "Chaque jour : Des albums BD",
+  "valeur_max": 0,
+  "fin": "2026-11-30",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Fréquence quotidienne",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381939",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-lelombard.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-lelombard.html",
+  "id": "b31eb24309"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "lagranderecre.fr",
   "lot": "100 lots de 2 places de cinéma pour le film \"Astérix : Le Royaume de Nubie\"",
   "valeur_max": 0,
@@ -9322,28 +9678,6 @@
  },
  {
   "source": "ledemondujeu.com",
-  "organisateur": "harmonieetpetitsbonheurs.com",
-  "lot": "2 lots comportant 1 stylo + 1 porte-clé",
-  "valeur_max": 0,
-  "fin": "2026-11-30",
-  "ajoute": "2026-11-04",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381231",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-harmonieetpetitsbonheurs.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-harmonieetpetitsbonheurs.com.html",
-  "id": "96c8c9e4dc"
- },
- {
-  "source": "ledemondujeu.com",
   "organisateur": "king-jouet.com",
   "lot": "1 lot comportant 12 jeux de construction Lego Smart Play + 20 booster Pokémon 1 lot comportant 1 coffret Pokémon Méga Dracaufeu +10 booster Pokémon 5 lots comportant 1 coffret Pokémon Dresseur d’Élite + 10 booster + 1 peluche 13 lots comportant 1 peluche Pokémon + 10 booster Pokémon",
   "valeur_max": 0,
@@ -9367,27 +9701,6 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-king-jouet.com.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-king-jouet.com.html",
   "id": "9c4a7358a9"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "carrefour.fr",
-  "lot": "1 séjour de 2 jours pour 4 personnes au Parc Astérix 1 séjour d'une semaine pour 4 personnes en résidence Lagrange à Arc 1600 1 séjour d'une nuit pour 2 personnes en hôtel 4* en Espagne avec des billets pour le Moto GP de Catalogne les 12 et 13 juin 2027 1 séjour de 3 nuits pour 2 personnes en palac",
-  "valeur_max": 0,
-  "fin": "2026-12-03",
-  "ajoute": "2026-11-07",
-  "mecaniques": [
-   "Tirage au sort"
-  ],
-  "principe": "Laissez vos coordonnées",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381739",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-carrefour.fr.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-carrefour.fr.html",
-  "id": "fe9ac2eeec"
  },
  {
   "source": "ledemondujeu.com",
@@ -9498,6 +9811,28 @@
  },
  {
   "source": "ledemondujeu.com",
+  "organisateur": "leroiduparebrise.fr",
+  "lot": "1 appareil culinaire Thermomix TM6",
+  "valeur_max": 0,
+  "fin": "2026-12-30",
+  "ajoute": "2026-11-10",
+  "mecaniques": [
+   "Tirage au sort",
+   "Facebook"
+  ],
+  "principe": "",
+  "reponses": [],
+  "conditions": "Le concours est ouvert à toute personne résidant en France",
+  "departement": "",
+  "frequence": "",
+  "obligation_achat": false,
+  "redirect": "https://www.ledemondujeu.com/toconc.php?c=381840",
+  "fiche": "https://www.ledemondujeu.com/jeux-concours-leroiduparebrise.fr.html",
+  "lien": "https://www.ledemondujeu.com/jeux-concours-leroiduparebrise.fr.html",
+  "id": "014cf8117c"
+ },
+ {
+  "source": "ledemondujeu.com",
   "organisateur": "guitare-et-studio.fr",
   "lot": "1 guitare électrique 1 guitare acoustique 1 table de mixage",
   "valeur_max": 0,
@@ -9550,28 +9885,6 @@
   "fiche": "https://www.ledemondujeu.com/jeux-concours-lnr.fr.html",
   "lien": "https://www.ledemondujeu.com/jeux-concours-lnr.fr.html",
   "id": "28e890713a"
- },
- {
-  "source": "ledemondujeu.com",
-  "organisateur": "brasserie-montblanc.com",
-  "lot": "15 verres Brasserie du Mont Blanc",
-  "valeur_max": 0,
-  "fin": "2026-12-30",
-  "ajoute": "2026-10-05",
-  "mecaniques": [
-   "Tirage au sort",
-   "Facebook"
-  ],
-  "principe": "",
-  "reponses": [],
-  "conditions": "Le concours est ouvert à toute personne majeure résidant en France",
-  "departement": "",
-  "frequence": "",
-  "obligation_achat": false,
-  "redirect": "https://www.ledemondujeu.com/toconc.php?c=378547",
-  "fiche": "https://www.ledemondujeu.com/jeux-concours-brasserie-montblanc.com.html",
-  "lien": "https://www.ledemondujeu.com/jeux-concours-brasserie-montblanc.com.html",
-  "id": "0dc5cdff35"
  },
  {
   "source": "ledemondujeu.com",

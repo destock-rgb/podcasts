@@ -19,11 +19,11 @@ Bonjour. Chaque année, il y a des milliers de jeux concours en France. La grand
 
 Ça se termine le 4 décembre. Le règlement est en ligne, et le lien est dans la description.
 
-**2. meribel.net — 8 000 €**
+**2. rossignol.com — 6 900 €**
 
-1 séjour d'une semaine au ski pour 6 personnes dans un appartement VIP au cœur de la station Méribel avec les forfaits de ski 3 Vallées (8000€)
+1 lot comportant 1 séjour d'une semaine pour 2 personnes dans un Resort Club Med en Europe ou en Afrique + 2 équipements complets de ski Rossignol (6900€)
 
-Ça se termine le 9 novembre. Le règlement est en ligne, et le lien est dans la description.
+Ça se termine le 12 novembre. Le règlement est en ligne, et le lien est dans la description.
 
 **3. lespetitsculottes.com — 4 000 €**
 
