@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-12",
+ "genere_le": "2026-11-13",
  "jeux": [
   {
    "id": "6798fa8de0",
@@ -7,7 +7,7 @@
    "lot": "1 séjour d'une semaine pour 4 personnes à la résidence Pierre & Vacances Le Thabor à Valmeinier avec matériel de ski et dîner (3850€) 15 appareils à croque-monsieur (299€) 30 appareils à fondue (99€)",
    "valeur_max": 3850,
    "fin": "2026-11-15",
-   "jours_restants": 3,
+   "jours_restants": 2,
    "mecaniques": [
     "Instants Gagnants"
    ],
@@ -25,10 +25,10 @@
   {
    "id": "54e86d4845",
    "organisateur": "orange.fr",
-   "lot": "1 séjour de 2 nuits pour 4 personnes à Paris avec un dîner au restaurant Madame Brasserie (2 500€)",
+   "lot": "1 séjour de 2 nuits pour 4 personnes à Paris avec un dîner au restaurant Madame Brasserie (2500€)",
    "valeur_max": 2500,
    "fin": "2026-11-18",
-   "jours_restants": 6,
+   "jours_restants": 5,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -44,28 +44,12 @@
    "lien": "https://formulaires.services.orange.fr/19838"
   },
   {
-   "id": "2f21b602f9",
-   "organisateur": "rossignol.com",
-   "lot": "1 lot comportant 1 séjour d'une semaine pour 2 personnes dans un Resort Club Med en Europe ou en Afrique + 2 équipements complets de ski Rossignol (6900€)",
-   "valeur_max": 6900,
-   "fin": "2026-11-12",
-   "jours_restants": 0,
-   "mecaniques": [
-    "Tirage au sort"
-   ],
-   "principe": "Laissez vos coordonnées + 5 questions personnelles",
-   "reponses": [],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://jeuclubmed.rossignol.com/fr/?utm_source=agence-reflexemedia"
-  },
-  {
    "id": "979bda3382",
    "organisateur": "lespetitsculottes.com",
    "lot": "1 séjour d'une semaine pour 4 personnes à la Résidence Montana Premier à Val Thorens du 19 au 26 décembre 2026 ou du 10 au 17 avril 2027 (4000€)",
    "valeur_max": 4000,
    "fin": "2026-11-13",
-   "jours_restants": 1,
+   "jours_restants": 0,
    "mecaniques": [
     "Tirage au sort",
     "Instagram"
@@ -77,34 +61,12 @@
    "lien": "https://www.instagram.com/les.petits.culottes/p/DfRx0jfiIwK/"
   },
   {
-   "id": "a4247b3cca",
-   "organisateur": "sonovente.com",
-   "lot": "1 contrôleur DJ Hercules DJControl T10 (1275€)",
-   "valeur_max": 1275,
-   "fin": "2026-11-12",
-   "jours_restants": 0,
-   "mecaniques": [
-    "Tirage au sort",
-    "Instagram"
-   ],
-   "principe": "",
-   "reponses": [
-    {
-     "n": 1,
-     "r": "7,3 kg"
-    }
-   ],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.instagram.com/sonovente/p/Dev0ovKDTCX/"
-  },
-  {
    "id": "82e9d29ac9",
    "organisateur": "lebonnumero.fr",
    "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
    "valeur_max": 28600,
    "fin": "2026-12-04",
-   "jours_restants": 22,
+   "jours_restants": 21,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"
@@ -114,6 +76,51 @@
    "departement": "",
    "frequence": "tous les jours",
    "lien": "https://www.reflexemedia.com/diff.php?c=1636"
+  },
+  {
+   "id": "b0c2ae4ba1",
+   "organisateur": "son-video.com",
+   "lot": "1 amplificateur Marantz Cinema DAB Serie 2 (1450€) Des places de cinéma pour le film \"Hunger Games : Lever de soleil sur la moisson\"",
+   "valeur_max": 1450,
+   "fin": "2026-11-18",
+   "jours_restants": 5,
+   "mecaniques": [
+    "Tirage au sort"
+   ],
+   "principe": "Laissez vos coordonnées + 3 questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Le mentor de Katniss Everdynn"
+    },
+    {
+     "n": 2,
+     "r": "Ralph Fiennes"
+    },
+    {
+     "n": 3,
+     "r": "District 12"
+    }
+   ],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://www.son-video.com/concours?utm_source=agence-reflexemedia"
+  },
+  {
+   "id": "5a47c8bbfa",
+   "organisateur": "boxio.fr",
+   "lot": "1 système d'aménagement modulaire amovible pour transformer un van, un monospace ou un grand coffre de voiture en mini-campeur (2744€) 1 cuisine extérieure mobile (699€) 1 lavabo de camping (299€) 1 toilette sèche (269€)",
+   "valeur_max": 2744,
+   "fin": "2026-11-17",
+   "jours_restants": 4,
+   "mecaniques": [
+    "Tirage au sort"
+   ],
+   "principe": "Laissez vos coordonnées &#x26A0;&#xFE0F; Inscription newsletter obligatoire.",
+   "reponses": [],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://boxio.fr/pages/jeu-concours-de-automne?utm_source=agence-reflexemedia"
   }
  ]
 }
