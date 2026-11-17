@@ -13,11 +13,11 @@ On termine notre journal comme on le commence souvent : avec une bonne nouvelle 
 
 Bonjour. Chaque année, il y a des milliers de jeux concours en France. La grande majorité sont gratuits : on laisse ses coordonnées, on répond à une ou deux questions, et le hasard fait le reste. On en a sélectionné **6** pour vous cette semaine.
 
-**1. lebonnumero.fr — 28 600 €**
+**1. mnphotovideo.com — 3 890 €**
 
-1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)
+2 lots comportant 1 appareil photo Panasonic Lumix S1II + 1 objectif Sigma (3890€)
 
-Ça se termine le 4 décembre. Le règlement est en ligne, et le lien est dans la description.
+Ça se termine le 21 novembre. Le règlement est en ligne, et le lien est dans la description.
 
 **2. lefigaro.fr — 3 700 €**
 
