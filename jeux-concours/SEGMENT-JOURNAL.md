@@ -13,13 +13,19 @@ On termine notre journal comme on le commence souvent : avec une bonne nouvelle 
 
 Bonjour. Chaque année, il y a des milliers de jeux concours en France. La grande majorité sont gratuits : on laisse ses coordonnées, on répond à une ou deux questions, et le hasard fait le reste. On en a sélectionné **6** pour vous cette semaine.
 
-**1. mnphotovideo.com — 3 890 €**
+**1. lebonnumero.fr — 28 600 €**
+
+1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)
+
+Ça se termine le 4 décembre. Le règlement est en ligne, et le lien est dans la description.
+
+**2. mnphotovideo.com — 3 890 €**
 
 2 lots comportant 1 appareil photo Panasonic Lumix S1II + 1 objectif Sigma (3890€)
 
 Ça se termine le 21 novembre. Le règlement est en ligne, et le lien est dans la description.
 
-**2. lefigaro.fr — 3 700 €**
+**3. lefigaro.fr — 3 700 €**
 
 1 lot comportant 2 billets d'avion A/R Paris / Tahiti + 2 nuits d'hébergement en chambre double à Tahiti (3700€)
 
@@ -27,17 +33,11 @@ Bonjour. Chaque année, il y a des milliers de jeux concours en France. La grand
 
 Et pour ceux qui ont une question à laquelle il faut répondre : les réponses sont déjà connues — question 1 : Papeete ; question 2 : La fleur de tiaré ; question 3 : Les rencontres authentiques, la culture et l'immersion.
 
-**3. actu — 2 800 €**
+**4. tentbox.com — 3 500 €**
 
-1 lot de 2 billets d'avion A/R Toulouse / La Réunion (2800€)
+1 lot de 3500€ maximum de produits Tentbox au choix (tentes de toit)
 
-Ça se termine le 17 novembre. Le règlement est en ligne, et le lien est dans la description.
-
-**4. boxio.fr — 2 744 €**
-
-1 système d'aménagement modulaire amovible pour transformer un van, un monospace ou un grand coffre de voiture en mini-campeur (2744€) 1 cuisine extérieure mobile (699€) 1 lavabo de camping 
-
-Ça se termine le 17 novembre. Le règlement est en ligne, et le lien est dans la description.
+Ça se termine le 18 novembre. Le règlement est en ligne, et le lien est dans la description.
 
 Et puis, il y a ceux qu'on rejoue tous les jours. C'est là que le calcul devient intéressant : un jeu à 500 euros qu'on peut tenter chaque jour de la semaine vaut souvent mieux qu'un tirage unique à 200 euros. C'est tout l'objet de notre tableau de suivi : il trie par valeur réelle et par échéance, et il vous dit ce que vous n'avez pas encore tenté.
 
