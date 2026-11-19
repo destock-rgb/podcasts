@@ -1,34 +1,13 @@
 {
- "genere_le": "2026-11-18",
+ "genere_le": "2026-11-19",
  "jeux": [
-  {
-   "id": "54e86d4845",
-   "organisateur": "orange.fr",
-   "lot": "1 séjour de 2 nuits pour 4 personnes à Paris avec un dîner au restaurant Madame Brasserie (2500€)",
-   "valeur_max": 2500,
-   "fin": "2026-11-18",
-   "jours_restants": 0,
-   "mecaniques": [
-    "Tirage au sort"
-   ],
-   "principe": "Laissez vos coordonnées + 1 question",
-   "reponses": [
-    {
-     "n": 1,
-     "r": "Omar Sy - Paris"
-    }
-   ],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://formulaires.services.orange.fr/19838"
-  },
   {
    "id": "79ca0f7bf5",
    "organisateur": "lefigaro.fr",
    "lot": "1 lot comportant 2 billets d'avion A/R Paris / Tahiti + 2 nuits d'hébergement en chambre double à Tahiti (3700€)",
    "valeur_max": 3700,
    "fin": "2026-11-23",
-   "jours_restants": 5,
+   "jours_restants": 4,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -52,58 +31,12 @@
    "lien": "https://www.ledemondujeu.com/jeux-concours-lefigaro.fr.html"
   },
   {
-   "id": "a22f4208da",
-   "organisateur": "tentbox.com",
-   "lot": "1 lot de 3500€ maximum de produits Tentbox au choix (tentes de toit)",
-   "valeur_max": 3500,
-   "fin": "2026-11-18",
-   "jours_restants": 0,
-   "mecaniques": [
-    "Tirage au sort",
-    "Twitter"
-   ],
-   "principe": "",
-   "reponses": [],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://eu.tentbox.com/fr-fr/pages/black-friday-remporte-ton-panier"
-  },
-  {
-   "id": "b0c2ae4ba1",
-   "organisateur": "son-video.com",
-   "lot": "1 amplificateur Marantz Cinema DAB Serie 2 (1450€) Des places de cinéma pour le film \"Hunger Games : Lever de soleil sur la moisson\"",
-   "valeur_max": 1450,
-   "fin": "2026-11-18",
-   "jours_restants": 0,
-   "mecaniques": [
-    "Tirage au sort"
-   ],
-   "principe": "Laissez vos coordonnées + 3 questions",
-   "reponses": [
-    {
-     "n": 1,
-     "r": "Le mentor de Katniss Everdynn"
-    },
-    {
-     "n": 2,
-     "r": "Ralph Fiennes"
-    },
-    {
-     "n": 3,
-     "r": "District 12"
-    }
-   ],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.son-video.com/concours?utm_source=agence-reflexemedia"
-  },
-  {
    "id": "21f65aed17",
    "organisateur": "mnphotovideo.com",
    "lot": "2 lots comportant 1 appareil photo Panasonic Lumix S1II + 1 objectif Sigma (3890€)",
    "valeur_max": 3890,
    "fin": "2026-11-21",
-   "jours_restants": 3,
+   "jours_restants": 2,
    "mecaniques": [
     "Tirage au sort",
     "Instagram"
@@ -120,7 +53,7 @@
    "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
    "valeur_max": 28600,
    "fin": "2026-12-04",
-   "jours_restants": 16,
+   "jours_restants": 15,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"
@@ -130,6 +63,57 @@
    "departement": "",
    "frequence": "tous les jours",
    "lien": "https://www.reflexemedia.com/diff.php?c=1636"
+  },
+  {
+   "id": "20eb736fb5",
+   "organisateur": "mccain.fr",
+   "lot": "2 expériences VIP Tour de France pour 4 personnes comportant l'accès à une tribune VIP, le transport, une nuit d'hôtel et un dîner (3000€) 40 Air Fryer Ninja (150€) 60 maillots cyclistes McCain (33€) 500 paires de chauss",
+   "valeur_max": 3000,
+   "fin": "2026-11-30",
+   "jours_restants": 11,
+   "mecaniques": [
+    "Instants Gagnants",
+    "Fréquence quotidienne"
+   ],
+   "principe": "Laissez vos coordonnées + Instants Gagnants. Vous pouvez jouer tous les jours.",
+   "reponses": [],
+   "departement": "",
+   "frequence": "tous les jours",
+   "lien": "https://www.mccain.fr/jeu-tour-de-france/?utm_source=agence-reflexemedia.com"
+  },
+  {
+   "id": "a7bfe37cb9",
+   "organisateur": "intersport",
+   "lot": "1 séjour pour 4 personnes (2 adultes et 2 enfants de moins de 15 ans) au Club Les Alpes d'Azur à Serre-Chevalier (2376€)",
+   "valeur_max": 2376,
+   "fin": "2026-11-20",
+   "jours_restants": 1,
+   "mecaniques": [
+    "Tirage au sort",
+    "Instagram"
+   ],
+   "principe": "",
+   "reponses": [],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://www.instagram.com/intersportfr/p/DfpHQhUCsvr/"
+  },
+  {
+   "id": "838db27165",
+   "organisateur": "artetfenetres.com",
+   "lot": "1 chèque de 500€ (ou un virement, ce n'est pas précisé)",
+   "valeur_max": 500,
+   "fin": "2026-11-20",
+   "jours_restants": 1,
+   "mecaniques": [
+    "Instants Gagnants",
+    "Fréquence quotidienne"
+   ],
+   "principe": "Laissez vos coordonnées + Instants Gagnants. Vous pouvez jouer tous les jours.",
+   "reponses": [],
+   "departement": "",
+   "frequence": "tous les jours",
+   "lien": "https://ubishaker.com/fr/26/1793697361937286/home?utm_source=agence-reflexemedia"
   }
  ]
 }
