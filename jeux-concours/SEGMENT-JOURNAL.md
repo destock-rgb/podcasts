@@ -13,31 +13,33 @@ On termine notre journal comme on le commence souvent : avec une bonne nouvelle 
 
 Bonjour. Chaque année, il y a des milliers de jeux concours en France. La grande majorité sont gratuits : on laisse ses coordonnées, on répond à une ou deux questions, et le hasard fait le reste. On en a sélectionné **6** pour vous cette semaine.
 
-**1. lebonnumero.fr — 28 600 €**
+**1. labanquepostale.fr — 40 000 €**
+
+1 lot comportant 1 virement bancaire de 20 000€ pour vous + 1 virement de 20 000€ pour une association (40000€)
+
+Ça se termine le 30 novembre. Le règlement est en ligne, et le lien est dans la description.
+
+Et pour ceux qui ont une question à laquelle il faut répondre : les réponses sont déjà connues — question 1 : Ouverte à tous ; question 2 : Dans les différents moments de leur vie ; question 3 : Oui, notamment à travers les projets qu'elle finance.
+
+**2. lebonnumero.fr — 28 600 €**
 
 1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)
 
 Ça se termine le 4 décembre. Le règlement est en ligne, et le lien est dans la description.
 
-**2. mnphotovideo.com — 3 890 €**
+**3. delko.fr — 20 000 €**
+
+1 voiture 100% électrique customisée par un artiste (20 000€)
+
+Ça se termine le 30 novembre. Le règlement est en ligne, et le lien est dans la description.
+
+Et pour ceux qui ont une question à laquelle il faut répondre : les réponses sont déjà connues — question 1 : 439€.
+
+**4. mnphotovideo.com — 3 890 €**
 
 2 lots comportant 1 appareil photo Panasonic Lumix S1II + 1 objectif Sigma (3890€)
 
 Ça se termine le 21 novembre. Le règlement est en ligne, et le lien est dans la description.
-
-**3. lefigaro.fr — 3 700 €**
-
-1 lot comportant 2 billets d'avion A/R Paris / Tahiti + 2 nuits d'hébergement en chambre double à Tahiti (3700€)
-
-Ça se termine le 23 novembre. Le règlement est en ligne, et le lien est dans la description.
-
-Et pour ceux qui ont une question à laquelle il faut répondre : les réponses sont déjà connues — question 1 : Papeete ; question 2 : La fleur de tiaré ; question 3 : Les rencontres authentiques, la culture et l'immersion.
-
-**4. mccain.fr — 3 000 €**
-
-2 expériences VIP Tour de France pour 4 personnes comportant l'accès à une tribune VIP, le transport, une nuit d'hôtel et un dîner (3000€) 40 Air Fryer Ninja (150€) 60 maillots cyclistes McC
-
-Ça se termine le 30 novembre. Le règlement est en ligne, et le lien est dans la description.
 
 Et puis, il y a ceux qu'on rejoue tous les jours. C'est là que le calcul devient intéressant : un jeu à 500 euros qu'on peut tenter chaque jour de la semaine vaut souvent mieux qu'un tirage unique à 200 euros. C'est tout l'objet de notre tableau de suivi : il trie par valeur réelle et par échéance, et il vous dit ce que vous n'avez pas encore tenté.
 

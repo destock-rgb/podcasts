@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-19",
+ "genere_le": "2026-11-20",
  "jeux": [
   {
    "id": "79ca0f7bf5",
@@ -7,7 +7,7 @@
    "lot": "1 lot comportant 2 billets d'avion A/R Paris / Tahiti + 2 nuits d'hébergement en chambre double à Tahiti (3700€)",
    "valeur_max": 3700,
    "fin": "2026-11-23",
-   "jours_restants": 4,
+   "jours_restants": 3,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -31,12 +31,79 @@
    "lien": "https://www.ledemondujeu.com/jeux-concours-lefigaro.fr.html"
   },
   {
+   "id": "20eb736fb5",
+   "organisateur": "mccain.fr",
+   "lot": "2 expériences VIP Tour de France pour 4 personnes comportant l'accès à une tribune VIP, le transport, une nuit d'hôtel et un dîner (3000€) 40 Air Fryer Ninja (150€) 60 maillots cyclistes McCain (33€) 500 paires de chauss",
+   "valeur_max": 3000,
+   "fin": "2026-11-30",
+   "jours_restants": 10,
+   "mecaniques": [
+    "Instants Gagnants",
+    "Fréquence quotidienne"
+   ],
+   "principe": "Laissez vos coordonnées + Instants Gagnants. Vous pouvez jouer tous les jours.",
+   "reponses": [],
+   "departement": "",
+   "frequence": "tous les jours",
+   "lien": "https://www.mccain.fr/jeu-tour-de-france/?utm_source=agence-reflexemedia.com"
+  },
+  {
+   "id": "c6d5c9c476",
+   "organisateur": "labanquepostale.fr",
+   "lot": "1 lot comportant 1 virement bancaire de 20 000€ pour vous + 1 virement de 20 000€ pour une association (40000€)",
+   "valeur_max": 40000,
+   "fin": "2026-11-30",
+   "jours_restants": 10,
+   "mecaniques": [
+    "Tirage au sort"
+   ],
+   "principe": "Laissez vos coordonnées + 3 questions + Sélectionnez l'association que vous soutenez",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Ouverte à tous"
+    },
+    {
+     "n": 2,
+     "r": "Dans les différents moments de leur vie"
+    },
+    {
+     "n": 3,
+     "r": "Oui, notamment à travers les projets qu'elle finance"
+    }
+   ],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://www.jeu-20ans.labanquepostale.fr/?utm_source=agence-reflexemedia"
+  },
+  {
+   "id": "b541f2c6d2",
+   "organisateur": "delko.fr",
+   "lot": "1 voiture 100% électrique customisée par un artiste (20 000€)",
+   "valeur_max": 20000,
+   "fin": "2026-11-30",
+   "jours_restants": 10,
+   "mecaniques": [
+    "Tirage au sort"
+   ],
+   "principe": "Laissez vos coordonnées + 1 question Vous obtenez une bon de réduction de 50 euros sur une prestation de révision en répondant correctement à la question et vous pouvez doubler vos chances en téléchar",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "439€"
+    }
+   ],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://www.reflexemedia.com/diff.php?c=1634"
+  },
+  {
    "id": "21f65aed17",
    "organisateur": "mnphotovideo.com",
    "lot": "2 lots comportant 1 appareil photo Panasonic Lumix S1II + 1 objectif Sigma (3890€)",
    "valeur_max": 3890,
    "fin": "2026-11-21",
-   "jours_restants": 2,
+   "jours_restants": 1,
    "mecaniques": [
     "Tirage au sort",
     "Instagram"
@@ -53,7 +120,7 @@
    "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
    "valeur_max": 28600,
    "fin": "2026-12-04",
-   "jours_restants": 15,
+   "jours_restants": 14,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"
@@ -63,57 +130,6 @@
    "departement": "",
    "frequence": "tous les jours",
    "lien": "https://www.reflexemedia.com/diff.php?c=1636"
-  },
-  {
-   "id": "20eb736fb5",
-   "organisateur": "mccain.fr",
-   "lot": "2 expériences VIP Tour de France pour 4 personnes comportant l'accès à une tribune VIP, le transport, une nuit d'hôtel et un dîner (3000€) 40 Air Fryer Ninja (150€) 60 maillots cyclistes McCain (33€) 500 paires de chauss",
-   "valeur_max": 3000,
-   "fin": "2026-11-30",
-   "jours_restants": 11,
-   "mecaniques": [
-    "Instants Gagnants",
-    "Fréquence quotidienne"
-   ],
-   "principe": "Laissez vos coordonnées + Instants Gagnants. Vous pouvez jouer tous les jours.",
-   "reponses": [],
-   "departement": "",
-   "frequence": "tous les jours",
-   "lien": "https://www.mccain.fr/jeu-tour-de-france/?utm_source=agence-reflexemedia.com"
-  },
-  {
-   "id": "a7bfe37cb9",
-   "organisateur": "intersport",
-   "lot": "1 séjour pour 4 personnes (2 adultes et 2 enfants de moins de 15 ans) au Club Les Alpes d'Azur à Serre-Chevalier (2376€)",
-   "valeur_max": 2376,
-   "fin": "2026-11-20",
-   "jours_restants": 1,
-   "mecaniques": [
-    "Tirage au sort",
-    "Instagram"
-   ],
-   "principe": "",
-   "reponses": [],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.instagram.com/intersportfr/p/DfpHQhUCsvr/"
-  },
-  {
-   "id": "838db27165",
-   "organisateur": "artetfenetres.com",
-   "lot": "1 chèque de 500€ (ou un virement, ce n'est pas précisé)",
-   "valeur_max": 500,
-   "fin": "2026-11-20",
-   "jours_restants": 1,
-   "mecaniques": [
-    "Instants Gagnants",
-    "Fréquence quotidienne"
-   ],
-   "principe": "Laissez vos coordonnées + Instants Gagnants. Vous pouvez jouer tous les jours.",
-   "reponses": [],
-   "departement": "",
-   "frequence": "tous les jours",
-   "lien": "https://ubishaker.com/fr/26/1793697361937286/home?utm_source=agence-reflexemedia"
   }
  ]
 }
