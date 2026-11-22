@@ -35,11 +35,13 @@ Et pour ceux qui ont une question à laquelle il faut répondre : les réponses 
 
 Et pour ceux qui ont une question à laquelle il faut répondre : les réponses sont déjà connues — question 1 : 439€.
 
-**4. mnphotovideo.com — 3 890 €**
+**4. lefigaro.fr — 3 700 €**
 
-2 lots comportant 1 appareil photo Panasonic Lumix S1II + 1 objectif Sigma (3890€)
+1 lot comportant 2 billets d'avion A/R Paris / Tahiti + 2 nuits d'hébergement en chambre double à Tahiti (3700€)
 
-Ça se termine le 21 novembre. Le règlement est en ligne, et le lien est dans la description.
+Ça se termine le 23 novembre. Le règlement est en ligne, et le lien est dans la description.
+
+Et pour ceux qui ont une question à laquelle il faut répondre : les réponses sont déjà connues — question 1 : Papeete ; question 2 : La fleur de tiaré ; question 3 : Les rencontres authentiques, la culture et l'immersion.
 
 Et puis, il y a ceux qu'on rejoue tous les jours. C'est là que le calcul devient intéressant : un jeu à 500 euros qu'on peut tenter chaque jour de la semaine vaut souvent mieux qu'un tirage unique à 200 euros. C'est tout l'objet de notre tableau de suivi : il trie par valeur réelle et par échéance, et il vous dit ce que vous n'avez pas encore tenté.
 

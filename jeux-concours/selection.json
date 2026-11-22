@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-21",
+ "genere_le": "2026-11-22",
  "jeux": [
   {
    "id": "79ca0f7bf5",
@@ -7,7 +7,7 @@
    "lot": "1 lot comportant 2 billets d'avion A/R Paris / Tahiti + 2 nuits d'hébergement en chambre double à Tahiti (3700€)",
    "valeur_max": 3700,
    "fin": "2026-11-23",
-   "jours_restants": 2,
+   "jours_restants": 1,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -36,7 +36,7 @@
    "lot": "2 expériences VIP Tour de France pour 4 personnes comportant l'accès à une tribune VIP, le transport, une nuit d'hôtel et un dîner (3000€) 40 Air Fryer Ninja (150€) 60 maillots cyclistes McCain (33€) 500 paires de chauss",
    "valeur_max": 3000,
    "fin": "2026-11-30",
-   "jours_restants": 9,
+   "jours_restants": 8,
    "mecaniques": [
     "Instants Gagnants",
     "Fréquence quotidienne"
@@ -53,7 +53,7 @@
    "lot": "1 lot comportant 1 virement bancaire de 20 000€ pour vous + 1 virement de 20 000€ pour une association (40000€)",
    "valeur_max": 40000,
    "fin": "2026-11-30",
-   "jours_restants": 9,
+   "jours_restants": 8,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -82,7 +82,7 @@
    "lot": "1 voiture 100% électrique customisée par un artiste (20 000€)",
    "valeur_max": 20000,
    "fin": "2026-11-30",
-   "jours_restants": 9,
+   "jours_restants": 8,
    "mecaniques": [
     "Tirage au sort"
    ],
@@ -98,21 +98,22 @@
    "lien": "https://www.reflexemedia.com/diff.php?c=1634"
   },
   {
-   "id": "21f65aed17",
-   "organisateur": "mnphotovideo.com",
-   "lot": "2 lots comportant 1 appareil photo Panasonic Lumix S1II + 1 objectif Sigma (3890€)",
-   "valeur_max": 3890,
-   "fin": "2026-11-21",
-   "jours_restants": 0,
+   "id": "df18748c97",
+   "organisateur": "auchan.fr",
+   "lot": "1 borne de jeu d'arcade (833€) 2 baby-foots Defaistre D110 (749€) 2 billards américains (599€) 3 consoles Sony PS5 (541€) 3 TV TCL (416€) 3 consoles Nintendo Switch 2 (358€) 3 casques de réalité virtuelle Meta Quest (299",
+   "valeur_max": 833,
+   "fin": "2026-11-23",
+   "jours_restants": 1,
    "mecaniques": [
     "Tirage au sort",
-    "Instagram"
+    "Jeu à score",
+    "Fréquence quotidienne"
    ],
-   "principe": "",
+   "principe": "Inscrivez-vous + Jeu. Tirage au sort parmi les 100 meilleurs scores. Vous pouvez jouer tous les jours pour améliorer votre score.",
    "reponses": [],
    "departement": "",
-   "frequence": "",
-   "lien": "https://www.instagram.com/mn.photovideo/p/DfPlE60o5IC/"
+   "frequence": "tous les jours pour améliorer votre score",
+   "lien": "https://jeu.auchan.fr/25jours?utm_source=agence-reflexemedia"
   },
   {
    "id": "82e9d29ac9",
@@ -120,7 +121,7 @@
    "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
    "valeur_max": 28600,
    "fin": "2026-12-04",
-   "jours_restants": 13,
+   "jours_restants": 12,
    "mecaniques": [
     "Tirage au sort",
     "Fréquence quotidienne"
