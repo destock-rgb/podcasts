@@ -1,6 +1,6 @@
 # Les bons jeux de la semaine — 23 novembre 2026
 
-**6 jeux retenus** parmi 423 jeux gratuits en cours. Tous sont sans obligation d'achat.
+**6 jeux retenus** parmi 424 jeux gratuits en cours. Tous sont sans obligation d'achat.
 
 ## 1. labanquepostale.fr — 40 000 €
 - **Lot** : 1 lot comportant 1 virement bancaire de 20 000€ pour vous + 1 virement de 20 000€ pour une association (40000€)
