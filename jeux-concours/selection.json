@@ -1,114 +1,13 @@
 {
- "genere_le": "2026-11-24",
+ "genere_le": "2026-11-25",
  "jeux": [
-  {
-   "id": "20eb736fb5",
-   "organisateur": "mccain.fr",
-   "lot": "2 expériences VIP Tour de France pour 4 personnes comportant l'accès à une tribune VIP, le transport, une nuit d'hôtel et un dîner (3000€) 40 Air Fryer Ninja (150€) 60 maillots cyclistes McCain (33€) 500 paires de chauss",
-   "valeur_max": 3000,
-   "fin": "2026-11-30",
-   "jours_restants": 6,
-   "mecaniques": [
-    "Instants Gagnants",
-    "Fréquence quotidienne"
-   ],
-   "principe": "Laissez vos coordonnées + Instants Gagnants. Vous pouvez jouer tous les jours.",
-   "reponses": [],
-   "departement": "",
-   "frequence": "tous les jours",
-   "lien": "https://www.mccain.fr/jeu-tour-de-france/?utm_source=agence-reflexemedia.com"
-  },
-  {
-   "id": "c6d5c9c476",
-   "organisateur": "labanquepostale.fr",
-   "lot": "1 lot comportant 1 virement bancaire de 20 000€ pour vous + 1 virement de 20 000€ pour une association (40000€)",
-   "valeur_max": 40000,
-   "fin": "2026-11-30",
-   "jours_restants": 6,
-   "mecaniques": [
-    "Tirage au sort"
-   ],
-   "principe": "Laissez vos coordonnées + 3 questions + Sélectionnez l'association que vous soutenez",
-   "reponses": [
-    {
-     "n": 1,
-     "r": "Ouverte à tous"
-    },
-    {
-     "n": 2,
-     "r": "Dans les différents moments de leur vie"
-    },
-    {
-     "n": 3,
-     "r": "Oui, notamment à travers les projets qu'elle finance"
-    }
-   ],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.jeu-20ans.labanquepostale.fr/?utm_source=agence-reflexemedia"
-  },
-  {
-   "id": "b541f2c6d2",
-   "organisateur": "delko.fr",
-   "lot": "1 voiture 100% électrique customisée par un artiste (20 000€)",
-   "valeur_max": 20000,
-   "fin": "2026-11-30",
-   "jours_restants": 6,
-   "mecaniques": [
-    "Tirage au sort"
-   ],
-   "principe": "Laissez vos coordonnées + 1 question Vous obtenez une bon de réduction de 50 euros sur une prestation de révision en répondant correctement à la question et vous pouvez doubler vos chances en téléchar",
-   "reponses": [
-    {
-     "n": 1,
-     "r": "439€"
-    }
-   ],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.reflexemedia.com/diff.php?c=1634"
-  },
-  {
-   "id": "82e9d29ac9",
-   "organisateur": "lebonnumero.fr",
-   "lot": "1 voiture Peugeot 2008 (28600€) Des virements de 1000€ (1000€) Des cartes cadeaux de 20€ (20€)",
-   "valeur_max": 28600,
-   "fin": "2026-12-04",
-   "jours_restants": 10,
-   "mecaniques": [
-    "Tirage au sort",
-    "Fréquence quotidienne"
-   ],
-   "principe": "Jeu gratuit type loterie : remplissez jusqu'à 3 grilles par jour pour participer au tirage quotidien. Vous pouvez jouer tous les jours.",
-   "reponses": [],
-   "departement": "",
-   "frequence": "tous les jours",
-   "lien": "https://www.reflexemedia.com/diff.php?c=1636"
-  },
-  {
-   "id": "8274404094",
-   "organisateur": "decathlontravel",
-   "lot": "1 séjour de 10 jours pour 1 personne à La Réunion au départ de Paris (2302€)",
-   "valeur_max": 2302,
-   "fin": "2026-11-25",
-   "jours_restants": 1,
-   "mecaniques": [
-    "Tirage au sort",
-    "Instagram"
-   ],
-   "principe": "",
-   "reponses": [],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.instagram.com/decathlontravel/p/Df46CYnCAft/"
-  },
   {
    "id": "287f4720bf",
    "organisateur": "orbea.com",
    "lot": "1 vélo Orbea personnalisé (8365€ max)",
    "valeur_max": 8365,
    "fin": "2026-12-01",
-   "jours_restants": 7,
+   "jours_restants": 6,
    "mecaniques": [
     "créatif avec vote",
     "créatif jury"
@@ -118,6 +17,41 @@
    "departement": "",
    "frequence": "",
    "lien": "https://www.ledemondujeu.com/jeux-concours-orbea.com.html"
+  },
+  {
+   "id": "42f2c20aba",
+   "organisateur": "mementomorishop.fr",
+   "lot": "",
+   "valeur_max": 0,
+   "fin": "2026-11-25",
+   "jours_restants": 0,
+   "mecaniques": [
+    "Tirage au sort",
+    "Fréquence quotidienne",
+    "Instagram"
+   ],
+   "principe": "Concours sur Instagram Suivez les instructions de la publication du jour pour participer",
+   "reponses": [],
+   "departement": "",
+   "frequence": "",
+   "lien": "https://www.ledemondujeu.com/jeux-concours-mementomorishop.fr.html"
+  },
+  {
+   "id": "34ea0e2dad",
+   "organisateur": "bobochicparis.com",
+   "lot": "",
+   "valeur_max": 0,
+   "fin": "2026-11-26",
+   "jours_restants": 1,
+   "mecaniques": [
+    "Tirage au sort",
+    "Fréquence quotidienne"
+   ],
+   "principe": "Laissez vos coordonnées + Retrouver le prix du meuble sur le site pour participer au tirage au sort du jour. Vous pouvez jouer tous les jours.",
+   "reponses": [],
+   "departement": "",
+   "frequence": "tous les jours",
+   "lien": "https://www.ledemondujeu.com/jeux-concours-bobochicparis.com.html"
   }
  ]
 }
