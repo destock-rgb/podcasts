@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-25",
+ "genere_le": "2026-11-26",
  "jeux": [
   {
    "id": "287f4720bf",
@@ -7,7 +7,7 @@
    "lot": "1 vélo Orbea personnalisé (8365€ max)",
    "valeur_max": 8365,
    "fin": "2026-12-01",
-   "jours_restants": 6,
+   "jours_restants": 5,
    "mecaniques": [
     "créatif avec vote",
     "créatif jury"
@@ -19,39 +19,39 @@
    "lien": "https://www.ledemondujeu.com/jeux-concours-orbea.com.html"
   },
   {
-   "id": "42f2c20aba",
-   "organisateur": "mementomorishop.fr",
+   "id": "dff7c46c49",
+   "organisateur": "pisse-dru.fr",
    "lot": "",
    "valeur_max": 0,
-   "fin": "2026-11-25",
-   "jours_restants": 0,
+   "fin": "2026-11-28",
+   "jours_restants": 2,
    "mecaniques": [
     "Tirage au sort",
-    "Fréquence quotidienne",
-    "Instagram"
-   ],
-   "principe": "Concours sur Instagram Suivez les instructions de la publication du jour pour participer",
-   "reponses": [],
-   "departement": "",
-   "frequence": "",
-   "lien": "https://www.ledemondujeu.com/jeux-concours-mementomorishop.fr.html"
-  },
-  {
-   "id": "34ea0e2dad",
-   "organisateur": "bobochicparis.com",
-   "lot": "",
-   "valeur_max": 0,
-   "fin": "2026-11-26",
-   "jours_restants": 1,
-   "mecaniques": [
-    "Tirage au sort",
+    "Instants Gagnants",
     "Fréquence quotidienne"
    ],
-   "principe": "Laissez vos coordonnées + Retrouver le prix du meuble sur le site pour participer au tirage au sort du jour. Vous pouvez jouer tous les jours.",
+   "principe": "Laissez vos coordonnées + Jeu + Tirage au sort ou Instants Gagnants selon les jours. Vous pouvez jouer tous les jours.",
    "reponses": [],
    "departement": "",
    "frequence": "tous les jours",
-   "lien": "https://www.ledemondujeu.com/jeux-concours-bobochicparis.com.html"
+   "lien": "https://www.ledemondujeu.com/jeux-concours-pisse-dru.fr.html"
+  },
+  {
+   "id": "9535d21364",
+   "organisateur": "entremont.com",
+   "lot": "",
+   "valeur_max": 0,
+   "fin": "2026-11-28",
+   "jours_restants": 2,
+   "mecaniques": [
+    "Instants Gagnants",
+    "Fréquence quotidienne"
+   ],
+   "principe": "Laissez vos coordonnées + Instants Gagnants. Vous pouvez jouer tous les jours.",
+   "reponses": [],
+   "departement": "",
+   "frequence": "tous les jours",
+   "lien": "https://www.ledemondujeu.com/jeux-concours-entremont.com.html"
   }
  ]
 }
