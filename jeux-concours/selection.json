@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-26",
+ "genere_le": "2026-11-27",
  "jeux": [
   {
    "id": "287f4720bf",
@@ -7,7 +7,7 @@
    "lot": "1 vélo Orbea personnalisé (8365€ max)",
    "valeur_max": 8365,
    "fin": "2026-12-01",
-   "jours_restants": 5,
+   "jours_restants": 4,
    "mecaniques": [
     "créatif avec vote",
     "créatif jury"
@@ -24,7 +24,7 @@
    "lot": "",
    "valeur_max": 0,
    "fin": "2026-11-28",
-   "jours_restants": 2,
+   "jours_restants": 1,
    "mecaniques": [
     "Tirage au sort",
     "Instants Gagnants",
@@ -42,7 +42,7 @@
    "lot": "",
    "valeur_max": 0,
    "fin": "2026-11-28",
-   "jours_restants": 2,
+   "jours_restants": 1,
    "mecaniques": [
     "Instants Gagnants",
     "Fréquence quotidienne"
