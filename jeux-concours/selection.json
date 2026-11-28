@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-27",
+ "genere_le": "2026-11-28",
  "jeux": [
   {
    "id": "287f4720bf",
@@ -7,7 +7,7 @@
    "lot": "1 vélo Orbea personnalisé (8365€ max)",
    "valeur_max": 8365,
    "fin": "2026-12-01",
-   "jours_restants": 4,
+   "jours_restants": 3,
    "mecaniques": [
     "créatif avec vote",
     "créatif jury"
@@ -24,7 +24,7 @@
    "lot": "",
    "valeur_max": 0,
    "fin": "2026-11-28",
-   "jours_restants": 1,
+   "jours_restants": 0,
    "mecaniques": [
     "Tirage au sort",
     "Instants Gagnants",
@@ -37,11 +37,11 @@
    "lien": "https://www.ledemondujeu.com/jeux-concours-pisse-dru.fr.html"
   },
   {
-   "id": "9535d21364",
+   "id": "eaf581f052",
    "organisateur": "entremont.com",
    "lot": "",
    "valeur_max": 0,
-   "fin": "2026-11-28",
+   "fin": "2026-11-29",
    "jours_restants": 1,
    "mecaniques": [
     "Instants Gagnants",

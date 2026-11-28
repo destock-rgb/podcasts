@@ -29,7 +29,7 @@ Bonjour. Chaque année, il y a des milliers de jeux concours en France. La grand
 
 
 
-Ça se termine le 28 novembre. Le règlement est en ligne, et le lien est dans la description.
+Ça se termine le 29 novembre. Le règlement est en ligne, et le lien est dans la description.
 
 Et puis, il y a ceux qu'on rejoue tous les jours. C'est là que le calcul devient intéressant : un jeu à 500 euros qu'on peut tenter chaque jour de la semaine vaut souvent mieux qu'un tirage unique à 200 euros. C'est tout l'objet de notre tableau de suivi : il trie par valeur réelle et par échéance, et il vous dit ce que vous n'avez pas encore tenté.
 
